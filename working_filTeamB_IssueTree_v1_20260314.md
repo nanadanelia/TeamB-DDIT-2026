@@ -9,7 +9,17 @@ Issue trees help teams decompose a large strategic problem into smaller, analyza
 Use this template after your team has agreed on a client context and a broad strategic challenge. Do not jump to recommendations. First structure the problem.
 
 ---
+Answer — Governing Thought
+The retailer must accelerate its digital and omnichannel transformation within the next 12–18 months to prevent further customer loss to e-commerce competitors.
 
+Argument 1
+Customers are shifting rapidly toward online and omnichannel shopping.
+
+Argument 2
+The retailer’s digital experience and pricing competitiveness lag behind leading e-commerce platforms.
+
+Argument 3
+Operational inefficiencies and slow fulfillment reduce the retailer’s competitiveness.
 ## Part 1. Core question
 
 Write the central strategic question in one sentence.
