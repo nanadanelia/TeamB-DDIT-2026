@@ -19,8 +19,8 @@ Write the central strategic question in one sentence.
 How should [client or focal company] respond to [digital disruption force] in order to [strategic goal]?
 
 **Your draft**
-- Core question:
-- Why this question matters:
+- Core question: How should a traditional retail company respond to digital disruption from e-commerce platforms in order to maintain growth and competitiveness?
+- Why this question matters: Online retail and digital platforms are rapidly changing how customers shop. Traditional retailers must adapt their strategy to remain competitive against digital-first companies.
 
 ---
 
@@ -36,24 +36,25 @@ Common examples:
 - organizational capability.
 
 **Branch 1**
-- Label:
-- Why it belongs:
+- Label: Customer behavior and expectations
+- Why it belongs: Digital disruption in retail starts with how customers shop, compare products, expect convenience, and interact across online and offline channels.
+
 
 **Branch 2**
-- Label:
-- Why it belongs:
+- Label: Competitive and market dynamics
+- Why it belongs: Retail firms must respond to pressure from e-commerce players, digital-native brands, marketplaces, and changing industry structure.
 
 **Branch 3**
-- Label:
-- Why it belongs:
+- Label: Technology and digital capabilities
+- Why it belongs: The company’s ability to use digital tools, platforms, and data determines whether it can meet new retail demands effectively.
 
 **Branch 4**
-- Label:
-- Why it belongs:
+- Label: Operating model and supply chain
+- Why it belongs: Digital retail success depends not only on the front-end customer experience, but also on inventory, fulfillment, logistics, and store operations.
 
 **Branch 5, optional**
-- Label:
-- Why it belongs:
+- Label: Organizational readiness and business model
+- Why it belongs: Even if opportunities are clear, the retailer must have the leadership, skills, structure, and revenue model to execute transformation.
 
 ---
 
