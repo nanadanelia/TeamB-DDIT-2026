@@ -1,58 +1,26 @@
-# Issue Tree Template
+**Issue Tree **
 
-## Purpose
-
-Issue trees help teams decompose a large strategic problem into smaller, analyzable components. A strong issue tree is MECE: mutually exclusive and collectively exhaustive.
-
-## Instructions
-
-Use this template after your team has agreed on a client context and a broad strategic challenge. Do not jump to recommendations. First structure the problem.
-
----
-Answer — Governing Thought
-The retailer must accelerate its digital and omnichannel transformation within the next 12–18 months to prevent further customer loss to e-commerce competitors.
-
-Argument 1
-Customers are shifting rapidly toward online and omnichannel shopping.
-
-Argument 2
-The retailer’s digital experience and pricing competitiveness lag behind leading e-commerce platforms.
-
-Argument 3
-Operational inefficiencies and slow fulfillment reduce the retailer’s competitiveness.
-## Part 1. Core question
-
-Write the central strategic question in one sentence.
-
-**Format suggestion**
-
-How should [client or focal company] respond to [digital disruption force] in order to [strategic goal]?
-
-**Your draft**
-- Core question: How should a traditional retail company respond to digital disruption from e-commerce platforms in order to maintain growth and competitiveness?
-- Why this question matters: Online retail and digital platforms are rapidly changing how customers shop. Traditional retailers must adapt their strategy to remain competitive against digital-first companies.
+- **Core question:** How should a traditional retail company respond to digital disruption from e-commerce platforms in order to maintain growth and competitiveness?
+- **Why this question matters**
+Retail is undergoing major disruption due to:
+  growth of online marketplaces
+  increased price transparency
+  data-driven marketing and personalization
+  changing consumer expectations for convenience and speed
 
 ---
 
 ## Part 2. First-level branches
 
-Break the problem into three to five top-level drivers.
-
-Common examples:
-- market shifts,
-- customer shifts,
-- technology shifts,
-- competitive response,
-- organizational capability.
 
 **Branch 1**
-- Label: Customer behavior and expectations
-- Why it belongs: Digital disruption in retail starts with how customers shop, compare products, expect convenience, and interact across online and offline channels.
+- Label: Customer behavior shifts
+- Why it belongs: Retail disruption is strongly driven by changing consumer expectations such as online shopping, fast delivery, and personalized experiences.
 
 
 **Branch 2**
-- Label: Competitive and market dynamics
-- Why it belongs: Retail firms must respond to pressure from e-commerce players, digital-native brands, marketplaces, and changing industry structure.
+- Label: Competitive landscape
+- Why it belongs: Retailers now compete with global e-commerce platforms, direct-to-consumer brands, and marketplace ecosystems.
 
 **Branch 3**
 - Label: Technology and digital capabilities
@@ -98,7 +66,6 @@ Now break each first-level branch into sub-drivers.
 
 ## Part 4. Hypothesis extraction
 
-Convert each major branch into a testable hypothesis.
 
 **Hypothesis 1**
 - Statement: At least 35% of customers aged 18–35 prefer purchasing through online channels, but the retailer generates less than 15% of its sales through e-commerce, contributing significantly to customer loss.
