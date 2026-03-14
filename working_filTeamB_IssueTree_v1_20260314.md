@@ -91,20 +91,20 @@ Now break each first-level branch into sub-drivers.
 Convert each major branch into a testable hypothesis.
 
 **Hypothesis 1**
-- Statement: The retailer is losing customers because it has not adapted to changing customer expectations for convenient, omnichannel, and personalized shopping experiences.
-- Why it seems plausible: Consumers increasingly expect seamless shopping across online and offline channels, fast delivery, and personalized offers. Retailers that fail to provide these features often experience declining customer engagement and loyalty compared to digital-first competitors.
+- Statement: At least 35% of customers aged 18–35 prefer purchasing through online channels, but the retailer generates less than 15% of its sales through e-commerce, contributing significantly to customer loss.
+- Why it seems plausible: Younger customers increasingly prefer digital shopping channels. If the retailer has a weak online presence compared to competitors, it may be unable to meet customer expectations for convenience and accessibility.
 
 **Hypothesis 2**
-- Statement: The retailer is losing market share due to stronger competition from digital-native retailers and large e-commerce platforms.
-- Why it seems plausible: Online marketplaces and digital-native brands often offer lower prices, wider product selection, and faster service. These advantages can attract customers away from traditional retailers that rely heavily on physical stores.
+- Statement: The retailer’s average product prices are at least 10–15% higher than leading online competitors, explaining a significant portion of customer switching to e-commerce platforms.
+- Why it seems plausible: Online platforms often operate with lower operational costs and aggressive pricing strategies. If the retailer cannot compete on price transparency and competitiveness, customers may migrate to cheaper digital alternatives.
 
 **Hypothesis 3**
-- Statement: The retailer’s limited digital and technological capabilities are preventing it from delivering an effective online and data-driven retail experience.
-- Why it seems plausible: Many traditional retailers operate with outdated systems, limited data analytics, and poorly integrated online platforms. This can result in slow websites, lack of personalization, and weak digital engagement compared to technologically advanced competitors.
+- Statement: The retailer’s online platform usability rating is below 3.5/5 on major review platforms, while leading competitors maintain ratings above 4.3/5, leading to lower customer satisfaction and engagement.
+- Why it seems plausible: Digital experience strongly influences online purchasing behavior. Poor website or mobile platform performance can discourage customers from completing purchases or returning in the future.
 
 **Hypothesis 4**
-- Statement: Inefficient operations and supply chain processes are limiting the retailer’s ability to compete in a fast, digitally driven retail environment.
-- Why it seems plausible: Digital retail requires accurate inventory management, fast order fulfillment, and efficient logistics. If these operational systems are not optimized, retailers may struggle with stock availability, delivery speed, and higher operational costs.
+- Statement: The retailer’s average delivery or order fulfillment time exceeds 4 days, while leading competitors deliver within 1–2 days, reducing competitiveness in the digital retail market.
+- Why it seems plausible: Fast delivery has become a key competitive advantage in retail. If fulfillment processes are slow due to inefficient logistics or inventory systems, customers may prefer faster digital competitors.
 
 ---
 
