@@ -16,10 +16,10 @@ Teams that arrive at Weekend 2 without Sprint 1 deliverables lose the most valua
 
 ## Team Information
 
-- Team name:
-- Industry context:
-- Sprint 1 owner (Recorder role for this sprint):
-- Members:
+- Team name: TeamB
+- Industry context: 
+- Sprint 1 owner (Recorder role for this sprint): Nani Danelia
+- Members: Nani Danelia, Daviti Mtchedlishvili, Daviti Kulua
 
 ---
 
