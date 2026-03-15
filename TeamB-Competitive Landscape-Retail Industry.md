@@ -34,15 +34,86 @@ This analysis focuses primarily on the **organized grocery/FMCG retail segment**
 
 # Statistical Overview and Market Trends
 
-The Georgian retail industry has experienced steady growth over the past decade, driven by rising incomes, urbanization, tourism growth, and the expansion of modern retail chains.
+# Online vs. Offline Shopping: Channel Comparison and Trends
 
-Retail trade is one of the largest sectors in Georgia’s economy and represents a significant share of total economic activity and employment.
+*Sources: TBC Capital FMCG Sector Reports (2024–2025), Galt & Taggart E-Commerce Report (2025), National Bank of Georgia Payment Statistics, Payments Laboratory (2025).*
 
-## Retail turnover growth
+---
 
-Retail turnover has grown significantly over the last decade. Total retail trade turnover increased from approximately **₾14–15 billion in the mid-2010s to more than ₾25 billion in recent years**. This growth reflects economic expansion, rising consumer spending, and inflation.
+## Channel Size and Share
 
-Food and FMCG retail accounts for the largest share of retail spending because grocery purchases occur frequently and are essential household expenses.
+The starting point is proportion. Offline retail still dominates Georgian consumer spending by a wide margin, but the balance is shifting year by year in one direction only.
+
+| Channel | Value | Share of Retail Turnover | YoY Growth |
+|---|---|---|---|
+| Total retail turnover | GEL ~25bn | 100% | +9.5% (2024) |
+| Offline (physical) | GEL ~23bn | ~92% | +7–8% |
+| Total e-commerce (online) | GEL 3.5bn | 8.0% (H1 2025) | +40.6% (H1 2025) |
+| — Local e-commerce | GEL 2.1bn | 2.2% of retail | +25–30% |
+| — Cross-border e-commerce | GEL 1.4bn | 5.8% of retail | +56.7% (H1 2025) |
+| — Services (Wolt, Glovo etc.) | GEL 1.6bn | included in e-com | fast-growing |
+
+The gap is still large — 92% offline versus 8% online — but the direction is unambiguous. E-commerce penetration has more than doubled since 2021, when it stood at 3.6%, and is forecast to reach 13% of retail turnover by 2030. Every percentage point of share shift at Georgia's total retail scale represents hundreds of millions of GEL moving from physical to digital channels annually.
+
+---
+
+## What Consumers Buy Online vs. Offline
+
+The channel split is not uniform across product categories. It follows a clear pattern governed by two factors: the importance of physical inspection and the tolerance for delivery wait time.
+
+**Offline dominates where freshness, immediacy, or touch matters.** Grocery and fresh food remain overwhelmingly physical — the bazaar and the neighborhood supermarket are the default for daily food shopping. Pharmacy and personal care are still largely in-store. High-involvement purchases like furniture, appliances, and cars remain physical because consumers want to see before they buy.
+
+**Online dominates or is rapidly growing where price and variety trump immediacy.** Electronics, household appliances, and equipment account for 65% of local e-commerce sales in Georgia, as retailers in this category were the first to invest meaningfully in digital channels. Fashion and apparel online purchasing is growing rapidly via cross-border platforms (Trendyol, Zara.com, Farfetch), where the variety available digitally far exceeds what any Georgian mall carries. Non-perishable household goods — cleaning products, personal care, stationery — are the fastest-growing cross-border category, driven almost entirely by Temu.
+
+| Category | Primary Channel | Trend |
+|---|---|---|
+| Fresh food & grocery | Offline (physical store / bazaar) | Stable offline; micro-shift to delivery aggregators |
+| Electronics & appliances | Online growing fast | 65% of local e-com revenue; cross-border accelerating |
+| Fashion & apparel | Mixed; cross-border gaining | Trendyol, Zara.com eating share from Georgian malls |
+| Pharmacy & personal care | Offline dominant | Slowly digitalizing; Temu competing on non-OTC items |
+| Home & furniture | Offline dominant | Limited online penetration; logistics barrier |
+| Food delivery (restaurants) | Online (aggregators) | Wolt, Glovo, Bolt — fast-growing, Tbilisi-concentrated |
+| Non-perishable household goods | Cross-border growing fast | Temu's primary growth category in Georgia |
+
+---
+
+## Payment Behavior: The Digital Transition in Numbers
+
+Card and digital payment data from TBC Capital and the National Bank of Georgia provide a precise picture of how Georgian consumers are transacting — and how rapidly behavior is changing.
+
+TBC Bank's non-cash spending increased by 21% year-on-year, while the number of non-cash transactions grew by 13% — meaning average transaction values are rising as digital payments become normalized across more and more purchase occasions, not just large-ticket items. Within grocery specifically, non-cash grocery spending increased by 22% annually, with an average spending per transaction of GEL 16 — confirming that even micro-transactions at convenience stores are now predominantly digital.
+
+As of May 2025, approximately 130,000 POS terminals are operating across Georgia — a 6.5% increase over the previous year and a 29% rise over two years. In that month alone, POS transactions totaled GEL 2.1 billion, some GEL 500 million higher than the same month the previous year. Annual POS transaction volume has exceeded GEL 13.4 billion, reflecting a 49% year-on-year increase.
+
+The card-vs-cash paradox, however, reveals an important nuance. In H1 2025, 90.71% of card transactions by number in Georgia were payments — a share that has steadily risen from 83.66% in H1 2022. Yet 53.57% of card transactions by volume (GEL value) are still cash withdrawals. While this share has been declining from 64.82% in H1 2022, the pace of change remains relatively slow.
+
+The interpretation: Georgian consumers have embraced card payments for everyday, low-value transactions (groceries, coffee, convenience stores) but still reach for cash for larger purchases. Cards have won the frequency battle; cash still wins the value battle. This has direct retail implications — physical retailers who have not installed POS terminals are now actively losing small-ticket transactions to competitors who have, but premium and high-ticket categories still require cash-acceptance infrastructure.
+
+---
+
+## Online vs. Offline: Key Behavioral Differences
+
+**Speed of decision-making.** Online shopping in Georgia — particularly via cross-border platforms — is driven by price discovery. Temu's Georgian users are primarily motivated by price, not brand loyalty. Offline shoppers in Georgian modern retail chains make faster, habitual decisions based on proximity and familiarity. The consideration cycle is much shorter in-store than online.
+
+**Basket composition.** Offline baskets are mixed — fresh, branded, and staple goods purchased in one trip. Online baskets are narrower and more category-specific: an AliExpress order is typically electronics accessories or household items; a Veli.Store order is typically a planned grocery replenishment rather than a spontaneous browse. The shopper is the same person using both channels for different jobs.
+
+**Trust differential.** A significant digital divide remains in Georgia, with infrastructure gaps — particularly in smaller towns and rural areas — and high merchant service fees discouraging card acceptance among small merchants. Trust in product authenticity is a known constraint for cross-border platforms specifically. Georgian consumers have reported quality inconsistency with Temu purchases in product reviews, yet continue to buy because the price advantage outweighs the trust deficit for low-risk, low-cost goods. For food and personal care, the trust barrier keeps offline dominant.
+
+**Demographic split.** Urban Tbilisi consumers aged 18–45 are the primary drivers of e-commerce growth in Georgia. Regional consumers, older demographics, and lower-income households remain predominantly offline — both by preference and by infrastructure constraint. As of 2022, roughly 24% of the Georgian population had ordered or purchased goods or services online in the past year — a figure that has grown since but still leaves the majority of Georgians as offline-only shoppers.
+
+**Tourism overlay.** Non-cash spending by non-residents in Georgia increased by 39% year-on-year — a significant signal that tourist spending is heavily card-based and concentrated in physical retail (fashion, restaurants, pharmacies, souvenirs). This creates a seasonal offline spending surge that benefits Tbilisi retailers disproportionately and reinforces the case for POS terminal investment in tourist-concentrated locations.
+
+---
+
+## The Structural Shift: What the Numbers Mean
+
+Three conclusions follow directly from the channel data.
+
+1. **Online-offline split will narrow steadily but not dramatically.** E-commerce is growing at 40%+ annually, but from a base of 8% penetration against an offline base of 92%. Physical retail will remain the dominant channel by volume for at least the next five years. The relevant question is not whether offline dies — it will not — but which offline formats survive and which categories bleed irreversibly to digital.
+
+2. **Payment infrastructure gap is closing faster than e-commerce gap.** The 49% YoY growth in POS transaction volumes signals that digital payment behavior is mainstreaming rapidly even in physical stores. This creates an opportunity: retailers who combine physical presence with digital payment data can start building the customer behavioral insights that pure online-only players have always had and that offline-only players have historically lacked.
+
+3. **Cross-border e-commerce is the most structural threat.** When a Georgian consumer buys from Temu, no Georgian retailer, distributor, or logistics operator captures meaningful value from that transaction. The GEL 1.4 billion in cross-border spending in 2024 — growing at 57% per year — represents a portion of consumer wallet that has effectively left the Georgian retail ecosystem. Domestic retailers and the Georgian banking ecosystem (TBC, BOG) have a shared interest in building compelling local digital alternatives before that wallet share becomes habitual and therefore structurally locked in to foreign platforms.
 
 ## Expansion of organized retail
 
