@@ -114,13 +114,13 @@ By the end of this sprint, the team must have three preliminary strategic option
 
 Define the meeting cadence for this sprint. Teams that do not meet weekly lose analytical coherence.
 
-| Meeting # | Date | Time | Duration | Agenda | Location or Platform |
-|---|---|---|---|---|---|
-| Check-in 1 | | | 45 min | Hypothesis review and blocker removal | |
-| Working session 1 | | | 90 min | Competitive landscape update and research synthesis | |
-| Check-in 2 | | | 45 min | Strategic options discussion | |
-| Working session 2 | | | 90 min | Artifact drafting and integration | |
-| Pre-weekend review | | | 60 min | Final artifact review and gap check | |
+| Meeting            | Date   | Time  | Duration | Agenda                | Platform |
+|--------------------|--------|-------|----------|-----------------------|----------|
+| Check-in 1         | Mar 18 | 19:00 | 45 min   | Hypothesis review     | Teams    |
+| Working session    | Mar 21 | 19:00 | 90 min   | Competitive landscape | Teams    |
+| Check-in 2         | Mar 25 | 19:00 | 45 min   | Strategic options     | Teams    |
+| Working session    | Mar 29 | 19:00 | 90 min   | Draft artifacts       | Teams    |
+| Pre-weekend review | Apr 3  | 19:00 | 60 min   | Final review          | Teams    |
 
 ---
 
