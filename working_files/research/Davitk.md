@@ -1,45 +1,64 @@
-# 2026 Competitive Landscape: Retail, Pharma, & Tech (GE & Global)
+# 2026 Competitive Landscape: Retail Ecosystem (GE & Global)
+
+## Summary of Findings
+The retail landscape has transitioned into a "Lifestyle Infrastructure." Success is no longer determined by foot traffic, but by **Data Orchestration** and **Physical Proximity**. In Georgia, physical store density is the primary defense against global digital invaders like Temu.
+
+---
 
 ## Part 1. Porter Five Forces
-### New Entrants (High)
-* Barrier: AI-native tech stack & Physical Consolidation.
-* Implication: Focus on localized services that digital-only platforms cannot replicate.
 
-### Buyers (High)
-* Concentration: Low but "Digitally Pooled" via AI Agents.
-* Implication: Raise switching costs by bundling groceries, pharma, and tech support.
+### Threat of New Entrants
+- **Force Rating:** High
+- **Barriers to Entry:** High physical consolidation in GE; high AI-Infrastructure costs globally.
+- **Likely Entrants:** Cross-border platforms (Temu, Trendyol) and Agentic Commerce AI.
+- **Strategic Implication:** Build "Experience Moats" through services that digital-only platforms cannot replicate.
 
-### Suppliers (High)
-* concentration: Controlled by "AI Big Three" and Global "Category Kings."
-* Implication: Pursue backward integration to reduce dependency on distributors.
+### Bargaining Power of Buyers
+- **Force Rating:** High
+- **Main Buyers:** Machine Customers (AI Agents) and the "Omniconsumer."
+- **Switching Ease:** Extremely High due to high store density and one-click digital checkouts.
+- **Strategic Implication:** Implement "Ecosystem Lock-in" by bundling groceries with pharmacy, tech, and delivery.
 
-### Substitutes (Medium)
-* Alternatives: Bazaars and Re-commerce (Used Tech).
-* Implication: Launch "Certified Pre-owned" lines to capture the circular economy.
+### Bargaining Power of Suppliers
+- **Force Rating:** High
+- **Critical Suppliers:** Big Tech (AI Infrastructure) and Regional Distributor Gatekeepers.
+- **Strategic Implication:** Pursue backward vertical integration to shield margins from distributor leverage.
 
-### Rivalry (High)
-* Basis: Digital orchestration and real-time delivery speed.
-* Implication: Automate logistics to fund aggressive price-matching.
+### Threat of Substitutes
+- **Force Rating:** Medium
+- **Alternatives:** Traditional Bazaars (Freshness) and Re-commerce (Sustainability/Price).
+- **Strategic Implication:** Launch in-house "Trade-in" and "Farm-to-Shelf" lines to internalize the substitute.
+
+### Competitive Rivalry
+- **Force Rating:** High
+- **Basis of Competition:** Delivery speed and real-time algorithmic price matching.
+- **Strategic Implication:** Automate back-office logistics to reinvest in aggressive price wars.
 
 ---
 
 ## Part 2. Value Chain Analysis
-| Stage | Main activities | Main actors | Profit | Digital Pressures |
+
+| Stage | Main Activities | Main Actors | Profit Concentration | Digital Pressure Points |
 |---|---|---|---|---|
-| Sourcing | Predictive AI | Nikora, PSP, Samsung | High | Digital Twins |
-| Ops | Micro-Fulfillment | Zoommer, Daily Group | Med | Computer Vision |
-| Marketing | Retail Media | Carrefour, Veli.Store | Extreme | Agentic SEO |
-| Logistics | Last-Mile | Wolt, Glovo, Temu | Low | Autonomous Fleet |
+| Sourcing | Predictive AI Procurement | Nikora, PSP, Samsung | High | Digital Twins |
+| Operations | Micro-Fulfillment (MFCs) | Zoommer, Daily Group | Medium | Computer Vision |
+| Marketing | Retail Media Networks | Carrefour, Veli.Store | Extreme | Agentic SEO |
+| Logistics | Last-Mile Orchestration | Wolt, Glovo, Temu | Low | Autonomous Fleet |
 
 ### Interpretation
-* **Most Defensible:** Sourcing (Vertical Integration).
-* **Vulnerable:** Marketing (AI Agent screening).
+- **Most Vulnerable:** Marketing (disintermediated by AI agents).
+- **Most Defensible:** Sourcing (vertical integration).
+- **Platform Opportunity:** The Unified Inventory Orchestration Layer.
 
 ---
 
 ## Part 3. Jobs-to-be-Done (JTBD)
-* **Job:** "Enable my lifestyle with zero friction and guaranteed trust."
-* **Emotional Needs:** Peace of Mind, Tech Status, Anxiety Reduction.
-* **Alternative Solutions:** Direct (Branded apps), Indirect (Bazaars, DIY tutorials).
-* **Interpretation:** Hidden competition is "Cognitive Load." 
-* **Non-Consumption:** Rural elderly populations in Georgia ("Silver Tech Desert").
+
+### Core Customer Job
+"Enable my modern, high-functioning lifestyle with zero friction and guaranteed trust."
+
+### Non-Consumption Opportunity
+**The Rural Silver Tech Desert:** Elderly Georgians in mountainous regions lacking access to tech support and pharmacy variety.
+
+### Hidden Competition
+**Cognitive Load:** The friction of decision-making. Customers will hire whatever service requires the least amount of thinking.
