@@ -5,6 +5,55 @@ The retail landscape has transitioned into a "Lifestyle Infrastructure." Success
 
 ---
 
+
+# 2026 Sector Statistics: Georgia Retail Deep-Dive
+
+This section details market concentration and key players across Georgia's primary retail sectors as of March 2026.
+
+---
+
+## 1. Grocery & FMCG
+The grocery market has seen the most aggressive consolidation in Georgian history. In 2026, the "Modern Trade" segment (organized chains) has finally surpassed the "Traditional Trade" (mom-and-pop shops) in Tbilisi, though regional markets remain a battleground.
+
+| Rank | Player | Brand(s) | Modern Segment Share | Strategic Note |
+|:---:|---|---|:---:|---|
+| 1 | **Daily Group** | Spar, Magniti, Daily, Gvirila, Ioli, Kalata | ~33% | The "Super-incumbent" following the massive 2024 mergers. Operates 1,600+ stores. |
+| 2 | **Ori Nabiji** | 2-Nabiji | ~20.5% | Efficiency leader; highest store density in residential Tbilisi with 635+ locations. |
+| 3 | **Nikora Trade** | Nikora, Libre | ~18.7% | Most vertically integrated; 20% share in Tbilisi specifically. |
+| 4 | **Carrefour GE** | Carrefour (Majid Al Futtaim) | ~13% | High-value hypermarket leader; dominant in "Retail Media" monetization. |
+| 5 | **Premium Group** | Agrohub, Goodwill | ~8% | Combined niche leaders for the high-income and expat segments. |
+
+- **Concentration:** The **Top 5** control **~87%** of the Modern Trade revenue as of 2026.
+- **National Divide:** Modern chains hold **54%** of the market in Tbilisi but only **28%** in the regions, leaving a "Blue Ocean" for expansion in Kvemo Kartli and Kakheti.
+
+---
+
+## 2. Pharmacy & Healthcare
+The pharmaceutical market is a "tight oligopoly" with extreme vertical integration into clinics and private insurance.
+
+| Rank | Player | Brand(s) | Estimated Market Share | Strategic Note |
+|:---:|---|---|:---:|---|
+| 1 | **GEPHA (GHG)** | GPC, Pharmadepot | ~32% | Dual-brand strategy targeting both premium (GPC) and mass (Pharmadepot) segments. |
+| 2 | **PSP Pharma** | PSP | ~27% | Leader in AI-driven inventory; first to implement real-time patient-regime tracking. |
+| 3 | **Aversi** | Aversi | ~24% | Owns the largest private clinic network, creating a closed-loop patient ecosystem. |
+| 4 | **Impex** | Impex | ~6% | Focused on aggressive price promotions and "Beauty & Care" expansions. |
+| 5 | **Pharmadom** | Various | ~3% | Specialized group focusing on wholesale and rare medical supplies. |
+
+- **Top 3 Concentration:** Control over **83%** of all imports and retail volume.
+
+---
+
+## 3. Electronics & Household Appliances
+The sector with the highest "Digital Pressure" due to high-ticket transparency and the rise of local digital-native platforms.
+
+| Rank | Player | Strategic Focus | Estimated Market Share |
+|:---:|---|---|:---:|
+| 1 | **Zoommer** | Mobile & Gadgets | ~28% | Youth-segment leader; dominates the "low-margin/high-volume" smartphone market. |
+| 2 | **Alta** | IT & Enterprise | ~22% | Official partner for Apple/Samsung; leads in B2B and high-end IT infrastructure. |
+| 3 | **Elit Electronics** | White Goods | ~19% | Largest physical network for large appliances (Bosch, Gorenje). |
+| 4 | **Smiley / Metro** | Lifestyle Tech | ~8% | Focused on mall-based "Experience Centers." |
+| 5 | **Veli.store** | Pure-Play E-comm | ~6% | Fast-growing digital disruptor with zero physical retail legacy. |
+
 ## Part 1. Porter Five Forces
 
 ### Threat of New Entrants
