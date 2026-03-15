@@ -271,10 +271,3 @@ Because Georgia’s grocery market is still primarily offline, so actual willing
 | 2 | What is the true economics of delivery vs. click-and-collect in Tbilisi, Batumi, and Kutaisi? | Cost-per-order estimate, route density analysis, staffing model, delivery fee benchmark | [Owner] | [Due Date] |
 | 3 | How much of online revenue would be incremental vs. cannibalized from in-store sales? | Basket analysis, customer interviews, retail benchmark studies | [Owner] | [Due Date] |
 
----
-
-## Submission
-
-Save this file as: `TeamX_ROIPrimerWorksheet_v0_YYYYMMDD`
-
-Upload to your team folder in Microsoft Teams by Sunday 18:00.
