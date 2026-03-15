@@ -35,18 +35,15 @@ Use all three. They answer different questions.
 - Strategic implication: Vertically integrate key imports or diversify to Eastern Europe sources
 
 ## Threat of substitutes
-- What alternatives solve the same job?: E-commerce (Glovo, Wolt delivery), open markets, global players like Amazon entering via Caucasus logistics.
-- Why would customers switch?: Convenience, lower prices online, or fresher local bazaars.
-- Force rating: Medium
-- Strategic implication: Invest in omnichannel (click-and-collect) to counter digital substitutes.
+- What alternatives solve the same job?: Temu (50% transaction share in cross-border e-com), alongside bazaars and delivery apps.
+​- Why would customers switch?: Ultra-low prices and 7-14 day delivery, eroding local chains' edge in groceries (Daily/Nikora) and apparel (Zara).
+​- Force rating: High
+- Strategic implication: Accelerate omnichannel to match Temu's speed.
   
 ## Competitive rivalry
-- Number and type of competitors: Top 5 chains (Daily, 2-Nabiji, Nikora) hold 75% share; fragmented smaller players; global like Carrefour influences via format.
-​- Basis of competition: Location, price, assortment; some innovation in private labels.
-- Price intensity: High in groceries, medium in durables.
-- Innovation intensity: Low-medium, rising with apps.
+- Number and type of competitors: Grocery dominators (Daily ~28% share) plus Zara/Gorgia in malls; Temu holds nearly 2/3 of e-com traffic.
+- Basis of competition: Price wars intensified by Temu's low-ticket items.
 - Force rating: High
-- Strategic implication: Differentiate via regional expansion and tech-enabled personalization.
 
 ---
 
@@ -91,4 +88,4 @@ What job is the customer trying to get done?: Quickly access everyday goods (gro
 - Indirect: Street markets, online delivery (Wolt), global e-tailers.
 
 ## Interpretation
-What does this reveal about hidden competition?: Hidden competition from informal markets and quick-commerce apps undercuts chains on immediacy, revealing opportunities for hybrid physical-digital models.
+What does this reveal about hidden competition?: Hidden competition from informal markets, quick-commerce apps and global e-tailers undercuts chains on immediacy, revealing opportunities for hybrid physical-digital models.
