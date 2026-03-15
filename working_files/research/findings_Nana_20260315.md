@@ -14,39 +14,39 @@ Use all three. They answer different questions.
 # Part 1. Porter Five Forces
 
 ## Threat of new entrants
-- Barriers to entry:
-- Sources of advantage for current leaders:
-- Likely new entrants:
-- Force rating: Low / Medium / High
-- Strategic implication:
+- Barriers to entry: High initial capital for real estate, supply chains, and inventory; regulatory hurdles in Georgia like licensing and import duties.
+- Sources of advantage for current leaders: Economies of scale from chains like Daily Group (27.6% market share), strong local supplier networks, and brand loyalty in Tbilisi and regions.
+​- Likely new entrants: Regional expansions from Turkish or Russian chains; e-commerce platforms like local Metromart.
+​- Force rating: Medium
+- Strategic implication: Leaders should consolidate via acquisitions to block scale-seeking entrants.
 
 ## Bargaining power of buyers
-- Who are the main buyers?
-- How concentrated are they?
-- How easy is switching?
-- Force rating: Low / Medium / High
-- Strategic implication:
+- Who are the main buyers?: Individual consumers in urban Tbilisi (majority) and regional households.
+- How concentrated are they?: Highly fragmented, no single buyer dominates.
+- How easy is switching?: Very easy due to similar products and proximity of stores like Nikora or 2-Nabiji.
+​- Force rating: High
+- Strategic implication: Focus on loyalty programs and private labels to reduce price-based switching.
 
 ## Bargaining power of suppliers
-- Who are the critical suppliers?
-- How concentrated are they?
-- How replaceable are they?
-- Force rating: Low / Medium / High
-- Strategic implication:
+- Who are the critical suppliers?: Local food producers, importers for electronics/appliances (e.g., METROMART).
+- How concentrated are they?: Moderately concentrated; imports from Turkey/EU give options but logistics vulnerabilities exist.
+- How replaceable are they?: Fairly replaceable except for perishable goods.
+- Force rating: Medium
+- Strategic implication: Vertically integrate key imports or diversify to Eastern Europe sources
 
 ## Threat of substitutes
-- What alternatives solve the same job?
-- Why would customers switch?
-- Force rating: Low / Medium / High
-- Strategic implication:
-
+- What alternatives solve the same job?: E-commerce (Glovo, Wolt delivery), open markets, global players like Amazon entering via Caucasus logistics.
+- Why would customers switch?: Convenience, lower prices online, or fresher local bazaars.
+- Force rating: Medium
+- Strategic implication: Invest in omnichannel (click-and-collect) to counter digital substitutes.
+  
 ## Competitive rivalry
-- Number and type of competitors:
-- Basis of competition:
-- Price intensity:
-- Innovation intensity:
-- Force rating: Low / Medium / High
-- Strategic implication:
+- Number and type of competitors: Top 5 chains (Daily, 2-Nabiji, Nikora) hold 75% share; fragmented smaller players; global like Carrefour influences via format.
+​- Basis of competition: Location, price, assortment; some innovation in private labels.
+- Price intensity: High in groceries, medium in durables.
+- Innovation intensity: Low-medium, rising with apps.
+- Force rating: High
+- Strategic implication: Differentiate via regional expansion and tech-enabled personalization.
 
 ---
 
@@ -55,8 +55,8 @@ Use all three. They answer different questions.
 Map the chain.
 
 | Stage | Main activities | Main actors | Profit concentration | Digital pressure points |
-|---|---|---|---|---|
-|  |  |  |  |  |
+|Inbound Logistics|Sourcing, import, warehousing|Importers, local farms, chains like Daily Group|Low (commoditized)|Inventory apps, blockchain tracking|
+|  Operations| Store stocking, pricing |  Retail chains (Nikora, 2-Nabiji)|  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
