@@ -54,6 +54,15 @@ The sector with the highest "Digital Pressure" due to high-ticket transparency a
 | 4 | **Smiley / Metro** | Lifestyle Tech | ~8% | Focused on mall-based "Experience Centers." |
 | 5 | **Veli.store** | Pure-Play E-comm | ~6% | Fast-growing digital disruptor with zero physical retail legacy. |
 
+### Summary of Drivers by Sector
+
+| Sector | Primary Growth Driver | Secondary Growth Driver |
+| :--- | :--- | :--- |
+| **Grocery** | Regional Store Openings | Vertical Mergers/Consolidation |
+| **Pharmacy** | Health Insurance Integration | Wellness/Beauty Diversification |
+| **Electronics** | Replacement Cycles (AI-native tech) | Instant Bank Installments (Fintech BNPL) |
+| **Fashion** | Cross-border Marketplaces (Temu/Trendyol) | Social Media "Live" Shopping |
+
 ## Part 1. Porter Five Forces
 
 ### Threat of New Entrants
