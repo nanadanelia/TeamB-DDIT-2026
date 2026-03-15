@@ -131,13 +131,13 @@ Define the meeting cadence for this sprint. Teams that do not meet weekly lose a
 
 Each team member arrives at the next weekend having completed their assigned outputs. The following deliverables are submitted to the team folder in Microsoft Teams no later than 22:00 on the Friday before the weekend.
 
-| Deliverable | Version | Owner | Due Date | File Name |
-|---|---|---|---|---|
-| One-page research findings summary (per member) | v1 | All | | `TeamX_FindingsSummary_MemberName_YYYYMMDD` |
-| Hypothesis log update | v2 | | | `TeamX_HypothesisLog_v2_YYYYMMDD` |
-| Competitive landscape update | v2 | | | `TeamX_CompetitiveLandscape_v2_YYYYMMDD` |
-| Three preliminary strategic options | v1 | | | `TeamX_StrategicOptions_v1_YYYYMMDD` |
-| Industry analysis update | v2 | | | `TeamX_IndustryAnalysis_v2_YYYYMMDD` |
+| Deliverable           | Version | Owner    | Due Date | File                       |
+|-----------------------|---------|----------|----------|----------------------------|
+| Research findings     | v1      | All      | Apr 3    | TeamX_FindingsSummary      |
+| Hypothesis log        | v2      | Daviti K | Apr 3    | TeamX_HypothesisLog        |
+| Competitive landscape | v2      | Mariami  | Apr 3    | TeamX_CompetitiveLandscape |
+| Strategic options     | v1      | Nani     | Apr 3    | TeamX_StrategicOptions     |
+| Industry analysis     | v2      | Daviti M | Apr 3    | TeamX_IndustryAnalysis     |
 
 ---
 
