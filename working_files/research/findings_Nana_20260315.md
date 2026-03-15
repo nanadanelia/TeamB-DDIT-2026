@@ -1,5 +1,21 @@
 # Competitive Landscape Template
 
+The Georgian retail industry consists of several major categories that compete for consumer spending but operate with different supply chains, margins, and competitive dynamics.
+
+Major Retail Segments
+
+| Segment                          | Examples of players                            | Key characteristics                            |
+| -------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
+| Grocery / FMCG                   | Daily Group, Nikora, 2-Nabiji, Spar, Carrefour | High frequency purchases, large store networks |
+| Fashion & Apparel                | Zara, Bershka, LC Waikiki                      | Mall-based retail, fast fashion cycles         |
+| Electronics                      | Alta, Zoommer, Elit Electronics                | High-ticket items, brand-driven demand         |
+| Home improvement & furniture     | Gorgia, Domino                                 | Linked to construction and housing market      |
+| Beauty & cosmetics               | PSP Beauty, ICR Beauty                         | Brand loyalty and social media influence       |
+| E-commerce & cross-border retail | Temu, Amazon, Shein                            | Platform-based retail and price competition    |
+
+Although these categories compete for consumer spending, they differ significantly in operational models and margins.
+Therefore, this analysis focuses primarily on organized FMCG/grocery retail, which is the largest and most structurally developed segment of Georgian retail.
+However, cross-category competition (especially e-commerce platforms like Temu) increasingly affects the sector.
 ## Purpose
 
 This template combines three methods:
@@ -7,7 +23,7 @@ This template combines three methods:
 - value chain analysis,
 - jobs-to-be-done competition.
 
-Use all three. They answer different questions.
+The following analysis focuses primarily on the organized grocery/FMCG retail segment, while acknowledging competitive pressure from other retail categories and global e-commerce platforms.
 
 ---
 
@@ -41,8 +57,9 @@ Use all three. They answer different questions.
 - Strategic implication: Accelerate omnichannel to match Temu's speed.
   
 ## Competitive rivalry
-- Number and type of competitors: Grocery dominators (Daily ~28% share) plus Zara/Gorgia in malls; Temu holds nearly 2/3 of e-com traffic.
-- Basis of competition: Price wars intensified by Temu's low-ticket items.
+- Number and type of competitors: Organized grocery chains (Daily Group, Nikora, 2-Nabiji, Spar, Carrefour) compete intensely in urban areas, especially Tbilisi.
+- Basis of competition: Price, store proximity, promotions, and private label products.
+- Additional pressure: Cross-category and platform competition from global e-commerce retailers (Temu, Amazon) and informal markets.
 - Force rating: High
 
 ---
@@ -62,6 +79,14 @@ Map the chain.
 
 
 ### Value chain interpretation
+
+Retail value chains differ across categories.
+For example:
+- Grocery retail depends heavily on logistics and supply chain efficiency.
+- Fashion retail depends more on inventory turnover and brand positioning.
+- Electronics retail is heavily influenced by global suppliers.
+This analysis focuses primarily on the grocery retail value chain, where logistics and store networks drive competitive advantage.
+
 - Which stage appears most vulnerable?: Inbound logistics, due to import reliance and global disruptions.
 - Which stage appears most defensible?: Marketing & sales, via local brand loyalty.
 - Where could a platform insert itself?: Outbound logistics, as a delivery aggregator linking chains.
@@ -71,7 +96,7 @@ Map the chain.
 # Part 3. Jobs-to-be-done competition
 
 ## Core customer job
-What job is the customer trying to get done?: Quickly access everyday goods (groceries, household items) with convenience and affordability.
+What job is the customer trying to get done?: Access everyday consumer goods conveniently and at affordable prices.
 
 ## Functional needs
 - Fast purchase near home.
@@ -89,3 +114,6 @@ What job is the customer trying to get done?: Quickly access everyday goods (gro
 
 ## Interpretation
 What does this reveal about hidden competition?: Hidden competition from informal markets, quick-commerce apps and global e-tailers undercuts chains on immediacy, revealing opportunities for hybrid physical-digital models.
+
+**Cross-category competition in Georgian retail**
+Although grocery retail remains the largest retail category, global digital platforms are increasingly reshaping consumer expectations regarding price, delivery speed, and assortment. Platforms such as Temu introduce ultra-low price competition across multiple retail categories, forcing local retailers to experiment with omnichannel models that combine physical stores with digital commerce.
