@@ -103,3 +103,5 @@ Latent: Subscription grocery and meal-kit services — not yet present at scale 
 
 ## Interpretation
 What does this reveal about hidden competition?
+
+Georgian retail is not primarily losing to other Georgian retailers — it is losing to Temu on price, Wolt on time, and bazaars on trust. These are structurally different competitors requiring structurally different responses. Fresh food and immediate experience are the only jobs cross-border platforms genuinely cannot steal — this is the physical moat every retailer should be reinforcing, not neglecting. The bazaar will not be converted: outside Tbilisi it serves social and trust needs that modern formats don't replicate, and strategies premised on converting bazaar shoppers will systematically underdeliver. The biggest unserved job is eliminating planning altogether — the first mover who builds a subscription or meal-kit model captures a sticky loyalty position that price competition cannot erode.
