@@ -195,6 +195,40 @@ The "White Space" represents areas where consumer needs exist but no dominant pl
 **2. Who is most vulnerable?**
 **Alta** and physical electronics retailers. Cross-border platforms have turned electronics into a pure commodity. Without a shift toward "Service-as-a-Product" (repairs, trade-ins), physical tech retail is a high-cost showroom for digital sellers.
 
+
+
+# 2026 Strategic Positioning Matrix
+
+## Purpose
+This matrix visualizes the competitive landscape of the Georgian retail market. By mapping competitors against **Price Point** and **Service Level**, we can identify the "White Space" opportunities.
+
+---
+
+## 1. Visual Matrix (Mermaid Chart)
+> **Note:** This chart renders automatically in GitHub's web interface.
+
+```mermaid
+quadrantChart
+    title Retail Strategic Positioning (2026)
+    x-axis Discount/Mass Market --> Luxury/Premium
+    y-axis Self-Service/Online --> High-Touch/Boutique
+    quadrant-1 High-Touch Premium (The Experience Zone)
+    quadrant-2 High-Touch Discount (The Service Trap)
+    quadrant-3 Self-Service Discount (The Efficiency Zone)
+    quadrant-4 Self-Service Premium (The White Space)
+
+    %% Placement of Competitors
+    Temu / Trendyol: [0.15, 0.15]
+    Ori Nabiji: [0.25, 0.25]
+    Nikora Trade: [0.50, 0.50]
+    Magniti / Daily: [0.45, 0.40]
+    Carrefour Georgia: [0.65, 0.55]
+    Alta: [0.80, 0.85]
+    Agrohub: [0.90, 0.90]
+
+    %% Highlight the White Space
+    "White Space: Automated Luxury": [0.85, 0.20]
+
 **3. Is the market crowding?**
 Yes. The **Mid-Price Convenience** zone is over-saturated. Retailers here are fighting a war of centimeters over store locations.
 
