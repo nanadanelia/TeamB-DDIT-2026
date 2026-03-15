@@ -65,25 +65,30 @@ Map the chain.
 
 
 ### Value chain interpretation
-- Which stage appears most vulnerable?
-- Which stage appears most defensible?
-- Where could a platform insert itself?
+- Which stage appears most vulnerable?: Inbound logistics, due to import reliance and global disruptions.
+- Which stage appears most defensible?: Marketing & sales, via local brand loyalty.
+- Where could a platform insert itself?: Outbound logistics, as a delivery aggregator linking chains.
 
 ---
 
 # Part 3. Jobs-to-be-done competition
 
 ## Core customer job
-What job is the customer trying to get done?
+What job is the customer trying to get done?: Quickly access everyday goods (groceries, household items) with convenience and affordability.
 
 ## Functional needs
-List them.
+- Fast purchase near home.
+- Wide assortment at low prices.
+- Reliable quality and stock.
 
 ## Emotional or social needs
-List them.
+- Trust in familiar local brands.
+- Status from modern stores vs. bazaars.
+- Convenience reducing daily hassle.
 
 ## Alternative solutions
-List both direct and indirect alternatives.
+- Direct: Competing chains (Daily Group, Nikora), hypermarkets.
+- Indirect: Street markets, online delivery (Wolt), global e-tailers.
 
 ## Interpretation
-What does this reveal about hidden competition?
+What does this reveal about hidden competition?: Hidden competition from informal markets and quick-commerce apps undercuts chains on immediacy, revealing opportunities for hybrid physical-digital models.
