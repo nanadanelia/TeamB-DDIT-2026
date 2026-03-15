@@ -141,7 +141,7 @@ This matrix reveals three critical "White Spaces" in the 2026 Georgian market:
 
 ### White Space A: "The Frictionless Luxury"
 * **Location:** High Price + Low-Touch (Automated).
-* **The Opportunity:** High-end "vending" or tech-first luxury. Premium goods (perfumes, high-end electronics, organic snacks) available via 24/7 automated boutiques or <15 min "Dark Store" delivery. 
+* **The Opportunity:** High-end "vending" or tech-first luxury. Premium goods (perfumes, high-end electronics, organic snacks) available via 24/7 automated boutiques or <15 min "Dark Store" delivery.
 * **Target:** High-income urban professionals with high "Time-Poverty."
 
 ### White Space B: "Socialized Discounting"
@@ -151,7 +151,7 @@ This matrix reveals three critical "White Spaces" in the 2026 Georgian market:
 
 ### White Space C: "The 10-Minute Utility"
 * **Location:** Mid-Price + Ultra-Automated.
-* **The Opportunity:** Micro-hubs stocking the top 50 "Panic Buy" items (chargers, formula, medicine) located in transit hubs (Metro, Airports). 
+* **The Opportunity:** Micro-hubs stocking the top 50 "Panic Buy" items (chargers, formula, medicine) located in transit hubs (Metro, Airports).
 * **Target:** The "Urgency" shopper who will pay a 15% premium for immediate physical access.
 
 ---
@@ -161,6 +161,5 @@ This matrix reveals three critical "White Spaces" in the 2026 Georgian market:
 * **Bottom-Left (Discount/Self-Service):** **The "Efficiency" Zone.** Winning requires absolute logistics dominance. If you aren't the cheapest, you are invisible.
 * **Top-Right (Premium/High-Touch):** **The "Experience" Zone.** Winning requires unreplicable human service. If the customer doesn't feel "special," they will go to a discount app.
 * **Center (Mid/Mid):** **The "Danger" Zone.** Vulnerable to being squeezed by Temu on price and Agrohub on experience. To survive here, you must pivot toward a "White Space."
-
 ### Hidden Competition
 **Cognitive Load:** The friction of decision-making. Customers will hire whatever service requires the least amount of thinking.
