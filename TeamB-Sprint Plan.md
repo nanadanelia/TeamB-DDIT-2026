@@ -85,31 +85,54 @@ All claims introduced at the next weekend must be supported by a named primary s
 
 ## Strategic Options Development
 
-By the end of this sprint, the team must have three preliminary strategic options for the client. These do not need to be fully developed, but each must be distinct, named, and defensible.
-
 ### Strategic Option A
 
-- Working title:
-- Core logic in one sentence:
-- Primary evidence that supports it:
-- Most important risk or tradeoff:
-- Owner for development:
+- **Working title:** Nikora Online Grocery Platform  
+- **Core logic in one sentence:**  
+Nikora can strengthen its competitive position by building a fully integrated online grocery ordering and delivery platform that leverages its existing physical store network for fast fulfillment.
+
+- **Primary evidence that supports it:**  
+Growing adoption of delivery services such as Wolt and Glovo in urban Georgia, combined with global grocery e-commerce growth documented in reports by McKinsey and Deloitte.
+
+- **Most important risk or tradeoff:**  
+High operational costs related to last-mile delivery logistics and technology infrastructure.
+
+- **Owner for development:**  
+Mariam
+
 
 ### Strategic Option B
 
-- Working title:
-- Core logic in one sentence:
-- Primary evidence that supports it:
-- Most important risk or tradeoff:
-- Owner for development:
+- **Working title:** Retail–Delivery Platform Partnership Strategy  
+
+- **Core logic in one sentence:**  
+Instead of building its own delivery infrastructure, Nikora could partner with existing delivery platforms to quickly enter the online grocery market with lower upfront investment.
+
+- **Primary evidence that supports it:**  
+Rapid expansion of delivery ecosystems in Georgia through platforms like Bolt Food, Glovo, and Wolt that already have logistics networks and active user bases.
+
+- **Most important risk or tradeoff:**  
+Dependence on third-party platforms may reduce profit margins and limit access to customer data.
+
+- **Owner for development:**  
+Nana
+
 
 ### Strategic Option C
 
-- Working title:
-- Core logic in one sentence:
-- Primary evidence that supports it:
-- Most important risk or tradeoff:
-- Owner for development:
+- **Working title:** AI-Enabled Retail Operations
+
+- **Core logic in one sentence:**  
+Nikora could improve operational efficiency and customer experience by using AI-driven analytics for demand forecasting, inventory management, and personalized promotions.
+
+- **Primary evidence that supports it:**  
+Retailers globally are using AI for supply chain optimization and personalized marketing, as highlighted in digital retail transformation research by McKinsey and Deloitte.
+
+- **Most important risk or tradeoff:**  
+Requires strong data infrastructure and investment in analytics capabilities.
+
+- **Owner for development:**  
+Daviti M.
 
 ---
 
