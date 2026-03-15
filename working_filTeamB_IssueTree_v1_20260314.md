@@ -1,12 +1,14 @@
 **Issue Tree **
 
-- **Core question:** How should a traditional retail company respond to digital disruption from e-commerce platforms in order to maintain growth and competitiveness?
+- **Core question:** How should a traditional retail company respond to the growth of online shopping, social media commerce, and international retail competition in order to maintain market share and profitability?
 - **Why this question matters**
 Retail is undergoing major disruption due to:
-  growth of online marketplaces
+  consumers increasingly use Instagram and Facebook shops
   increased price transparency
   data-driven marketing and personalization
   changing consumer expectations for convenience and speed
+  consumers are very price-sensitive
+  many retailers depend on imported goods and foreign suppliers
 
 ---
 
@@ -14,13 +16,13 @@ Retail is undergoing major disruption due to:
 
 
 **Branch 1**
-- Label: Customer behavior shifts
-- Why it belongs: Retail disruption is strongly driven by changing consumer expectations such as online shopping, fast delivery, and personalized experiences.
+- Label: Changing consumer behavior in Georgia
+- Why it belongs: Georgian consumers are increasingly influenced by social media, online price comparison, and convenience, which affects how and where they shop.
 
 
 **Branch 2**
 - Label: Competitive landscape
-- Why it belongs: Retailers now compete with global e-commerce platforms, direct-to-consumer brands, and marketplace ecosystems.
+- Why it belongs: Retail competition in Georgia includes local chains, international brands, online sellers, and informal social media stores.
 
 **Branch 3**
 - Label: Technology and digital capabilities
@@ -28,11 +30,11 @@ Retail is undergoing major disruption due to:
 
 **Branch 4**
 - Label: Operating model and supply chain
-- Why it belongs: Digital retail success depends not only on the front-end customer experience, but also on inventory, fulfillment, logistics, and store operations.
+- Why it belongs: Georgia relies heavily on imported goods, and logistics, distribution, and costs play a major role in retail competitiveness.
 
 **Branch 5, optional**
-- Label: Organizational readiness and business model
-- Why it belongs: Even if opportunities are clear, the retailer must have the leadership, skills, structure, and revenue model to execute transformation.
+- Label: Regulatory and market environment
+- Why it belongs: Taxes, import duties, and market size influence how retailers operate and scale in Georgia.
 
 ---
 
