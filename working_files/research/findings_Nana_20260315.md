@@ -54,12 +54,14 @@ Use all three. They answer different questions.
 
 Map the chain.
 
+
 | Stage | Main activities | Main actors | Profit concentration | Digital pressure points |
-|Inbound Logistics|Sourcing, import, warehousing|Importers, local farms, chains like Daily Group|Low (commoditized)|Inventory apps, blockchain tracking|
-|  Operations| Store stocking, pricing |  Retail chains (Nikora, 2-Nabiji)|  |  |
+|---|---|---|---|---|
+|  Inbound logistics| Sourcing, import, warehousing |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
+
 
 ### Value chain interpretation
 - Which stage appears most vulnerable?
