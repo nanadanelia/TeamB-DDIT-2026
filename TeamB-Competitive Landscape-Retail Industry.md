@@ -2,96 +2,110 @@
 
 ## Purpose
 
-This template combines three methods:
+This analysis combines three strategic frameworks:
+
 - Porter’s Five Forces
 - Value Chain Analysis
 - Jobs-to-Be-Done Competition
 
-Each method answers a different strategic question about the retail industry.
+Together these frameworks help explain the structure of the Georgian retail market, identify sources of competitive advantage, and reveal how customer needs shape competition.
 
 ---
 
 # Georgian Retail Industry Overview
 
-The Georgian retail industry consists of multiple categories that compete for consumer spending but operate with different business models, supply chains, and margins.
+The Georgian retail industry consists of several major categories that compete for household spending but operate with different supply chains, economics, and competitive dynamics.
 
 Major retail segments include:
 
-- **Grocery / FMCG retail** – supermarket and convenience chains such as Daily Group, Nikora, Ori Nabiji, Carrefour, SPAR, and Magniti.
-- **Fashion & apparel retail** – international brands such as Zara, LC Waikiki, Mango, and other mall-based retailers.
-- **Electronics & appliances retail** – chains such as Alta and other electronics specialists.
-- **Beauty, pharmacy, and personal care retail** – pharmacy networks and cosmetics retailers.
-- **Home improvement & furniture retail** – retailers serving housing and renovation demand.
-- **E-commerce and cross-border retail** – local marketplaces and international platforms such as Temu, Amazon, AliExpress, and Trendyol.
+- **Grocery / FMCG retail** – supermarket and convenience chains such as Nikora, Ori Nabiji, Carrefour, SPAR, Magniti, and Daily Group  
+- **Fashion & apparel retail** – international brands such as Zara, Mango, LC Waikiki and mall-based fashion retailers  
+- **Electronics & appliance retail** – chains such as Alta and other electronics specialists  
+- **Beauty, pharmacy, and personal care retail** – pharmacy chains and cosmetics retailers  
+- **Home improvement & furniture retail** – retailers linked to housing and renovation demand  
+- **E-commerce and cross-border retail** – local marketplaces and global platforms such as Temu, Amazon, AliExpress, and Trendyol  
 
-Although these segments differ operationally, they compete for the same household spending. Grocery retail remains the most developed segment of organized retail in Georgia due to its scale and purchase frequency. However, digital platforms and cross-border e-commerce increasingly affect all retail categories.
+Although these segments differ operationally, they compete for the same consumer wallet.
+
+This analysis focuses primarily on the **organized grocery/FMCG retail segment**, which is the largest and most structurally developed part of the Georgian retail industry due to its high purchase frequency, dense store networks, and complex logistics requirements. Other retail categories are referenced where they influence substitution patterns or competitive dynamics.
 
 ---
 
 # Part 1. Porter Five Forces
 
+The following analysis focuses primarily on the **organized grocery/FMCG retail segment**, while recognizing competitive pressure from other retail categories and digital platforms.
+
+---
+
 ## Threat of new entrants
 
 **Barriers to entry**
-- High capital investment required for store networks, real estate, warehousing, and logistics infrastructure.
-- Grocery retail additionally requires cold-chain logistics and dense distribution networks.
-- Non-grocery segments often depend on access to premium mall locations and international brand partnerships.
+
+- High capital investment required for store networks, real estate, inventory, and logistics infrastructure  
+- Grocery retail requires cold-chain logistics and dense distribution networks  
+- Access to prime retail locations and strong supplier relationships takes time to build  
 
 **Sources of advantage for current leaders**
-- Economies of scale in procurement and logistics.
-- Established supplier networks.
-- Strong brand recognition and consumer trust.
-- Dense store networks in urban areas.
+
+- Economies of scale in procurement and logistics  
+- Established supplier networks and distribution infrastructure  
+- Brand recognition and customer trust  
+- Dense store networks in urban areas  
 
 **Likely new entrants**
-- International brands entering Georgian malls.
-- Regional or digital-first retailers.
-- Cross-border e-commerce platforms and online marketplaces.
+
+- International retail brands expanding into Georgian malls  
+- Regional or digital-first retailers  
+- Cross-border e-commerce platforms and marketplaces  
 
 **Force rating:** Medium
 
 **Strategic implication**
 
-Physical retail entry remains capital intensive, particularly in grocery. However, digital platforms significantly lower entry barriers in non-perishable categories. Retailers should strengthen logistics networks and digital capabilities to defend market share.
+Physical retail entry remains capital intensive, particularly in grocery retail. However, digital platforms reduce entry barriers in non-perishable categories. Retailers must strengthen logistics capabilities and digital channels to protect market share.
 
 ---
 
 ## Bargaining power of buyers
 
 **Who are the main buyers?**
-- Georgian households purchasing everyday consumer goods.
-- Tourists and small businesses in selected retail categories.
+
+- Georgian households purchasing everyday consumer goods  
+- Tourists and small businesses in certain retail categories  
 
 **How concentrated are they?**
-- Buyers are highly fragmented, although consumer spending is concentrated in urban areas such as Tbilisi.
+
+Buyers are highly fragmented, although consumer spending is concentrated in urban areas, especially Tbilisi.
 
 **How easy is switching?**
-- Switching costs are extremely low. Consumers can easily move between supermarkets, malls, online marketplaces, and delivery apps.
+
+Switching costs are extremely low. Consumers can easily switch between supermarket chains, online marketplaces, delivery apps, and other retail channels.
 
 **Force rating:** High
 
 **Strategic implication**
 
-Retailers must compete through price, convenience, product assortment, and customer experience. Loyalty programs and digital engagement are increasingly important to reduce switching.
+Retailers must compete not only on price but also on convenience, assortment, loyalty programs, and customer experience.
 
 ---
 
 ## Bargaining power of suppliers
 
 **Who are the critical suppliers?**
-- Local agricultural producers.
-- International FMCG brands.
-- Electronics manufacturers and distributors.
-- Fashion brand owners.
-- Logistics providers.
+
+- Local agricultural producers  
+- International FMCG brands  
+- Electronics manufacturers and distributors  
+- Fashion brand owners  
+- Logistics providers  
 
 **How concentrated are they?**
-- Supplier concentration varies by category.
-- Local producers are fragmented, while global brands and electronics manufacturers have stronger bargaining power.
+
+Supplier concentration varies by category. Local agricultural producers are relatively fragmented, while global FMCG brands and electronics manufacturers have stronger bargaining power.
 
 **How replaceable are they?**
-- Commodity products are easier to replace.
-- Branded products and exclusive brand partnerships are more difficult to substitute.
+
+Commodity goods are easier to replace, while branded products and exclusive supplier relationships are more difficult to substitute.
 
 **Force rating:** Medium
 
@@ -104,24 +118,22 @@ Retailers can reduce supplier power by diversifying sourcing, increasing local p
 ## Threat of substitutes
 
 **What alternatives solve the same job?**
-- Traditional bazaars and open markets.
-- Neighborhood convenience stores.
-- Delivery aggregators.
-- Local online marketplaces.
-- International e-commerce platforms such as Temu, Amazon, AliExpress, and Trendyol.
+
+- Traditional open markets and bazaars  
+- Neighborhood convenience stores  
+- Delivery aggregators  
+- Local online marketplaces  
+- International e-commerce platforms such as Temu, Amazon, AliExpress, and Trendyol  
 
 **Why would customers switch?**
-- Lower prices.
-- Wider assortment.
-- Faster delivery.
-- Convenience.
-- Trust in certain product categories.
+
+Customers may switch due to lower prices, wider product assortment, faster delivery, or greater convenience. For example, bazaars remain strong substitutes for fresh produce, while cross-border platforms compete strongly in non-perishable categories.
 
 **Force rating:** High
 
 **Strategic implication**
 
-Retailers must focus on categories where physical retail still provides strong advantages, such as fresh food, urgent purchases, and trust-based consumption.
+Retailers must defend categories where physical retail still provides strong advantages, such as fresh food, urgent purchases, and trust-based consumption.
 
 ---
 
@@ -129,16 +141,16 @@ Retailers must focus on categories where physical retail still provides strong a
 
 **Number and type of competitors**
 
-The Georgian retail market includes grocery chains, fashion retailers, pharmacy chains, electronics retailers, shopping malls, local marketplaces, and global e-commerce platforms.
+The Georgian retail market includes grocery chains, pharmacies, fashion brands, electronics retailers, shopping malls, local marketplaces, and global e-commerce platforms.
 
 **Basis of competition**
 
-- Price promotions
-- Store location and convenience
-- Product assortment
-- Brand strength
-- Customer experience
-- Delivery speed and digital capabilities
+- Price promotions  
+- Store proximity and convenience  
+- Product assortment  
+- Brand strength  
+- Customer experience  
+- Delivery speed and digital capabilities  
 
 **Price intensity:** High
 
@@ -148,7 +160,7 @@ The Georgian retail market includes grocery chains, fashion retailers, pharmacy 
 
 **Strategic implication**
 
-Competition increasingly occurs between retail ecosystems rather than individual stores. Retailers must combine operational efficiency with digital capabilities and customer data strategies.
+Retail competition increasingly occurs between ecosystems rather than individual stores. Retailers must combine operational efficiency with digital capabilities and customer data strategies.
 
 ---
 
@@ -164,13 +176,13 @@ Competition increasingly occurs between retail ecosystems rather than individual
 
 ### Category differences in the retail value chain
 
-Retail value chains differ across categories. Grocery retail depends heavily on logistics efficiency and frequent restocking. Fashion retail focuses on brand positioning and inventory turnover. Electronics retail depends strongly on supplier relationships and price transparency.
+Retail value chains differ across categories. Grocery retail depends heavily on logistics efficiency and frequent replenishment, while fashion retail depends on inventory turnover and brand positioning. Electronics retail is influenced strongly by supplier relationships and price transparency.
 
 ### Value chain interpretation
 
 **Which stage appears most vulnerable?**
 
-Inbound logistics and outbound logistics are vulnerable due to import reliance and growing competition from digital platforms that control delivery and fulfillment.
+Inbound logistics and outbound logistics are vulnerable due to import dependence and the growing influence of digital platforms controlling delivery and customer access.
 
 **Which stage appears most defensible?**
 
@@ -178,7 +190,7 @@ Store operations and distribution in categories requiring immediacy and freshnes
 
 **Where could a platform insert itself?**
 
-Platforms can capture value in outbound logistics, customer discovery, and loyalty relationships, potentially reducing retailers to fulfillment roles.
+Platforms can capture value in outbound logistics, delivery aggregation, and customer discovery.
 
 ---
 
@@ -186,40 +198,51 @@ Platforms can capture value in outbound logistics, customer discovery, and loyal
 
 ## Core customer job
 
-Customers want to keep their households fed, clothed, equipped, and functioning conveniently and reliably at a reasonable cost.
+Customers want to reliably obtain everyday household essentials—especially food and groceries—conveniently, safely, and at a fair price.
+
+---
 
 ## Functional needs
 
-- Reliable product availability
-- Competitive pricing
-- Convenient store locations or delivery
-- Wide product assortment
-- Fast checkout and payment
-- Reliable online ordering and delivery
+- Reliable product availability  
+- Competitive pricing  
+- Convenient store locations or delivery options  
+- Wide product assortment  
+- Fast checkout and payment  
+- Reliable online ordering and delivery  
+
+---
 
 ## Emotional or social needs
 
-- Trust in product quality and authenticity
-- Feeling confident about purchasing decisions
-- Convenience that reduces daily stress
-- Social signaling through fashion or premium purchases
-- Familiarity with trusted local retailers
+- Trust in product quality and authenticity  
+- Confidence in food safety and brand reliability  
+- Convenience that reduces daily stress  
+- Satisfaction from finding good value  
+- Familiarity with trusted retailers or local markets  
+
+---
 
 ## Alternative solutions
 
 **Direct alternatives**
-- Competing retail chains
-- Shopping malls and specialty retailers
-- Local online marketplaces
+
+- Competing supermarket chains  
+- Pharmacy networks  
+- Electronics retailers  
+- Local online marketplaces  
 
 **Indirect alternatives**
-- Traditional markets and bazaars
-- Delivery aggregators
-- Cross-border e-commerce platforms such as Temu, Amazon, AliExpress, and Trendyol
+
+- Traditional open markets and bazaars  
+- Delivery aggregators  
+- Cross-border e-commerce platforms such as Temu, Amazon, AliExpress, and Trendyol  
+
+---
 
 ## Interpretation
 
-Retail competition in Georgia increasingly extends beyond traditional store-to-store rivalry. Consumers now choose between multiple retail channels including physical stores, delivery platforms, and international e-commerce marketplaces.
+Competition in Georgian retail extends beyond traditional store-to-store rivalry. Consumers increasingly choose between multiple channels including physical stores, delivery platforms, and international e-commerce marketplaces.
 
 ---
 
@@ -227,39 +250,43 @@ Retail competition in Georgia increasingly extends beyond traditional store-to-s
 
 ## Ecosystem actors
 
-The Georgian retail ecosystem includes several interconnected layers:
+The Georgian retail ecosystem operates across several interconnected layers:
 
-- **Production and supply layer** – local producers, manufacturers, international brands, and importers.
-- **Wholesale and distribution layer** – import distributors, warehouse operators, and logistics providers.
-- **Physical retail layer** – supermarkets, malls, fashion stores, pharmacies, electronics retailers, and neighborhood stores.
-- **Digital platform layer** – online marketplaces, delivery aggregators, and brand-owned e-commerce channels.
-- **Cross-border retail layer** – international platforms selling directly to Georgian consumers.
+- **Production and supply layer** – local producers, manufacturers, international brands, and importers  
+- **Wholesale and distribution layer** – import distributors, warehouse operators, and logistics providers  
+- **Physical retail layer** – supermarkets, malls, fashion stores, pharmacies, electronics retailers, and neighborhood shops  
+- **Digital platform layer** – online marketplaces, delivery aggregators, and brand-owned e-commerce channels  
+- **Cross-border retail layer** – international platforms selling directly to Georgian consumers  
+
+---
 
 ## Value flows
 
-Consumer spending in Georgian retail flows through several channels:
+Consumer spending flows through several retail channels:
 
-- Traditional physical retail (store purchases)
-- Delivery aggregator platforms
-- Local online marketplaces
-- Cross-border e-commerce platforms
+- Traditional physical retail purchases  
+- Delivery aggregator platforms  
+- Local online marketplaces  
+- Cross-border e-commerce platforms  
 
-Each channel retains different levels of value, customer data, and control within the retail ecosystem.
+Each channel captures different levels of value, data, and control within the retail ecosystem.
+
+---
 
 ## Digital pressure points
 
-- Delivery platforms increasingly control customer discovery and ordering.
-- Cross-border e-commerce increases price transparency and competition.
-- Regional last-mile logistics remain underdeveloped outside major cities.
-- Many retailers lack strong customer data and loyalty systems.
-- Uneven digital payment adoption creates differences between urban and regional markets.
+- Delivery platforms increasingly control customer discovery and ordering  
+- Cross-border e-commerce increases price transparency and competition  
+- Regional last-mile logistics remain underdeveloped outside major cities  
+- Many retailers lack strong customer data and loyalty systems  
+- Uneven digital payment adoption creates differences between urban and regional markets  
 
 ---
 
 # Overall Conclusion
 
-The Georgian retail industry is evolving from a traditional store-based system into a complex ecosystem that includes physical retail, digital platforms, and cross-border e-commerce.
+The Georgian retail industry is evolving from a traditional store-based system into a complex ecosystem shaped by digital platforms, cross-border e-commerce, and changing consumer expectations.
 
-Porter’s Five Forces analysis shows strong competitive rivalry, high buyer power, and growing substitution from digital channels. Value chain analysis highlights logistics, customer interface, and loyalty systems as key strategic battlegrounds. Jobs-to-be-done analysis shows that consumers increasingly choose between multiple ways of solving household needs rather than simply choosing between stores.
+Porter’s Five Forces show high rivalry, strong buyer power, and growing substitution threats from digital channels. Value chain analysis highlights logistics, customer interface, and loyalty systems as key strategic battlegrounds. Jobs-to-be-done analysis shows that consumers increasingly choose between multiple retail channels rather than simply choosing between stores.
 
-Retailers that successfully combine strong physical presence with digital capabilities, delivery integration, and customer data will be best positioned to compete in Georgia’s evolving retail landscape.
+Retailers that combine strong physical presence with digital capabilities, delivery integration, and customer data strategies will be best positioned to compete in Georgia’s evolving retail landscape.
