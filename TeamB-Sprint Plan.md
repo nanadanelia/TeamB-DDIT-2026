@@ -31,13 +31,14 @@ Write one sentence. What is the single most important analytical advance this sp
 
 From your hypothesis log, identify the five hypotheses you will test this sprint. For each, state the evidence needed, the source you will consult, the owner, and the due date. Hypotheses without owners and due dates do not get tested.
 
+
 | ID | Hypothesis | Evidence Needed | Primary Source | Owner | Due Date | Review Date |
 |---|---|---|---|---|---|---|
-| H1 |Nikora is disadvantaged in physical retail because its store density is lower than competitors like Magniti and Daily | | | | | |
+| H1 |Nikora is disadvantaged in physical retail because its store density is lower than competitors like Magniti and Daily |Number of stores by chain (Nikora, Magniti, Daily) | | | | |
 | H2 | Cross-border e-commerce platforms are capturing increasing Georgian consumer spending| | | | | |
 | H3 |Digital grocery ordering can increase average basket size compared with in-store convenience shopping | | | | | |
 | H4 | Retailers that combine physical stores with digital ordering gain competitive advantage over store-only retailers| | | | | |
-| H5 |Urban Georgian consumers are willing to order groceries online if delivery is reliable and fast | | | | | ||
+| H5 |Urban Georgian consumers are willing to order groceries online if delivery is reliable and fast |Adoption of delivery services (Wolt, Glovo etc.) - Growth of e-commerce penetration in retail | | | ||
 
 
 ### Hypothesis testing rules
