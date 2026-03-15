@@ -37,14 +37,7 @@ From your hypothesis log, identify the five hypotheses you will test this sprint
 | H2 | | | | | | |
 | H3 | | | | | | |
 | H4 | | | | | | |
-| H5 | | | | | | |
-| Section                            | What Needs to Change                             | Owner    | Source                    | Due Date |
-| ---------------------------------- | ------------------------------------------------ | -------- | ------------------------- | -------- |
-| Porter’s Five Forces update        | Add impact of online delivery platforms          | Nana     | Industry reports          | Mar 24   |
-| Value chain refinement             | Add digital logistics and last-mile delivery     | Mariam   | Retail case studies       | Mar 24   |
-| New entrant or substitute addition | Add delivery apps and e-commerce platforms       | Davit K | Market research           | Mar 24   |
-| Jobs-to-be-done gaps               | Identify convenience-based grocery shopping jobs | Davit M| Customer behavior studies | Mar 24   |
-| Competitive matrix update          | Compare Nikora, Carrefour, Spar digital services | Nana     | Company websites          | Mar 24   |
+| H5 | | | | | | ||
 
 
 ### Hypothesis testing rules
@@ -57,13 +50,14 @@ Every hypothesis test produces one of three outcomes: Supported, Rejected, or Re
 
 Identify what needs to be added to or revised in the competitive landscape based on Weekend feedback.
 
-| Section | What Needs to Change | Owner | Source | Due Date |
-|---|---|---|---|---|
-| Porter's Five Forces update | | | | |
-| Value chain refinement | | | | |
-| New entrant or substitute addition | | | | |
-| Jobs-to-be-done gaps | | | | |
-| Competitive matrix update | | | | |
+| Section                            | What Needs to Change                             | Owner    | Source                    | Due Date |
+| ---------------------------------- | ------------------------------------------------ | -------- | ------------------------- | -------- |
+| Porter’s Five Forces update        | Add impact of online delivery platforms          | Nana     | Industry reports          | Mar 24   |
+| Value chain refinement             | Add digital logistics and last-mile delivery     | Mariam   | Retail case studies       | Mar 24   |
+| New entrant or substitute addition | Add delivery apps and e-commerce platforms       | Davit K | Market research           | Mar 24   |
+| Jobs-to-be-done gaps               | Identify convenience-based grocery shopping jobs | Daviti M | Customer behavior studies | Mar 24   |
+| Competitive matrix update          | Compare Nikora, Carrefour, Spar digital services | Nana     | Company websites          | Mar 24   |
+
 
 ---
 
