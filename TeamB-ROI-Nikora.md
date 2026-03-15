@@ -15,20 +15,33 @@ This worksheet builds the analytical skeleton of the transformation business cas
 - Version: v0
 
 ---
-
 ## Part 1. Strategic Rationale
 
-- Strategic rationale (two sentences):  
-How should **Nikora** respond to the rapid growth of digital commerce and rising customer demand for convenience in order to **protect grocery market share and create a new digital revenue channel** before online grocery becomes a standard customer expectation in Georgia?  
-If Nikora delays building an online shopping service, it risks losing high-value urban customers to competitors, delivery-based substitutes, and future digital entrants while remaining dependent on a store-only model.
+### Strategic rationale (two sentences)
 
-- Connection to disruption diagnostic:  
-Our disruption diagnostic showed that Georgian retail is being reshaped by digital payments, delivery platforms, and changing customer expectations around convenience, speed, and channel flexibility.
+How should **Nikora** respond to the rapid growth of digital commerce and rising consumer demand for convenience in order to **protect grocery market share and create a new digital revenue channel** before online retail penetration in Georgia increases significantly over the next decade?
 
-- Connection to competitive landscape:  
-Our competitive landscape analysis showed that organized grocery retail is crowded in physical convenience formats, so a digital ordering capability is a meaningful point of differentiation and a way to defend customer wallet share.
+If Nikora delays building an online shopping service, it risks losing digitally active urban customers to emerging digital competitors and alternative convenience channels while remaining dependent on a purely physical retail model.
 
----
+### Connection to disruption diagnostic
+
+Our disruption diagnostic identified several structural changes affecting Georgian retail: the growth of digital payments, increasing consumer familiarity with online shopping, and the rising importance of convenience and delivery-based services. These trends are gradually shifting consumer expectations toward omnichannel retail models where customers expect both physical stores and digital ordering options.
+
+### Connection to competitive landscape
+
+Our competitive landscape analysis showed that Georgian grocery competition is highly concentrated around **store proximity and dense convenience networks**. Retailers such as Magniti and Daily compete primarily through extremely dense store coverage that enables quick and frequent purchases.
+
+Nikora does not operate the same “store on every corner” model, which limits its ability to compete purely on proximity. As a result, developing an **online ordering and delivery capability** represents a strategic alternative way to compete on convenience and accessibility.
+
+### Why Nikora was chosen for this transformation case
+
+Nikora was selected as the focal company for this transformation scenario for two strategic reasons.
+
+First, Nikora is one of the largest organized grocery retailers in Georgia but currently **does not offer a fully developed online grocery ordering service**, creating a clear opportunity for digital channel expansion.
+
+Second, because Nikora does not rely on an ultra-dense convenience store network like some competitors, a **digital grocery platform can help offset this structural disadvantage by providing convenience through technology rather than physical proximity**.
+
+For these reasons, Nikora represents a strong case for analyzing how a traditional supermarket chain can use digital transformation to strengthen its competitive position in the evolving Georgian retail market.
 
 ## Part 2. Value Drivers
 
