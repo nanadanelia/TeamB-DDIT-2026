@@ -57,10 +57,11 @@ Map the chain.
 
 | Stage | Main activities | Main actors | Profit concentration | Digital pressure points |
 |---|---|---|---|---|
-|  Inbound logistics| Sourcing, import, warehousing |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+|  Inbound logistics| Sourcing, import, warehousing | Importers, local farms, chains like Daily Group | Low (commoditized) | Inventory apps, blockchain tracking|
+| Operations | Store stocking, pricing | Retail chains (Nikora, 2-Nabiji) | Medium |POS systems, dynamic pricing  |
+| Outbound Logistics|Last-mile delivery, in-store fulfillment  | Chains + delivery apps (e.g., Metromart)  |Low  |E-commerce platforms  |
+| Marketing & Sales | Promotions, loyalty apps |Branded Chains  | High |Social media, targeted ads  |
+|Service | Customer support, returns | All retailers | Low | Chatbots, self-checkout |
 
 
 ### Value chain interpretation
