@@ -118,5 +118,49 @@ The sector with the highest "Digital Pressure" due to high-ticket transparency a
 ### Non-Consumption Opportunity
 **The Rural Silver Tech Desert:** Elderly Georgians in mountainous regions lacking access to tech support and pharmacy variety.
 
+
+# 2026 Retail Strategic Positioning Matrix: Georgia
+
+## 1. The Positioning Map (X-Y Axis)
+
+| Brand | Price Point (X-Axis) | Service/Experience (Y-Axis) | Market Role |
+| :--- | :--- | :--- | :--- |
+| **Temu / Trendyol** | Ultra-Discount | Self-Service / Algorithmic | Global Disruptor |
+| **2-Nabiji / Magniti** | Discount / Mass | Low-Touch / Utility | Neighbourhood Convenience |
+| **Nikora / Spar** | Mid-Market | Standard Modern Retail | Mainstream Daily |
+| **Zoommer** | Mid-Low (Aggressive) | Mid-Touch (Digital + Shop) | Value-Tech Leader |
+| **PSP / GPC** | Mid-Premium | High-Touch (Consultative) | Health Trust Hubs |
+| **Alta / Elit** | Premium | High-Touch (Showroom) | Quality/Install Experts |
+| **Agrohub / Veli.store** | Luxury / Premium | High-Touch / Curated | Premium Lifestyle |
+
+---
+
+## 2. White Space Analysis (The Opportunities)
+
+This matrix reveals three critical "White Spaces" in the 2026 Georgian market:
+
+### White Space A: "The Frictionless Luxury"
+* **Location:** High Price + Low-Touch (Automated).
+* **The Opportunity:** High-end "vending" or tech-first luxury. Premium goods (perfumes, high-end electronics, organic snacks) available via 24/7 automated boutiques or <15 min "Dark Store" delivery. 
+* **Target:** High-income urban professionals with high "Time-Poverty."
+
+### White Space B: "Socialized Discounting"
+* **Location:** Low Price + High-Touch (Community).
+* **The Opportunity:** Group-buying or "Live Shopping" platforms. Low prices achieved through bulk community orders, but with high social interaction and entertainment.
+* **Target:** Price-sensitive Gen Z and regional communities.
+
+### White Space C: "The 10-Minute Utility"
+* **Location:** Mid-Price + Ultra-Automated.
+* **The Opportunity:** Micro-hubs stocking the top 50 "Panic Buy" items (chargers, formula, medicine) located in transit hubs (Metro, Airports). 
+* **Target:** The "Urgency" shopper who will pay a 15% premium for immediate physical access.
+
+---
+
+## 3. Competitive Quadrant Interpretation
+
+* **Bottom-Left (Discount/Self-Service):** **The "Efficiency" Zone.** Winning requires absolute logistics dominance. If you aren't the cheapest, you are invisible.
+* **Top-Right (Premium/High-Touch):** **The "Experience" Zone.** Winning requires unreplicable human service. If the customer doesn't feel "special," they will go to a discount app.
+* **Center (Mid/Mid):** **The "Danger" Zone.** Vulnerable to being squeezed by Temu on price and Agrohub on experience. To survive here, you must pivot toward a "White Space."
+
 ### Hidden Competition
 **Cognitive Load:** The friction of decision-making. Customers will hire whatever service requires the least amount of thinking.
