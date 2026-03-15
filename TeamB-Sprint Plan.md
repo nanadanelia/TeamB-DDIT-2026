@@ -68,14 +68,14 @@ Identify what needs to be added to or revised in the competitive landscape based
 
 Assign specific research tasks to individual team members. A task without an owner does not get done.
 
-| Task | Scope | Owner | Deliverable | Due Date |
-|---|---|---|---|---|
-| 1. | | | | |
-| 2. | | | | |
-| 3. | | | | |
-| 4. | | | | |
-| 5. | | | | |
-| 6. | | | | |
+| Task                                   | Scope                             | Owner     | Deliverable           | Due Date |
+|----------------------------------------|-----------------------------------|-----------|-----------------------|----------|
+| Online grocery market size in Georgia  | Market statistics                 | Daviti M  | 1-page summary        | Mar 22   |
+| Competitor digital platforms           | Carrefour, Spar, Wolt Market      | Nani      | Competitor comparison | Mar 22   |
+| Delivery logistics models              | Dark stores vs store picking      | Mariam    | Research summary      | Mar 23   |
+| Customer behavior                      | Why people use grocery delivery   | Daviti K  | Findings summary      | Mar 23   |
+| Cost benchmarks                        | App development and delivery cost | Daviti M  | Cost estimates        | Mar 24   |
+| Retail digital transformation examples | Global grocery companies          | Nani      | Case study notes      | Mar 24   |
 
 ### Source quality rule
 
