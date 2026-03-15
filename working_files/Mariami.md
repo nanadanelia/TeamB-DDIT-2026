@@ -3,13 +3,20 @@
 This folder contains drafts, research notes, and work in progress.
 porter five forces
 
-##Part 1 Threat of New Entrants
+#Part 1 Threat of New Entrants
 
+--
 Barriers to entry: Dense urban store networks in Tbilisi require years of capital to replicate. Mall anchor economics favor established tenants. Cold-chain logistics infrastructure is proprietary among top chains.
+
 Sources of advantage for current leaders: Location density, supplier relationships, import distribution networks, and brand familiarity in neighborhood formats.
+
 Likely new entrants: Hard-discount grocery formats (Lidl/Aldi equivalents) targeting underpenetrated regional cities. International fashion brands expanding via the new Tbilisi Outlet Village. E-commerce-native dark-store operators in Tbilisi.
 Force rating: Medium
-Strategic implication: Threat is real but segment-specific. Non-grocery is more exposed to international brand entrants; grocery is more exposed to discount-format entry in the regions. Lock in regional locations and premium mall space before challengers do.
+
+
+Strategic implication: Threat is real but segment-specific. Non-grocery is more exposed to international brand entrants; grocery is more exposed to discount-format entry in 
+the regions. Lock in regional locations and premium mall space before challengers do.
+
 -------
 bargaining power of buyers
 
