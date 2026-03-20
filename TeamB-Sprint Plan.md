@@ -10,11 +10,11 @@ A sprint without a plan is a gap. Hypotheses stall, analysis fragments, and team
 
 ## Team Information
 
-- Team name:
-- Industry context:
-- Sprint window: [Start date] to [End date]
-- Sprint number: [ 1 / 2 / 3 ]
-- Members:
+- Team name: TeamB
+- Industry context: Georgian retail industry, mainly focused on groceries
+- Sprint window: [March 15] to [April 3]
+- Sprint number: [ 1 ]
+- Members: Nana Danelia, Daviti Mtchedlishvili, Davit Kulua, Mariam Berekashvili.
 
 ---
 
@@ -22,8 +22,8 @@ A sprint without a plan is a gap. Hypotheses stall, analysis fragments, and team
 
 Write one sentence. What is the single most important analytical advance this sprint must achieve for the team to be ready for the next weekend?
 
-- Sprint goal:
-- If only one thing gets done this sprint, it must be:
+- Sprint goal: Test five core hypotheses on digital grocery demand, competitive positioning, and logistics feasibility to assess whether online grocery can become a scalable and profitable growth channel for organized grocery retailers in Georgia.
+- If only one thing gets done this sprint, it must be: Reach a clear, evidence-based conclusion on whether online grocery demand in Georgia is strong enough to justify investment and scaling by organized grocery retailers.
 
 ---
 
@@ -87,15 +87,16 @@ All claims introduced at the next weekend must be supported by a named primary s
 
 ### Strategic Option A
 
-- **Working title:** Nikora Online Grocery Platform  
+- **Working title:** Integrated Online Grocery Platform  
+
 - **Core logic in one sentence:**  
-Nikora can strengthen its competitive position by building a fully integrated online grocery ordering and delivery platform that leverages its existing physical store network for fast fulfillment.
+Organized grocery retailers in Georgia (e.g., Nikora, Spar, Carrefour, Magniti) can strengthen their competitive position by building fully integrated online grocery ordering and delivery platforms that leverage existing store networks for fast and reliable fulfillment.
 
 - **Primary evidence that supports it:**  
 Growing adoption of delivery services such as Wolt and Glovo in urban Georgia, combined with global grocery e-commerce growth documented in reports by McKinsey and Deloitte.
 
 - **Most important risk or tradeoff:**  
-High operational costs related to last-mile delivery logistics and technology infrastructure.
+High operational costs related to last-mile delivery logistics, fulfillment complexity, and technology infrastructure.
 
 - **Owner for development:**  
 Mariam
@@ -106,13 +107,13 @@ Mariam
 - **Working title:** Retail–Delivery Platform Partnership Strategy  
 
 - **Core logic in one sentence:**  
-Instead of building its own delivery infrastructure, Nikora could partner with existing delivery platforms to quickly enter the online grocery market with lower upfront investment.
+Organized grocery retailers in Georgia can partner with existing delivery platforms to rapidly enter the online grocery market with lower upfront investment and faster time-to-market.
 
 - **Primary evidence that supports it:**  
-Rapid expansion of delivery ecosystems in Georgia through platforms like Bolt Food, Glovo, and Wolt that already have logistics networks and active user bases.
+Rapid expansion of delivery ecosystems in Georgia through platforms like Bolt Food, Glovo, and Wolt, which already have logistics networks, user bases, and operational capabilities.
 
 - **Most important risk or tradeoff:**  
-Dependence on third-party platforms may reduce profit margins and limit access to customer data.
+Dependence on third-party platforms may reduce margins, weaken brand differentiation, and limit access to customer data.
 
 - **Owner for development:**  
 Nana
@@ -123,13 +124,13 @@ Nana
 - **Working title:** AI-Enabled Retail Operations
 
 - **Core logic in one sentence:**  
-Nikora could improve operational efficiency and customer experience by using AI-driven analytics for demand forecasting, inventory management, and personalized promotions.
+Organized grocery retailers in Georgia can improve operational efficiency and customer experience by implementing AI-driven analytics for demand forecasting, inventory optimization, and personalized promotions across both physical and digital channels.
 
 - **Primary evidence that supports it:**  
-Retailers globally are using AI for supply chain optimization and personalized marketing, as highlighted in digital retail transformation research by McKinsey and Deloitte.
+Global retailers are increasingly using AI for supply chain optimization, pricing, and customer targeting, as highlighted in McKinsey and Deloitte digital retail transformation research.
 
 - **Most important risk or tradeoff:**  
-Requires strong data infrastructure and investment in analytics capabilities.
+Requires significant investment in data infrastructure, analytics capabilities, and organizational transformation.
 
 - **Owner for development:**  
 Daviti M.
@@ -170,8 +171,8 @@ Record any blockers that could prevent the sprint goal from being achieved. Esca
 
 | Blocker | Impact | Resolution Plan | Owner | Escalation Needed |
 |---|---|---|---|---|
-| | | | | Yes / No |
-| | | | | Yes / No |
+| Limited availability of Georgia-specific online grocery data| Weakens ability to validate demand and basket size hypotheses| Use proxy benchmarks from Eastern Europe + triangulate with TBC/NBG payment data| Daviti M. |  No |
+| Lack of company-level performance data (Nikora, Spar, OriNabiji)| Limits depth of competitive comparison|Use industry reports, estimates, and observable proxies (store count, app presence, delivery partnerships) | Davit K.| No |
 
 ---
 
@@ -181,29 +182,29 @@ Complete this section at the final pre-weekend review meeting.
 
 ### What went well this sprint
 
-1.
-2.
-3.
+1. Clear hypothesis-driven structure was established early.
+2.Tasks were distributed with defined ownership.
+3. Strong alignment between hypotheses, research tasks, and strategic objectives
 
 ### What slowed the team down
 
-1.
-2.
+1. Limited access to company-level data
+2.Difficulty translating broad research into clear, decision-oriented insights
 
 ### What the team will do differently next sprint
 
-1.
-2.
+1. Start from hypotheses immediately, not general research
+2. Prioritize decision-making over data collection perfection
 
 ### Hypothesis log status at sprint close
 
 | ID | Final Status | Key Finding in One Sentence |
 |---|---|---|
-| H1 | | |
-| H2 | | |
-| H3 | | |
-| H4 | | |
-| H5 | | |
+| H1 |Active | Store density likely drives convenience advantage, but requires validation with geographic data|
+| H2 |Active | Cross-border e-commerce is growing rapidly and capturing increasing wallet share|
+| H3 |Active | Online grocery may increase basket size, but no Georgia-specific proof yet|
+| H4 | Active| Omnichannel retailers appear to have competitive advantage globally|
+| H5 | Active| Urban consumers show signs of readiness for online grocery adoption|
 
 ---
 
