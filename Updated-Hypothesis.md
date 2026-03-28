@@ -56,7 +56,7 @@
 
 ---
 
-## 📋 Summary Table
+##  Summary Table
 
 | Hypothesis | Topic | Conclusion | Status |
 |------------|-------|------------|--------|
@@ -68,4 +68,4 @@
 
 ---
 
-*Last updated: 2025*
+
