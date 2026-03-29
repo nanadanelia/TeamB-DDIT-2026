@@ -4,7 +4,7 @@
 ## Executive Summary
 The Georgian retail landscape is transitioning from a "Density-First" model to an "Omnichannel Ecosystem." While physical proximity remains the primary driver for fresh grocery, digital channels and cross-border competition are fundamentally re-shaping consumer expectations.
 
-## 🧪 Hypothesis Testing Status
+## Hypothesis Testing Status
 
 | ID | Hypothesis | Status | Conclusion |
 |:---|:---|:---:|:---|
