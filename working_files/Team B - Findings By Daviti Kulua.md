@@ -8,11 +8,11 @@ The Georgian retail landscape is transitioning from a "Density-First" model to a
 
 | ID | Hypothesis | Status | Conclusion |
 |:---|:---|:---:|:---|
-| **H1** | Consumer readiness for online grocery |  | **Partially Validated** - Adoption is gradual; trust in "fresh" remains a barrier. |
-| **H2** | Online grocery generates incremental revenue |  | **Likely Valid** - Capturing planned/bulk purchases vs. daily top-ups. |
-| **H3** | Cross-border e-commerce is the biggest threat |  | **Strongly Validated** - Outpacing local growth (GEL 1.8bn in 2025). |
-| **H4** | Convenience is the primary competitive driver |  | **Strongly Validated** - Driven by dense networks (Magniti, Daily). |
-| **H5** | Nikora can substitute density with digital |  | **Unproven** - Current data suggests digital supports rather than replaces stores. |
+| **H1** | Consumer readiness for online grocery | **Partially Validated** | Adoption is gradual; trust in "fresh" remains a barrier. |
+| **H2** | Online grocery generates incremental revenue | **Likely Valid** | Capturing planned/bulk purchases vs. daily top-ups. |
+| **H3** | Cross-border e-commerce is the biggest threat | **Strongly Validated** | Outpacing local growth (GEL 1.8bn in 2025). |
+| **H4** | Convenience is the primary competitive driver | **Strongly Validated** | Driven by dense networks (Magniti, Daily). |
+| **H5** | Nikora can substitute density with digital | **Unproven** | Current data suggests digital supports rather than replaces stores. |
 
 ---
 
