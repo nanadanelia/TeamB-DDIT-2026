@@ -1,4 +1,4 @@
-# 🛒 Digitalization in Georgian Retail — Findings Summary
+# Digitalization in Georgian Retail — Findings Summary
 
 > **Key Insight:** Retail competition in Georgia is shifting from physical store networks toward integrated **omnichannel ecosystems** combining physical retail, digital platforms, logistics, and customer data.
 
