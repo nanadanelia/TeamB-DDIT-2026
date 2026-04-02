@@ -1,5 +1,6 @@
 # Three Preliminary Strategic Options — Nikora
 
+---
 
 ## Option 1 — Full In-House Digital Platform (Full Control Model)
 
@@ -7,27 +8,27 @@
 Nikora builds and operates a fully integrated online grocery platform with its own ordering system, delivery logistics, and customer interface.
 
 **Rationale:**  
-Addresses Nikora’s current digital gap (no ordering functionality, no delivery presence) and enables full control over customer data, pricing, and experience, but requires significant investment and operational capabilities.
+Addresses Nikora’s current digital limitation (informational app, no transactional platform, reliance on third-party delivery) and enables full control over customer data, pricing, and experience. However, this option requires significant investment and operational capabilities.
 
 ---
 
-## Option 2 — Delivery Platform Partnership (Asset-Light Entry)
+## Option 2 — Delivery Platform Optimization (Asset-Light Model)
 
 **Strategy:**  
-Nikora enters the online grocery market by partnering with established delivery platforms (Wolt, Glovo) to offer its products through their ecosystems.
+Nikora strengthens and optimizes its presence on delivery platforms (Glovo, Wolt) to improve accessibility and capture digital demand more effectively.
 
 **Rationale:**  
-Quickly closes Nikora’s accessibility gap (currently not present on delivery platforms) and captures existing demand with minimal upfront investment, but reduces margins and limits customer ownership.
+Leverages Nikora’s existing presence on platforms (e.g., Glovo) to increase visibility and convenience for customers, allowing fast improvement in digital competitiveness. However, this limits control over customer relationships, margins, and data.
 
 ---
 
-## Option 3 — Phased Hybrid Model (Partnership → Own Platform)
+## Option 3 — Phased Hybrid Model (Platform → Own Capability)
 
 **Strategy:**  
-Nikora initially launches through delivery platform partnerships to gain market access and learning, while gradually developing its own proprietary digital platform.
+Nikora uses delivery platforms in the short term to capture demand and learn, while gradually developing its own proprietary digital platform.
 
 **Rationale:**  
-Mitigates Nikora’s current capability limitations by leveraging external infrastructure in the short term while building long-term digital competitiveness and control.
+Addresses Nikora’s current position as a partially digital player by combining immediate accessibility (through platforms) with long-term capability building (own platform), balancing speed, risk, and strategic control.
 
 ---
 
