@@ -1,96 +1,81 @@
 # Digital Competition in Georgian Grocery Retail — Findings Summary
 
-> **Key Insight:** Retail competition in Georgia is increasingly defined by **accessibility through digital channels and delivery platforms**, where players with stronger and more integrated digital presence are better positioned to capture convenience-driven demand.
+> **Key Insight:** In Georgian grocery retail, competition is increasingly driven by **accessibility through delivery platforms**, where stronger and more visible digital presence enables retailers to capture convenience-driven demand.
 
 ---
 
-## Market Shift Toward Digital Accessibility
+## Market Shift Toward Platform-Based Access
 
-The Georgian retail market is gradually shifting toward digital channels, particularly through delivery platforms that provide fast and convenient access to goods.
+In urban Georgia, delivery platforms have become an important access point for retail consumption:
 
-- Delivery platforms such as Wolt, Glovo, and Bolt Food are widely used in urban areas  
-- Consumers increasingly rely on these platforms for convenience-based purchases  
-- Accessibility through digital channels is becoming a key competitive factor  
-
-This shift indicates that **being available where customers order (not just having stores)** is becoming critical.
+- Platforms such as Glovo, Wolt, and Bolt Food are widely used for everyday purchases  
+- Consumers increasingly rely on these platforms for convenience, speed, and accessibility  
+- As a result, **being present and visible on these platforms is becoming a key competitive factor**
 
 ---
 
 ## Delivery Platforms as Competitive Layer
 
-Delivery platforms now act as an important layer in the retail ecosystem:
+Delivery platforms act as an intermediary between retailers and customers:
 
-- They aggregate demand across multiple retailers  
-- They provide a unified customer interface for ordering  
+- They aggregate multiple retailers in one interface  
+- They simplify ordering and delivery for customers  
 - They reduce the importance of physical proximity  
 
-Retailers that are more visible and accessible on these platforms are better positioned to capture demand.
+Retailers that are more accessible and better represented on these platforms are better positioned to capture demand.
 
 ---
 
 ## Nikora’s Digital Position
 
-Nikora has **partial digital presence**, but its capabilities are limited:
+Based on direct platform and app observation:
 
-- Nikora is available on Glovo  
-- However, its mobile application is **informational only**  
-- No direct online ordering through its own platform  
-- No integrated digital ecosystem combining ordering, delivery, and customer data  
+- Nikora is present on **Glovo**
+- However, Nikora’s own mobile application is **informational only**
+- No direct online ordering is available through Nikora’s own platform
+- Digital ordering is therefore dependent on third-party platforms
 
-As a result, Nikora does not fully control the customer journey in digital channels.
+This means Nikora does not fully control its digital customer experience.
 
 ---
 
-## Competitive Positioning
+## Competitive Positioning (Observed)
 
-Digital competition is not determined by presence alone, but by **depth of integration and accessibility**.
+Based on platform observation:
 
-- Basic presence (e.g., listing on Glovo) enables participation  
-- Strong digital ecosystem (own platform + delivery + integration) enables competitive advantage  
+- Multiple grocery and convenience retailers are available on delivery platforms  
+- Some retailers appear more prominently and offer broader or more accessible digital options  
+- Visibility, accessibility, and ease of ordering vary across retailers  
 
-Retailers with more structured and accessible digital channels are better positioned to:
-- Capture convenience-driven purchases  
-- Increase customer reach  
-- Strengthen customer relationships  
+This suggests that competition is influenced by **how effectively retailers operate within delivery ecosystems**, not just whether they are present.
 
 ---
 
 ## Key Implication
 
-Nikora should not be considered digitally absent, but **digitally underdeveloped**.
+Nikora should be viewed as **partially digital**, but:
 
-Its current level of digital capability:
-- Allows limited participation in digital demand  
-- But does not provide a strong competitive position  
+- Its digital presence is limited in functionality  
+- It lacks an integrated ordering system of its own  
+- It relies on third-party platforms to reach digital customers  
 
 ---
 
 ## Conclusion
 
-The original assumption that Nikora lacks digital presence is incorrect.  
+The initial assumption that Nikora lacks digital presence is incorrect.  
 However, the revised finding shows that:
 
-👉 **Nikora’s digital ecosystem is not sufficiently developed to compete effectively with more accessible and integrated competitors.**
+👉 **Nikora’s current digital setup does not provide a strong competitive position in an increasingly platform-driven retail environment.**
 
 ---
 
 ## Sources
 
-### Market & Platform Context
-| Source | Link |
-|--------|------|
-| TBC Capital FMCG Sector Report | https://tbccapital.ge |
-| Galt & Taggart E-commerce Report | https://galtandtaggart.com |
-
-### Consumer Behavior & Payments
-| Source | Link |
-|--------|------|
-| National Bank of Georgia | https://nbg.gov.ge |
-
 ### Platform Observation
-| Source | Note |
-|--------|------|
-| Glovo App | Verified Nikora presence and offering |
+- Glovo application (retailer presence and functionality)
+- Wolt application (retailer comparison and visibility)
+- Bolt Food application (market presence)
 
 ---
 
