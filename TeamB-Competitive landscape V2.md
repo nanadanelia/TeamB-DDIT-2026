@@ -1,505 +1,94 @@
-# Competitive Landscape of the Georgian Retail Industry
-
-## Purpose
-
-This analysis combines three strategic frameworks:
-
-- Porter’s Five Forces
-- Value Chain Analysis
-- Jobs-to-Be-Done Competition
-
-Together these frameworks help explain the structure of the Georgian retail market, identify sources of competitive advantage, and reveal how customer needs shape competition.
+# Georgian Grocery Retail Digital Ecosystem Transformation (Phase 1)
 
 ---
 
-# Georgian Retail Industry Overview
+## Core Problem
 
-The Georgian retail industry consists of several major categories that compete for household spending but operate with different supply chains, economics, and competitive dynamics.
+The Georgian grocery retail market is undergoing a structural shift from a **store-based model** toward a **platform-driven ecosystem**, where delivery platforms increasingly control how customers access retailers.
 
-Major retail segments include:
+While offline retail still dominates in volume, the fastest-growing share of consumer activity is moving toward digital channels. As a result, competitive advantage is shifting from **physical store density** to **digital accessibility and platform presence**.
 
-- **Grocery / FMCG retail** – supermarket and convenience chains such as Nikora, Ori Nabiji, Carrefour, SPAR, Magniti, and Daily Group  
-- **Fashion & apparel retail** – international brands such as Zara, Mango, LC Waikiki and mall-based fashion retailers  
-- **Electronics & appliance retail** – chains such as Alta and other electronics specialists  
-- **Beauty, pharmacy, and personal care retail** – pharmacy chains and cosmetics retailers  
-- **Home improvement & furniture retail** – retailers linked to housing and renovation demand  
-- **E-commerce and cross-border retail** – local marketplaces and global platforms such as Temu, Amazon, AliExpress, and Trendyol  
+Nikora is already present on Glovo, but its digital capabilities remain limited:
+- no proprietary online ordering platform  
+- reliance on third-party delivery channels  
+- limited control over customer experience and data  
 
-Although these segments differ operationally, they compete for the same consumer wallet.
-
-In addition to traditional retail players, the competitive landscape is increasingly shaped by cross-border and digital platforms such as Temu, AliExpress, and Trendyol. These platforms operate without physical infrastructure in Georgia and compete primarily on price, assortment, and digital convenience, introducing a fundamentally different competitive dynamic compared to traditional retail chains.
-This analysis focuses primarily on the **organized grocery/FMCG retail segment**, which is the largest and most structurally developed part of the Georgian retail industry due to its high purchase frequency, dense store networks, and complex logistics requirements. Other retail categories are referenced where they influence substitution patterns or competitive dynamics.
+This creates a structural risk of losing **customer interface and demand capture** to platform-based ecosystems.
 
 ---
 
+## Evidence
 
-# Statistical Overview and Market Trends
-
-# Online vs. Offline Shopping: Channel Comparison and Trends
-
-*Sources: TBC Capital FMCG Sector Reports (2024–2025), Galt & Taggart E-Commerce Report (2025), National Bank of Georgia Payment Statistics, Payments Laboratory (2025).*
-
----
-
-## Channel Size and Share
-
-The starting point is proportion. Offline retail still dominates Georgian consumer spending by a wide margin, but the balance is shifting year by year in one direction only.
-
-| Channel | Value | Share of Retail Turnover | YoY Growth |
-|---|---|---|---|
-| Total retail turnover | GEL ~25bn | 100% | +9.5% (2024) |
-| Offline (physical) | GEL ~23bn | ~92% | +7–8% |
-| Total e-commerce (online) | GEL 3.5bn | 8.0% (H1 2025) | +40.6% (H1 2025) |
-| — Local e-commerce | GEL 2.1bn | 2.2% of retail | +25–30% |
-| — Cross-border e-commerce | GEL 1.4bn | 5.8% of retail | +56.7% (H1 2025) |
-| — Services (Wolt, Glovo etc.) | GEL 1.6bn | included in e-com | fast-growing |
-
-While offline retail still represents ~92% of total turnover, nearly 100% of incremental growth in retail is shifting toward digital channels. With e-commerce growing at ~40% annually compared to ~7–8% offline, the effective battleground for future competition is increasingly digital rather than physical. Cross-border e-commerce alone (GEL 1.4bn, +56.7% YoY) is growing approximately 7–8x faster than offline retail, making it the most disruptive force in the market.
----
-
-## What Consumers Buy Online vs. Offline
-
-The channel split is not uniform across product categories. It follows a clear pattern governed by two factors: the importance of physical inspection and the tolerance for delivery wait time.
-
-**Offline dominates where freshness, immediacy, or touch matters.** Grocery and fresh food remain overwhelmingly physical — the bazaar and the neighborhood supermarket are the default for daily food shopping. Pharmacy and personal care are still largely in-store. High-involvement purchases like furniture, appliances, and cars remain physical because consumers want to see before they buy.
-
-**Online dominates or is rapidly growing where price and variety trump immediacy.** Electronics, household appliances, and equipment account for 65% of local e-commerce sales in Georgia, as retailers in this category were the first to invest meaningfully in digital channels. Fashion and apparel online purchasing is growing rapidly via cross-border platforms (Trendyol, Zara.com, Farfetch), where the variety available digitally far exceeds what any Georgian mall carries. Non-perishable household goods — cleaning products, personal care, stationery — are the fastest-growing cross-border category, driven almost entirely by Temu.
-
-| Category | Primary Channel | Trend |
-|---|---|---|
-| Fresh food & grocery | Offline (physical store / bazaar) | Stable offline; micro-shift to delivery aggregators |
-| Electronics & appliances | Online growing fast | 65% of local e-com revenue; cross-border accelerating |
-| Fashion & apparel | Mixed; cross-border gaining | Trendyol, Zara.com eating share from Georgian malls |
-| Pharmacy & personal care | Offline dominant | Slowly digitalizing; Temu competing on non-OTC items |
-| Home & furniture | Offline dominant | Limited online penetration; logistics barrier |
-| Food delivery (restaurants) | Online (aggregators) | Wolt, Glovo, Bolt — fast-growing, Tbilisi-concentrated |
-| Non-perishable household goods | Cross-border growing fast | Temu's primary growth category in Georgia |
+- E-commerce in Georgia is growing at approximately **40% annually**, significantly faster than offline retail (~7–8%), indicating a clear shift toward digital consumption :contentReference[oaicite:0]{index=0}  
+- Cross-border e-commerce reached approximately **GEL 1.4 billion** and is growing at **~56.7% YoY**, capturing an increasing share of consumer spending :contentReference[oaicite:1]{index=1}  
+- Delivery platforms (Wolt, Glovo, Bolt Food) are rapidly expanding and aggregating demand across retailers, becoming a key access point for urban consumers :contentReference[oaicite:2]{index=2}  
+- Competition is shifting from **store proximity to delivery speed and accessibility**, reducing the importance of physical networks as the primary advantage :contentReference[oaicite:3]{index=3}  
 
 ---
 
-## Payment Behavior: The Digital Transition in Numbers
+## Governing Thought
 
-Card and digital payment data from TBC Capital and the National Bank of Georgia provide a precise picture of how Georgian consumers are transacting — and how rapidly behavior is changing.
+The competitive model is evolving from **“Physical Store Density”** to **“Digital Accessibility & Platform Integration.”**
 
-TBC Bank's non-cash spending increased by 21% year-on-year, while the number of non-cash transactions grew by 13% — meaning average transaction values are rising as digital payments become normalized across more and more purchase occasions, not just large-ticket items. Within grocery specifically, non-cash grocery spending increased by 22% annually, with an average spending per transaction of GEL 16 — confirming that even micro-transactions at convenience stores are now predominantly digital.
-
-As of May 2025, approximately 130,000 POS terminals are operating across Georgia — a 6.5% increase over the previous year and a 29% rise over two years. In that month alone, POS transactions totaled GEL 2.1 billion, some GEL 500 million higher than the same month the previous year. Annual POS transaction volume has exceeded GEL 13.4 billion, reflecting a 49% year-on-year increase.
-
-The card-vs-cash paradox, however, reveals an important nuance. In H1 2025, 90.71% of card transactions by number in Georgia were payments — a share that has steadily risen from 83.66% in H1 2022. Yet 53.57% of card transactions by volume (GEL value) are still cash withdrawals. While this share has been declining from 64.82% in H1 2022, the pace of change remains relatively slow.
-
-The interpretation: Georgian consumers have embraced card payments for everyday, low-value transactions (groceries, coffee, convenience stores) but still reach for cash for larger purchases. Cards have won the frequency battle; cash still wins the value battle. This has direct retail implications — physical retailers who have not installed POS terminals are now actively losing small-ticket transactions to competitors who have, but premium and high-ticket categories still require cash-acceptance infrastructure.
-
-The rapid expansion of digital payments (POS transactions +49% YoY, total volume GEL 13.4bn+) indicates that infrastructure is no longer a binding constraint for e-commerce adoption. This suggests that future growth in online retail will be driven more by logistics, pricing, and user experience rather than payment availability.
----
-
-## Online vs. Offline: Key Behavioral Differences
-
-**Speed of decision-making.** Online shopping in Georgia — particularly via cross-border platforms — is driven by price discovery. Temu's Georgian users are primarily motivated by price, not brand loyalty. Offline shoppers in Georgian modern retail chains make faster, habitual decisions based on proximity and familiarity. The consideration cycle is much shorter in-store than online.
-
-**Basket composition.** Offline baskets are mixed — fresh, branded, and staple goods purchased in one trip. Online baskets are narrower and more category-specific: an AliExpress order is typically electronics accessories or household items; a Veli.Store order is typically a planned grocery replenishment rather than a spontaneous browse. The shopper is the same person using both channels for different jobs.
-
-**Trust differential.** A significant digital divide remains in Georgia, with infrastructure gaps — particularly in smaller towns and rural areas — and high merchant service fees discouraging card acceptance among small merchants. Trust in product authenticity is a known constraint for cross-border platforms specifically. Georgian consumers have reported quality inconsistency with Temu purchases in product reviews, yet continue to buy because the price advantage outweighs the trust deficit for low-risk, low-cost goods. For food and personal care, the trust barrier keeps offline dominant.
-
-**Demographic split.** Urban Tbilisi consumers aged 18–45 are the primary drivers of e-commerce growth in Georgia. Regional consumers, older demographics, and lower-income households remain predominantly offline — both by preference and by infrastructure constraint. As of 2022, roughly 24% of the Georgian population had ordered or purchased goods or services online in the past year — a figure that has grown since but still leaves the majority of Georgians as offline-only shoppers.
-
-**Tourism overlay.** Non-cash spending by non-residents in Georgia increased by 39% year-on-year — a significant signal that tourist spending is heavily card-based and concentrated in physical retail (fashion, restaurants, pharmacies, souvenirs). This creates a seasonal offline spending surge that benefits Tbilisi retailers disproportionately and reinforces the case for POS terminal investment in tourist-concentrated locations.
+In this environment, winning retailers will:
+- be easily accessible through delivery platforms  
+- integrate ordering, fulfillment, and customer interaction  
+- increase control over customer relationships and data  
 
 ---
 
-## The Structural Shift: What the Numbers Mean
+## Strategic Objectives
 
-Three conclusions follow directly from the channel data.
+### 1. Strengthen Digital Accessibility
 
-1. **Online-offline split will narrow steadily but not dramatically.** E-commerce is growing at 40%+ annually, but from a base of 8% penetration against an offline base of 92%. Physical retail will remain the dominant channel by volume for at least the next five years. The relevant question is not whether offline dies — it will not — but which offline formats survive and which categories bleed irreversibly to digital.
+Ensure Nikora is fully accessible in the channels where customers are already purchasing:
 
-2. **Payment infrastructure gap is closing faster than e-commerce gap.** The 49% YoY growth in POS transaction volumes signals that digital payment behavior is mainstreaming rapidly even in physical stores. This creates an opportunity: retailers who combine physical presence with digital payment data can start building the customer behavioral insights that pure online-only players have always had and that offline-only players have historically lacked.
-
-3. **Cross-border e-commerce is the most structural threat.** When a Georgian consumer buys from Temu, no Georgian retailer, distributor, or logistics operator captures meaningful value from that transaction. The GEL 1.4 billion in cross-border spending in 2024 — growing at 57% per year — represents a portion of consumer wallet that has effectively left the Georgian retail ecosystem. Domestic retailers and the Georgian banking ecosystem (TBC, BOG) have a shared interest in building compelling local digital alternatives before that wallet share becomes habitual and therefore structurally locked in to foreign platforms.
-
-4. **Competition is shifting from store density to logistics capability.** Historically, competitive advantage in Georgian grocery retail was driven by store proximity and network density. Increasingly, however, platforms such as Wolt and Glovo are redefining convenience as delivery speed rather than physical proximity, reducing the importance of store networks as the primary competitive advantage.
-
-
-## Expansion of organized retail
-
-Historically, Georgia’s retail sector was dominated by **small independent shops and open markets**. Over the past decade, however, organized retail chains have expanded rapidly.
-
-Large supermarket and convenience chains have opened hundreds of new stores, particularly in **Tbilisi, Batumi, Kutaisi, and other major cities**. This expansion has increased the market share of organized retail relative to traditional neighborhood stores.
-
-## Urbanization and store density
-
-Urban population growth has increased demand for modern retail formats. Dense urban areas support **convenience store networks** where customers make frequent small purchases rather than large weekly shopping trips.
-
-As a result, Georgia has seen rapid growth in **small-format convenience supermarkets** located within walking distance of residential areas.
-
-## Tourism-driven retail demand
-
-Tourism also contributes to retail demand. Prior to the pandemic, Georgia received **over 9 million international visitors annually**, and tourism recovery has again increased consumption in supermarkets, pharmacies, and convenience stores located in tourist areas.
-
-## E-commerce growth
-
-E-commerce remains smaller than traditional retail but is growing quickly. Consumers increasingly purchase clothing, electronics, and household goods from international platforms such as:
-
-- Amazon
-- AliExpress
-- Temu
-- Trendyol
-
-Local retailers are gradually developing **online ordering and delivery services**, particularly in grocery retail.
-
-## Price sensitivity and inflation
-
-Inflation has significantly influenced retail dynamics in recent years. Rising food prices have increased retail turnover but have also made consumers more price-sensitive.
-
-Retailers increasingly compete through:
-
-- Discounts
-- Loyalty programs
-- Private-label products
-
-## Key industry trends
-
-Several structural trends currently shape the Georgian retail industry:
-
-- Expansion of organized supermarket chains
-- Growth of convenience store formats
-- Increasing price competition
-- Gradual development of e-commerce
-- Rising importance of logistics and cold-chain infrastructure
-- Growing consumer expectations for product variety and quality
-
-These trends influence the competitive dynamics analyzed in the following sections. 
----
-
-# Part 1. Porter Five Forces
-
-The following analysis focuses primarily on the **organized grocery/FMCG retail segment**, while recognizing competitive pressure from other retail categories and digital platforms.
+- Improve positioning and performance on delivery platforms (Glovo, Wolt)  
+- Increase visibility and ease of ordering for digital customers  
 
 ---
 
-## Threat of new entrants
+### 2. Build Transactional Digital Capability
 
-**Barriers to entry**
+Move from **informational presence** to **transactional capability**:
 
-- High capital investment required for store networks, real estate, inventory, and logistics infrastructure  
-- Grocery retail requires cold-chain logistics and dense distribution networks  
-- Access to prime retail locations and strong supplier relationships takes time to build  
-
-**Sources of advantage for current leaders**
-
-- Economies of scale in procurement and logistics  
-- Established supplier networks and distribution infrastructure  
-- Brand recognition and customer trust  
-- Dense store networks in urban areas  
-
-**Likely new entrants**
-
-- International retail brands expanding into Georgian malls  
-- Regional or digital-first retailers  
-- Cross-border e-commerce platforms and marketplaces  
-
-**Force rating:** Medium
-
-**Strategic implication**
-
-Physical retail entry remains capital intensive, particularly in grocery retail. However, digital platforms reduce entry barriers in non-perishable categories. Retailers must strengthen logistics capabilities and digital channels to protect market share.
+- Develop own online ordering functionality (app or website)  
+- Enable direct customer interaction beyond third-party platforms  
 
 ---
 
-## Bargaining power of buyers
+### 3. Increase Control Over Customer Interface
 
-**Who are the main buyers?**
+Reduce dependency on platform intermediaries:
 
-- Georgian households purchasing everyday consumer goods  
-- Tourists and small businesses in certain retail categories  
-
-**How concentrated are they?**
-
-Buyers are highly fragmented, although consumer spending is concentrated in urban areas, especially Tbilisi.
-
-**How easy is switching?**
-
-Switching costs are extremely low. Consumers can easily switch between supermarket chains, online marketplaces, delivery apps, and other retail channels.
-
-**Force rating:** High
-
-**Strategic implication**
-
-Retailers must compete not only on price but also on convenience, assortment, loyalty programs, and customer experience.
+- Capture customer data and purchasing behavior  
+- Improve customer experience and retention mechanisms  
 
 ---
 
-## Bargaining power of suppliers
+### 4. Improve Operational Efficiency
 
-**Who are the critical suppliers?**
+Use digital demand to optimize operations:
 
-- Local agricultural producers  
-- International FMCG brands  
-- Electronics manufacturers and distributors  
-- Fashion brand owners  
-- Logistics providers  
-
-**How concentrated are they?**
-
-Supplier concentration varies by category. Local agricultural producers are relatively fragmented, while global FMCG brands and electronics manufacturers have stronger bargaining power.
-
-**How replaceable are they?**
-
-Commodity goods are easier to replace, while branded products and exclusive supplier relationships are more difficult to substitute.
-
-**Force rating:** Medium
-
-**Strategic implication**
-
-Retailers can reduce supplier power by diversifying sourcing, increasing local procurement, and developing private-label products.
-
-New in v2: Digital entrants
-
-Cross-border platforms such as Temu and AliExpress
-Asset-light models with no need for physical stores
-Ability to scale rapidly across markets
-
-Updated Force Rating: Medium → Medium–High
----
-
-## Threat of substitutes
-
-Substitution in Georgian retail is increasingly channel-based rather than product-based. Consumers are not only switching between retailers but between entire purchasing channels (physical stores, delivery platforms, cross-border e-commerce). This significantly increases substitution pressure across all retail categories.
-**What alternatives solve the same job?**
-
-- Traditional open markets and bazaars  
-- Neighborhood convenience stores  
-- Delivery aggregators  
-- Local online marketplaces  
-- International e-commerce platforms such as Temu, Amazon, AliExpress, and Trendyol  
-
-**Why would customers switch?**
-
-Customers may switch due to lower prices, wider product assortment, faster delivery, or greater convenience. For example, bazaars remain strong substitutes for fresh produce, while cross-border platforms compete strongly in non-perishable categories.
-
-**Force rating:** High
-
-**Strategic implication**
-
-Retailers must defend categories where physical retail still provides strong advantages, such as fresh food, urgent purchases, and trust-based consumption.
+- Improve inventory planning using demand signals  
+- Increase efficiency in logistics and fulfillment  
 
 ---
 
-## Competitive rivalry
+## Success Metric
 
-**Number and type of competitors**
+Success will be measured by:
 
-The Georgian retail market includes grocery chains, pharmacies, fashion brands, electronics retailers, shopping malls, local marketplaces, and global e-commerce platforms.
+- Growth in digital channel participation  
+- Increased visibility and accessibility on delivery platforms  
+- Improved ability to capture convenience-driven demand  
 
-**Basis of competition**
-
-- Price promotions  
-- Store proximity and convenience  
-- Product assortment  
-- Brand strength  
-- Customer experience  
-- Delivery speed and digital capabilities  
-
-**Price intensity:** High
-
-**Innovation intensity:** Moderate but increasing due to digital commerce and delivery services.
-
-**Force rating:** High
-
-**Strategic implication**
-
-Retail competition increasingly occurs between ecosystems rather than individual stores. Retailers must combine operational efficiency with digital capabilities and customer data strategies.
-
-Competition is evolving from retailer vs. retailer to ecosystem vs. ecosystem. For example, a traditional supermarket now competes not only with nearby stores but also with combinations of cross-border platforms + delivery services + digital payment ecosystems, which together provide alternative value propositions.
-
-
+Within a **12–18 month horizon**, Nikora should demonstrate measurable improvement in its digital competitiveness.
 
 ---
 
-# Part 2. Value Chain Analysis
+## Key Strategic Insight
 
-| Stage | Main activities | Main actors | Profit concentration | Digital pressure points |
-|------|----------------|-------------|----------------------|-------------------------|
-| Inbound logistics / sourcing | Importing, supplier negotiations, warehousing, local sourcing | Importers, local farms, global brands, retail chains | Low–Medium | Inventory systems, supplier integration |
-| Operations | Merchandising, pricing, staffing, checkout | Supermarket chains, fashion retailers, pharmacies, electronics stores | Medium | POS systems, analytics, dynamic pricing |
-| Outbound logistics | Delivery, fulfillment, last-mile transport | Retailers, marketplaces, delivery apps | Low | E-commerce platforms, route optimization |
-| Marketing & sales | Promotions, loyalty programs, CRM | Retail chains, marketplaces, digital platforms | High | Social media, loyalty apps, targeted advertising |
-| Service | Returns, customer support | Retailers and platforms | Low | Chatbots, automated service tools |
+The challenge is not whether Nikora participates in digital channels, but whether it can **compete effectively within them**.
 
-### Category differences in the retail value chain
-
-Retail value chains differ across categories. Grocery retail depends heavily on logistics efficiency and frequent replenishment, while fashion retail depends on inventory turnover and brand positioning. Electronics retail is influenced strongly by supplier relationships and price transparency.
-
-### Value chain interpretation
-
-**Which stage appears most vulnerable?**
-
-Inbound logistics and outbound logistics are vulnerable due to import dependence and the growing influence of digital platforms controlling delivery and customer access.
-
-**Which stage appears most defensible?**
-
-Store operations and distribution in categories requiring immediacy and freshness remain the most defensible.
-
-**Where could a platform insert itself?**
-
-Platforms can capture value in outbound logistics, delivery aggregation, and customer discovery.
-
-
-The highest value in the retail chain is shifting toward:
-
-Customer interface (apps, marketplaces, platforms)
-Last-mile logistics (delivery speed and reliability)
-
-Traditional retailers remain strongest in sourcing and physical distribution, but risk losing control over the customer relationship to digital intermediaries.
----
-
-# Part 3. Jobs-to-Be-Done Competition
-
-## Core customer job
-
-Customers want to reliably obtain everyday household essentials—especially food and groceries—conveniently, safely, and at a fair price.
-
----
-
-## Functional needs
-
-- Reliable product availability  
-- Competitive pricing  
-- Convenient store locations or delivery options  
-- Wide product assortment  
-- Fast checkout and payment  
-- Reliable online ordering and delivery  
-
----
-
-## Emotional or social needs
-
-- Trust in product quality and authenticity  
-- Confidence in food safety and brand reliability  
-- Convenience that reduces daily stress  
-- Satisfaction from finding good value  
-- Familiarity with trusted retailers or local markets  
-
----
-
-## Alternative solutions
-
-**Direct alternatives**
-
-- Competing supermarket chains  
-- Pharmacy networks  
-- Electronics retailers  
-- Local online marketplaces  
-
-**Indirect alternatives**
-
-- Traditional open markets and bazaars  
-- Delivery aggregators  
-- Cross-border e-commerce platforms such as Temu, Amazon, AliExpress, and Trendyol  
-
----
-
-## Interpretation
-
-Competition in Georgian retail extends beyond traditional store-to-store rivalry. Consumers increasingly choose between multiple channels including physical stores, delivery platforms, and international e-commerce marketplaces.
-
----
-
-# Part 4. Industry Map
-
-## Ecosystem actors
-
-The Georgian retail ecosystem operates across several interconnected layers:
-
-- **Production and supply layer** – local producers, manufacturers, international brands, and importers  
-- **Wholesale and distribution layer** – import distributors, warehouse operators, and logistics providers  
-- **Physical retail layer** – supermarkets, malls, fashion stores, pharmacies, electronics retailers, and neighborhood shops  
-- **Digital platform layer** – online marketplaces, delivery aggregators, and brand-owned e-commerce channels  
-- **Cross-border retail layer** – international platforms selling directly to Georgian consumers  
-
-# Ecosystem Power Shift
-
-Power within the retail ecosystem is shifting toward actors that control:
-
-1. **Customer Interface** — the primary touchpoint shaping purchasing decisions
-2. **Data** — the ability to understand, predict, and influence consumer behavior
-3. **Logistics** — the infrastructure enabling fast, reliable fulfillment
-
-> This shift favors **digital platforms and delivery aggregators** over traditional retailers that rely solely on physical presence.
-
----
-
-
-
----
-
-## Value flows
-
-Consumer spending flows through several retail channels:
-
-- Traditional physical retail purchases  
-- Delivery aggregator platforms  
-- Local online marketplaces  
-- Cross-border e-commerce platforms  
-
-Each channel captures different levels of value, data, and control within the retail ecosystem.
-
----
-
-## Digital pressure points
-
-- Delivery platforms increasingly control customer discovery and ordering  
-- Cross-border e-commerce increases price transparency and competition  
-- Regional last-mile logistics remain underdeveloped outside major cities  
-- Many retailers lack strong customer data and loyalty systems  
-- Uneven digital payment adoption creates differences between urban and regional markets  
-
----
-
-# Overall Conclusion
-
-The Georgian retail industry is evolving from a traditional store-based system into a multi-channel ecosystem shaped by digital platforms, delivery infrastructure, and cross-border e-commerce.
-
-While offline retail remains dominant (~92%), the fastest-growing share of consumer spending is shifting toward digital channels, particularly cross-border platforms such as Temu, which are capturing an increasing portion of the Georgian consumer wallet.
-
-Porter’s Five Forces analysis indicates rising pressure from digital entrants and substitutes, while value chain analysis highlights a shift in value capture toward customer interface and logistics. Jobs-to-be-done analysis shows that consumers increasingly use multiple channels to satisfy different needs.
-
-Final Insight
-
-Future competitive advantage will depend on the ability to integrate:
-Physical retail + digital platforms + delivery + customer data
-
-Retailers that fail to adapt risk losing relevance in an increasingly platform-driven ecosystem.
-
---
-
-## Retail Experience vs Value Map (Georgian Retail Market)
-
-X-axis: **Price Point** (Discount / Mass Market → Premium / Luxury)  
-Y-axis: **Service Level / Experience** (Self-Service / Online → High-Touch / Boutique)
-
-```mermaid
-quadrantChart
-    title Georgian Retail: Experience vs Value Map
-    x-axis Discount / Mass Market --> Premium / Luxury
-    y-axis Self-Service / Online --> High-Touch / Boutique
-
-    quadrant-1 Premium Experience
-    quadrant-2 Value with Service
-    quadrant-3 Discount Efficiency
-    quadrant-4 Premium Self-Service
-
-    Temu: [0.05, 0.10]
-    AliExpress: [0.10, 0.10]
-    Trendyol: [0.25, 0.20]
-
-    Ori Nabiji: [0.20, 0.35]
-    Magniti: [0.30, 0.40]
-
-    Nikora: [0.45, 0.50]
-    Carrefour: [0.55, 0.55]
-    SPAR: [0.60, 0.60]
-
-    Alta Electronics: [0.65, 0.60]
-    Zara: [0.75, 0.70]
-
-    Agrohub: [0.90, 0.85]
+👉 **Presence alone does not create advantage — accessibility, integration, and control do.**
