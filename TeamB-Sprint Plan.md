@@ -55,7 +55,7 @@ No hypothesis should remain Active at sprint close.
 
 ---
 
-## Industry Research Assignments (Mapped to Issue Tree)
+## Industry Research Assignments 
 
 | Task | Branch | Owner | Deliverable | Due Date |
 |------|--------|-------|-------------|----------|
@@ -68,7 +68,7 @@ No hypothesis should remain Active at sprint close.
 
 ---
 
-## Strategic Options Development (Nikora-Focused)
+## Strategic Options Development
 
 ### Option A: Full-Stack Digital Grocery Platform
 
@@ -139,14 +139,5 @@ Daviti M.
 |--------|--------|----------|-------|
 | Limited Georgia-specific data | Weak validation | Use proxies (Eastern Europe + NBG data) | Daviti M. |
 | Limited company-level data | Shallow analysis | Use observable proxies (stores, apps, partnerships) | Daviti K. |
-
----
-
-## Key Improvement vs Previous Version
-
-- Fully aligned with issue tree (Demand, Competition, Economics, Capabilities)
-- Focus shifted from general retail → Nikora-specific decision
-- Hypotheses simplified and made decision-oriented
-- Clear link between analysis and strategy
 
 ---
