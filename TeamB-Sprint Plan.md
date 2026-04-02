@@ -21,7 +21,7 @@ Reach a clear, evidence-based conclusion on whether online grocery is attractive
 
 ---
 
-## Hypothesis Testing Plan (Aligned to Issue Tree)
+## Hypothesis Testing Pla
 
 | ID | Branch | Hypothesis | Evidence Needed | Primary Source | Owner | Due Date |
 |----|--------|------------|----------------|----------------|-------|----------|
