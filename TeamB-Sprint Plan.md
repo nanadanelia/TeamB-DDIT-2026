@@ -43,7 +43,7 @@ No hypothesis should remain Active at sprint close.
 
 ---
 
-## Competitive Landscape Update Plan (Aligned)
+## Competitive Landscape Update Plan 
 
 | Section | What Needs to Change | Owner | Source | Due Date |
 |--------|---------------------|-------|--------|----------|
