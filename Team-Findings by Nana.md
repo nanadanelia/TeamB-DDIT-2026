@@ -4,68 +4,70 @@
 
 ---
 
-## H1 — Demand
+## H1 — Demand (Owner: Mariam)
 
 **Conclusion:** Supported
 
 **Evidence:**
-- Strong growth of delivery platforms (Wolt, Glovo)
-- Increasing digital payments in Georgia
-- Urban consumers value convenience and speed
+- Delivery platforms (Wolt, Glovo, Bolt Food) are widely used in urban Georgia
+- Digital payments and e-commerce activity are increasing rapidly
+- Consumers increasingly value convenience, speed, and accessibility
 
 **Implication:**  
-There is sufficient demand to justify entering online grocery.
+There is sufficient demand to justify entering and scaling online grocery.
 
 ---
 
 ## H2 — Competition (Owner: Nana)
 
-**Conclusion:** Supported
+**Conclusion:** Revised (Original hypothesis rejected, revised hypothesis supported)
 
 **Evidence:**
-- Carrefour and Spar offer online ordering and delivery
-- Presence on delivery platforms (Wolt, Glovo)
-- Nikora app is informational only (no ordering)
-- Nikora not present on delivery platforms
+- Nikora is present on Glovo, meaning it is not digitally absent
+- However, Nikora’s own mobile application is informational only and does not support online ordering
+- Nikora does not have a proprietary transactional digital platform
+- Competitors and delivery platforms provide easier and more accessible digital purchasing channels
+- Digital competition depends on accessibility and integration, not just presence
 
 **Implication:**  
-Nikora is structurally disadvantaged in capturing digital demand.
+Nikora is not digitally absent, but its digital ecosystem is underdeveloped, limiting its ability to compete effectively for convenience-driven demand.
 
 ---
 
-## H3 — Economics
+## H3 — Economics (Owner: Daviti M.)
 
 **Conclusion:** Supported
 
 **Evidence:**
-- Online baskets larger than offline (global benchmarks)
-- High last-mile delivery costs
-- Profitability depends on scale
+- Online grocery baskets are typically larger than offline purchases (global benchmarks)
+- Last-mile delivery is a major cost driver in online grocery models
+- Profitability depends on scale, density, and operational efficiency
 
 **Implication:**  
-Online grocery is viable but requires efficient execution.
+Online grocery is viable but requires efficient execution to achieve profitability.
 
 ---
 
-## H4 — Capabilities
+## H4 — Capabilities (Owner: Daviti K.)
 
 **Conclusion:** Supported
 
 **Evidence:**
-- Limited digital infrastructure at Nikora
-- No integrated delivery system
-- Competitors more advanced
+- Nikora lacks its own online ordering platform
+- Digital presence relies partly on third-party delivery platforms
+- Limited integration of digital ordering, logistics, and customer data
+- Competitors are better positioned in terms of digital accessibility
 
 **Implication:**  
-Nikora must build or access new capabilities to compete.
+Nikora must build or access new digital capabilities to compete effectively.
 
 ---
 
 ## Overall Conclusion
 
-- Demand exists  
-- Competitors are already capturing it  
-- Economics are viable but challenging  
-- Nikora lacks capabilities  
+- Demand for online and convenience-driven grocery is clearly increasing  
+- Competitors and delivery platforms are already capturing this demand  
+- Economics are viable but require strong execution  
+- Nikora is partially digital but not competitive  
 
-👉 Digital strategy is required for Nikora to remain competitive.
+👉 Nikora must strengthen its digital capabilities to remain competitive in the Georgian grocery market.
