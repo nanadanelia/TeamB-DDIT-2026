@@ -1,71 +1,88 @@
-#  Hypothesis Testing Summary — Georgian Online Grocery Market
+# Hypothesis Testing Summary — Nikora Digital Strategy (Georgia)
 
 ---
 
-## H1 — Georgian consumers are ready to adopt online grocery
+## H1 — Demand (Owner: Mariam)
 
-**Conclusion:  Partially Validated**
-> Readiness exists, but grocery adoption will be gradual.
+**Hypothesis:**  
+Urban Georgian consumers show strong adoption of delivery services, indicating readiness for online grocery demand.
+
+**Conclusion: Supported**  
+> Strong adoption of delivery and digital payments indicates clear demand for convenience-driven consumption, supporting the case for online grocery.
 
 **Supporting Evidence:**
-- E-commerce growth exceeding 40% annually
-- Digital payments growing rapidly
-- High usage of delivery platforms (Wolt, Glovo)
+- Rapid growth of delivery platforms (Wolt, Glovo, Bolt Food)
+- Strong increase in digital payments and e-commerce activity in Georgia
+- Urban consumers increasingly prioritize speed and convenience
 
 ---
 
-## H2 — Online grocery will generate incremental revenue
+## H2 — Competition (Owner: Nana)
 
-**Conclusion:  Likely Valid**
-> Incremental demand exists beyond cannibalization.
+**Hypothesis:**  
+Competitors with digital and delivery capabilities (Carrefour, Spar, Wolt) are gaining advantage over store-only retailers like Nikora.
+
+**Conclusion: Supported**  
+> Competitors with integrated digital and delivery capabilities are better positioned to capture demand, creating a competitive disadvantage for Nikora.
 
 **Supporting Evidence:**
-- Grocery is still ~92% offline → large untapped demand
-- Online channels used primarily for planned and convenience purchases
+- Carrefour and Spar offer online ordering and delivery services
+- Strong presence of competitors on Wolt and Glovo platforms
+- Nikora has limited visible digital and delivery capabilities
+- Expansion of delivery ecosystems increases competitive pressure
 
 ---
 
-## H3 — Cross-border e-commerce is the biggest competitive threat
+## H3 — Economics (Owner: Daviti M.)
 
-**Conclusion:  Strongly Validated**
+**Hypothesis:**  
+Online grocery increases basket size but introduces high last-mile delivery costs that pressure margins.
+
+**Conclusion: Supported**  
+> While online channels increase basket size, delivery and fulfillment costs significantly reduce profitability.
 
 **Supporting Evidence:**
-- GEL 1.4bn in cross-border consumer spending
-- Faster growth than local retail
-- Strong structural price advantage over domestic players
+- Global benchmarks show online grocery baskets are larger than in-store purchases
+- Last-mile delivery is a major cost driver in online grocery models
+- Profitability depends on scale and operational efficiency
 
 ---
 
-## H4 — Convenience is the primary driver of competition
+## H4 — Capabilities (Owner: Daviti K.)
 
-**Conclusion:  Strongly Validated**
+**Hypothesis:**  
+Nikora’s current capabilities (store network, logistics, digital platform) are insufficient to compete effectively in online grocery without strategic changes.
+
+**Conclusion: Supported**  
+> Nikora currently lacks the digital infrastructure and operational capabilities required to compete with omnichannel retailers.
 
 **Supporting Evidence:**
-- Dense store networks dominate the market (Magniti, Daily)
-- Rapid growth of third-party delivery platforms
+- Limited observable digital presence compared to competitors
+- Lack of integrated online ordering and delivery system
+- Dependence on physical store network as primary channel
 
 ---
 
-## H5 — Nikora can compete via digital instead of store density
+## Summary Table
 
-**Conclusion: Unproven — Requires Pilot Testing**
-
-**Supporting Evidence:**
-- Weaker physical store density vs. key competitors
-- Digital channels can provide an alternative form of convenience
-
----
-
-##  Summary Table
-
-| Hypothesis | Topic | Conclusion | Status |
-|------------|-------|------------|--------|
-| H1 | Consumer readiness for online grocery | Partially validated — gradual adoption expected |  Partial |
-| H2 | Online grocery generates incremental revenue | Likely valid — large offline base remains untapped |  Likely |
-| H3 | Cross-border e-commerce is biggest threat | Strongly validated by spending data & growth rates |  Strong |
-| H4 | Convenience is the primary competitive driver | Strongly validated by store network & delivery trends | Strong |
-| H5 | Nikora can substitute density with digital | Unproven — pilot testing required |  Unproven |
+| Hypothesis | Branch | Owner | Conclusion | Status |
+|------------|--------|-------|------------|--------|
+| H1 | Demand | Mariam | Strong demand for convenience-driven digital consumption | Supported |
+| H2 | Competition | Nana | Digital competitors have clear advantage over Nikora | Supported |
+| H3 | Economics | Daviti M. | Online grocery increases basket size but pressures margins | Supported |
+| H4 | Capabilities | Daviti K. | Nikora lacks required digital and operational capabilities | Supported |
 
 ---
 
+## Key Takeaway
 
+All four hypotheses are supported, indicating that:
+- Demand exists
+- Competition is already moving
+- Economics are challenging but viable
+- Capabilities are currently insufficient
+
+**Implication:**  
+Nikora must take strategic action in digital channels to remain competitive.
+
+---
