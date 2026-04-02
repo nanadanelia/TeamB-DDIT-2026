@@ -23,13 +23,15 @@ Urban Georgian consumers show strong adoption of delivery services, indicating r
 Competitors with digital and delivery capabilities (Carrefour, Spar, Wolt) are gaining advantage over store-only retailers like Nikora.
 
 **Conclusion: Supported**  
-> Competitors with integrated digital and delivery capabilities are better positioned to capture demand, creating a competitive disadvantage for Nikora.
+> Competitors with integrated digital and delivery capabilities are better positioned to capture demand, creating a clear competitive disadvantage for Nikora.
 
 **Supporting Evidence:**
-- Carrefour and Spar offer online ordering and delivery services
-- Strong presence of competitors on Wolt and Glovo platforms
-- Nikora has limited visible digital and delivery capabilities
-- Expansion of delivery ecosystems increases competitive pressure
+- Carrefour and Spar offer online grocery ordering through their own platforms and/or partnerships with delivery services, enabling customers to shop remotely and receive fast delivery.
+- Both Carrefour and Spar have visible presence on delivery platforms such as Wolt and Glovo, increasing accessibility and convenience for urban consumers.
+- Wolt and Glovo have expanded significantly in Georgia, offering grocery and convenience store delivery, indicating strong consumer shift toward on-demand purchasing.
+- Nikora’s mobile application is primarily informational (store locations, products) and does not support online ordering or integrated delivery.
+- Nikora does not have visible presence on major delivery platforms (Wolt, Glovo), limiting its ability to capture demand from customers who prefer digital and on-demand channels.
+- As a result, Nikora relies primarily on physical store visits, while competitors are capturing incremental demand through digital channels.
 
 ---
 
