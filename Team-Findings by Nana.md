@@ -1,73 +1,44 @@
-# Sprint 1 Findings Summary — Nikora Digital Strategy
+# H2 Findings Summary — Competition (Nana)
 
-> Purpose: Summarize hypothesis testing results across key drivers (Demand, Competition, Economics, Capabilities)
-
----
-
-## H1 — Demand
-
-**Conclusion:** Supported
-
-**Evidence:**
-- Strong growth of delivery platforms (Wolt, Glovo)
-- Increasing digital payments in Georgia
-- Urban consumers value convenience and speed
-
-**Implication:**  
-There is sufficient demand to justify entering online grocery.
+> Purpose: Summarize findings for Hypothesis 2 on Nikora’s digital competitive position.
 
 ---
 
-## H2 — Competition (Owner: Nana)
+## Hypothesis 2
 
-**Conclusion:** Revised (Original hypothesis rejected, revised supported)
+**Original Hypothesis:**  
+Competitors with digital and delivery capabilities have an advantage over Nikora because Nikora lacks digital presence.
 
-**Evidence:**
-- Nikora is present on Glovo, so it is not digitally absent
-- However, Nikora’s mobile application is informational only (no ordering functionality)
-- Nikora does not have its own transactional digital platform
-- Competitors and delivery platforms provide more accessible and convenient digital purchasing channels
-- Digital competition depends on accessibility and integration, not just presence
-
-**Implication:**  
-Nikora is partially digital but lacks a strong and integrated digital ecosystem, limiting its ability to compete effectively for convenience-driven demand.
+**Revised Hypothesis:**  
+Competitors with stronger and more integrated digital channels have an advantage over partially digital players like Nikora.
 
 ---
 
-## H3 — Economics
+## Conclusion
 
-**Conclusion:** Supported
+**Status:** Revised
 
-**Evidence:**
-- Online baskets larger than offline (global benchmarks)
-- High last-mile delivery costs
-- Profitability depends on scale
-
-**Implication:**  
-Online grocery is viable but requires efficient execution.
+The original hypothesis was rejected in its initial form because Nikora does have partial digital presence through Glovo. However, the revised hypothesis is supported: Nikora remains at a competitive disadvantage because its digital ecosystem is underdeveloped compared to more digitally accessible competitors.
 
 ---
 
-## H4 — Capabilities
+## Supporting Evidence
 
-**Conclusion:** Supported
-
-**Evidence:**
-- Limited digital infrastructure at Nikora
-- No proprietary online ordering platform
-- Reliance on third-party delivery platforms
-- Competitors more accessible through digital channels
-
-**Implication:**  
-Nikora must build or access new digital capabilities to compete effectively.
+- Nikora is present on Glovo, so it is not digitally absent.
+- Nikora’s own mobile application is primarily informational and does not support direct online ordering.
+- Nikora therefore does not currently own a full transactional customer journey through its own platform.
+- Digital competition is not only about whether a retailer is present online, but how accessible and integrated its digital channel is.
+- Competitors with stronger and more convenient digital access are better positioned to capture convenience-driven demand.
 
 ---
 
-## Overall Conclusion
+## Implication
 
-- Demand exists  
-- Competitors are already capturing it  
-- Economics are viable but challenging  
-- Nikora is partially digital but not competitive  
+Nikora should not be viewed as digitally absent, but as only partially digital. The strategic issue is not entry into digital channels for the first time, but strengthening digital capability, ownership, and integration to compete more effectively.
 
-👉 Digital strategy is required for Nikora to remain competitive.
+---
+
+## Key Takeaway
+
+**Presence does not equal competitiveness.**  
+Nikora has some digital presence, but its current level of digital integration is not strong enough to create a meaningful competitive advantage.
