@@ -1,223 +1,152 @@
-# Inter-Weekend Sprint Plan 
+# Inter-Weekend Sprint Plan — Aligned with Issue Tree v2
+
 ---
 
 ## Team Information
 
 - Team name: TeamB
-- Industry context: Georgian retail industry, mainly focused on groceries
+- Industry context: Georgian grocery retail (focus on Nikora)
 - Sprint window: March 15 to April 3
 - Sprint number: 1
-- Members: Nana Danelia, Daviti Mtchedlishvili, Davit Kulua, Mariam Berekashvili.
+- Members: Nana Danelia, Daviti Mtchedlishvili, Davit Kulua, Mariam Berekashvili
 
 ---
 
 ## Sprint Goal
 
-- Test five core hypotheses on digital grocery demand, competitive positioning, and logistics feasibility to assess whether online grocery can become a scalable and profitable growth channel for organized grocery retailers in Georgia.
-- Reach a clear, evidence-based conclusion on whether online grocery demand in Georgia is strong enough to justify investment and scaling by organized grocery retailers.
+Test four core drivers (Demand, Competition, Economics, Capabilities) to determine whether Nikora should invest in online grocery and identify the most viable strategic direction.
 
----
-## Hypothesis Testing Plan
-
-| ID | Hypothesis | Evidence Needed | Primary Source | Owner | Due Date | Review Date |
-|---|---|---|---|---|---|---|
-| H1 | Nikora is disadvantaged in physical retail because its store density is lower than competitors like Magniti and Daily | Number of stores by chain (Nikora, Magniti, Daily); | Company websites; retail market reports; company press releases | Nana| 2026-03-25 | 2026-03-28 |
-| H2 | Cross-border e-commerce platforms are capturing increasing Georgian consumer spending | Size of cross-border e-commerce market in Georgia; | Galt & Taggart E-commerce Sector Report; TBC Capital FMCG sector reports | Daviti M.| 2026-03-25 | 2026-03-28 |
-| H3 | Digital grocery ordering can increase average basket size compared with in-store convenience shopping | Average grocery basket size in physical stores; average online grocery basket size in comparable markets;  | McKinsey grocery e-commerce studies; Deloitte retail reports; international grocery benchmarks | Mariami | 2026-03-27 | 2026-03-30 |
-| H4 | Retailers that combine physical stores with digital ordering gain competitive advantage over store-only retailers | revenue growth after digital channel launch; customer retention data | McKinsey omnichannel retail reports; Deloitte digital retail studies; grocery industry case studies | Daviti K. | 2026-03-27 | 2026-03-30 |
-| H5 | Urban Georgian consumers are willing to order groceries online if delivery is reliable and fast | Adoption of delivery services (Wolt, Glovo, Bolt Food); growth of e-commerce penetration in Georgia; | National Bank of Georgia payment statistics; TBC Capital retail reports; Galt & Taggart e-commerce report | Mariami| 2026-03-25 | 2026-03-28 |
-
-### Hypothesis testing rules
-
-Every hypothesis test produces one of three outcomes: Supported, Rejected, or Revised. A hypothesis marked Active at the end of the sprint with no evidence is a planning failure, not a research finding. Update the hypothesis log as findings come in, not just at the end of the sprint.
+If only one thing gets done this sprint:
+Reach a clear, evidence-based conclusion on whether online grocery is attractive and feasible for Nikora.
 
 ---
 
-## Competitive Landscape Update Plan
+## Hypothesis Testing Plan (Aligned to Issue Tree)
 
-Identify what needs to be added to or revised in the competitive landscape based on Weekend feedback.
-
-| Section                            | What Needs to Change                             | Owner    | Source                    | Due Date |
-| ---------------------------------- | ------------------------------------------------ | -------- | ------------------------- | -------- |
-| Porter’s Five Forces update        | Add impact of online delivery platforms          | Nana     | Industry reports          | Mar 24   |
-| Value chain refinement             | Add digital logistics and last-mile delivery     | Mariam   | Retail case studies       | Mar 24   |
-| New entrant or substitute addition | Add delivery apps and e-commerce platforms       | Davit K | Market research           | Mar 24   |
-| Jobs-to-be-done gaps               | Identify convenience-based grocery shopping jobs | Daviti M | Customer behavior studies | Mar 24   |
-| Competitive matrix update          | Compare Nikora, Carrefour, Spar digital services | Nana     | Company websites          | Mar 24   |
-
+| ID | Branch | Hypothesis | Evidence Needed | Primary Source | Owner | Due Date |
+|----|--------|------------|----------------|----------------|-------|----------|
+| H1 | Demand | Urban Georgian consumers show strong adoption of delivery services, indicating readiness for online grocery demand | Delivery platform usage, e-commerce growth, payment trends | TBC Capital, NBG, Galt & Taggart | Mariam | Mar 25 |
+| H2 | Competition | Competitors with digital and delivery capabilities (Carrefour, Spar, Wolt) are gaining competitive advantage over store-only retailers like Nikora | Competitor digital offerings, pricing, delivery presence | Company websites, market reports | Nana | Mar 25 |
+| H3 | Economics | Online grocery increases basket size but introduces high last-mile delivery costs that pressure margins | Basket size benchmarks, delivery cost structure | McKinsey, Deloitte | Daviti M. | Mar 27 |
+| H4 | Capabilities | Nikora’s current capabilities (store network, logistics, digital platform) are insufficient to compete effectively in online grocery without strategic changes | Store density, logistics model, digital presence | Company data, observable proxies | Daviti K. | Mar 27 |
 
 ---
 
-## Industry Research Assignments
+## Hypothesis Testing Rules
 
-Assign specific research tasks to individual team members. A task without an owner does not get done.
+Each hypothesis must be classified as:
+- Supported
+- Rejected
+- Revised
 
-| Task                                   | Scope                             | Owner     | Deliverable           | Due Date |
-|----------------------------------------|-----------------------------------|-----------|-----------------------|----------|
-| Online grocery market size in Georgia  | Market statistics                 | Daviti M  | 1-page summary        | Mar 22   |
-| Competitor digital platforms           | Carrefour, Spar, Wolt Market      | Nani      | Competitor comparison | Mar 22   |
-| Delivery logistics models              | Dark stores vs store picking      | Mariam    | Research summary      | Mar 23   |
-| Customer behavior                      | Why people use grocery delivery   | Daviti K  | Findings summary      | Mar 23   |
-| Cost benchmarks                        | App development and delivery cost | Daviti M  | Cost estimates        | Mar 24   |
-| Retail digital transformation examples | Global grocery companies          | Nani      | Case study notes      | Mar 24   |
-
-### Source quality rule
-
-All claims introduced at the next weekend must be supported by a named primary source: regulator data, company filings, government statistics, credible industry reports, academic work, or verified earnings information. AI-generated content without independent source verification does not qualify as evidence.
+No hypothesis should remain Active at sprint close.
 
 ---
 
-## Strategic Options Development
+## Competitive Landscape Update Plan (Aligned)
 
-### Strategic Option A
+| Section | What Needs to Change | Owner | Source | Due Date |
+|--------|---------------------|-------|--------|----------|
+| Porter’s Five Forces | Add delivery platforms as key competitive force | Nana | Industry reports | Mar 24 |
+| Value Chain | Add digital fulfillment and last-mile delivery | Mariam | Case studies | Mar 24 |
+| Competitor Analysis | Compare Nikora vs Carrefour, Spar, Wolt | Nana | Company websites | Mar 24 |
+| Substitutes | Add cross-border platforms (Temu, Trendyol) | Daviti M. | Market reports | Mar 24 |
+| Jobs-to-be-Done | Focus on convenience and speed | Daviti K. | Consumer research | Mar 24 |
 
-- **Working title:** Integrated Online Grocery Platform  
+---
 
-- **Core logic in one sentence:**  
-Organized grocery retailers in Georgia (e.g., Nikora, Spar, Carrefour, Magniti) can strengthen their competitive position by building fully integrated online grocery ordering and delivery platforms that leverage existing store networks for fast and reliable fulfillment.
+## Industry Research Assignments (Mapped to Issue Tree)
 
-- **Primary evidence that supports it:**  
-Growing adoption of delivery services such as Wolt and Glovo in urban Georgia, combined with global grocery e-commerce growth documented in reports by McKinsey and Deloitte.
+| Task | Branch | Owner | Deliverable | Due Date |
+|------|--------|-------|-------------|----------|
+| Online grocery demand in Georgia | Demand | Mariam | 1-page summary | Mar 22 |
+| Competitor digital strategies | Competition | Nana | Comparison table | Mar 22 |
+| Delivery and fulfillment models | Economics | Daviti M. | Cost analysis | Mar 23 |
+| Customer behavior (convenience & price sensitivity) | Demand | Daviti K. | Findings summary | Mar 23 |
+| Cost structure (last-mile delivery) | Economics | Daviti M. | Cost estimates | Mar 24 |
+| Nikora capability assessment | Capabilities | Nana | Capability gap analysis | Mar 24 |
 
-- **Most important risk or tradeoff:**  
-High operational costs related to last-mile delivery logistics, fulfillment complexity, and technology infrastructure.
+---
 
-- **Owner for development:**  
+## Strategic Options Development (Nikora-Focused)
+
+### Option A: Full-Stack Digital Grocery Platform
+
+Core logic:
+Nikora builds its own integrated online ordering and delivery system leveraging its store network.
+
+Risk:
+High investment and operational complexity.
+
+Owner:
 Mariam
 
+---
 
-### Strategic Option B
+### Option B: Asset-Light Partnership Strategy
 
-- **Working title:** Retail–Delivery Platform Partnership Strategy  
+Core logic:
+Nikora partners with delivery platforms (Wolt, Glovo, Bolt) to enter online grocery quickly.
 
-- **Core logic in one sentence:**  
-Organized grocery retailers in Georgia can partner with existing delivery platforms to rapidly enter the online grocery market with lower upfront investment and faster time-to-market.
+Risk:
+Lower margins and dependence on third parties.
 
-- **Primary evidence that supports it:**  
-Rapid expansion of delivery ecosystems in Georgia through platforms like Bolt Food, Glovo, and Wolt, which already have logistics networks, user bases, and operational capabilities.
-
-- **Most important risk or tradeoff:**  
-Dependence on third-party platforms may reduce margins, weaken brand differentiation, and limit access to customer data.
-
-- **Owner for development:**  
+Owner:
 Nana
 
+---
 
-### Strategic Option C
+### Option C: Capability-First Optimization
 
-- **Working title:** AI-Enabled Retail Operations
+Core logic:
+Nikora focuses on strengthening logistics, data, and operations before scaling digital channels.
 
-- **Core logic in one sentence:**  
-Organized grocery retailers in Georgia can improve operational efficiency and customer experience by implementing AI-driven analytics for demand forecasting, inventory optimization, and personalized promotions across both physical and digital channels.
+Risk:
+Slower market entry and risk of losing early adopters.
 
-- **Primary evidence that supports it:**  
-Global retailers are increasingly using AI for supply chain optimization, pricing, and customer targeting, as highlighted in McKinsey and Deloitte digital retail transformation research.
-
-- **Most important risk or tradeoff:**  
-Requires significant investment in data infrastructure, analytics capabilities, and organizational transformation.
-
-- **Owner for development:**  
+Owner:
 Daviti M.
 
 ---
 
 ## Team Meeting Schedule
 
-Define the meeting cadence for this sprint. Teams that do not meet weekly lose analytical coherence.
-
-| Meeting            | Date   | Time  | Duration | Agenda                | Platform |
-|--------------------|--------|-------|----------|-----------------------|----------|
-| Check-in 1         | Mar 18 | 19:00 | 45 min   | Hypothesis review     | Teams    |
-| Working session    | Mar 21 | 19:00 | 90 min   | Competitive landscape | Teams    |
-| Check-in 2         | Mar 25 | 19:00 | 45 min   | Strategic options     | Teams    |
-| Working session    | Mar 29 | 19:00 | 90 min   | Draft artifacts       | Teams    |
-| Pre-weekend review | Apr 3  | 19:00 | 60 min   | Final review          | Teams    |
+| Meeting | Date | Time | Agenda |
+|--------|------|------|--------|
+| Check-in 1 | Mar 18 | 19:00 | Hypothesis review |
+| Working session | Mar 21 | 19:00 | Competitive landscape |
+| Check-in 2 | Mar 25 | 19:00 | Strategic options |
+| Working session | Mar 29 | 19:00 | Draft outputs |
+| Final review | Apr 3 | 19:00 | Sprint conclusions |
 
 ---
 
-## Deliverables Due at Next Weekend
+## Deliverables
 
-Each team member arrives at the next weekend having completed their assigned outputs. The following deliverables are submitted to the team folder in Microsoft Teams no later than 22:00 on the Friday before the weekend.
-
-| Deliverable           | Version | Owner    | Due Date | File                       |
-|-----------------------|---------|----------|----------|----------------------------|
-| Research findings     | v1      | All      | Apr 3    | TeamX_FindingsSummary      |
-| Hypothesis log        | v2      | Daviti K | Apr 3    | TeamX_HypothesisLog        |
-| Competitive landscape | v2      | Mariami  | Apr 3    | TeamX_CompetitiveLandscape |
-| Strategic options     | v1      | Nani     | Apr 3    | TeamX_StrategicOptions     |
-| Industry analysis     | v2      | Daviti M | Apr 3    | TeamX_IndustryAnalysis     |
+| Deliverable | Owner | Due Date |
+|------------|-------|----------|
+| Findings summary | All | Apr 3 |
+| Hypothesis log (updated) | Daviti K. | Apr 3 |
+| Competitive landscape v2 | Mariam | Apr 3 |
+| Strategic options v1 | Nana | Apr 3 |
+| Industry analysis | Daviti M. | Apr 3 |
 
 ---
 
-## Blockers and Escalation
+## Blockers and Mitigation
 
-Record any blockers that could prevent the sprint goal from being achieved. Escalate to the instructor if a blocker cannot be resolved within the team.
-
-| Blocker | Impact | Resolution Plan | Owner | Escalation Needed |
-|---|---|---|---|---|
-| Limited availability of Georgia-specific online grocery data| Weakens ability to validate demand and basket size hypotheses| Use proxy benchmarks from Eastern Europe + triangulate with TBC/NBG payment data| Daviti M. |  No |
-| Lack of company-level performance data (Nikora, Spar, OriNabiji)| Limits depth of competitive comparison|Use industry reports, estimates, and observable proxies (store count, app presence, delivery partnerships) | Davit K.| No |
+| Blocker | Impact | Solution | Owner |
+|--------|--------|----------|-------|
+| Limited Georgia-specific data | Weak validation | Use proxies (Eastern Europe + NBG data) | Daviti M. |
+| Limited company-level data | Shallow analysis | Use observable proxies (stores, apps, partnerships) | Daviti K. |
 
 ---
 
-## Sprint Retrospective
+## Key Improvement vs Previous Version
 
-Complete this section at the final pre-weekend review meeting.
-
-### What went well this sprint
-
-1. Clear hypothesis-driven structure was established early.
-2.Tasks were distributed with defined ownership.
-3. Strong alignment between hypotheses, research tasks, and strategic objectives
-
-### What slowed the team down
-
-1. Limited access to company-level data
-2.Difficulty translating broad research into clear, decision-oriented insights
-
-### What the team will do differently next sprint
-
-1. Start from hypotheses immediately, not general research
-2. Prioritize decision-making over data collection perfection
-
-### Hypothesis log status at sprint close
-
-| ID | Final Status | Key Finding in One Sentence |
-|---|---|---|
-| H1 |Active | Store density likely drives convenience advantage, but requires validation with geographic data|
-| H2 |Active | Cross-border e-commerce is growing rapidly and capturing increasing wallet share|
-| H3 |Active | Online grocery may increase basket size, but no Georgia-specific proof yet|
-| H4 | Active| Omnichannel retailers appear to have competitive advantage globally|
-| H5 | Active| Urban consumers show signs of readiness for online grocery adoption|
+- Fully aligned with issue tree (Demand, Competition, Economics, Capabilities)
+- Focus shifted from general retail → Nikora-specific decision
+- Hypotheses simplified and made decision-oriented
+- Clear link between analysis and strategy
 
 ---
-
-## Sprint-Specific Guidance by Sprint Number
-
-### Sprint 1 (Weekend 1 close — Weekend 2 open: March 15 to April 4)
-
-**Primary goal:** Test five hypotheses, update the competitive landscape, and develop three preliminary strategic options.
-
-**Critical outputs:** One-page findings summary per member, hypothesis log v2, competitive landscape v2, three strategic options v1.
-
-**Common failure mode:** Teams spend Sprint 1 doing general research rather than hypothesis-directed research. Start from the hypothesis log, not from a blank browser tab.
-
----
-
-### Sprint 2 (Weekend 2 close — Weekend 3 open)
-
-**Primary goal:** Refine strategic options based on Weekend 2 instructor feedback, build the business case skeleton, and draft the midterm recommendation logic.
-
-**Critical outputs:** Strategic options v2, business case skeleton, ROI model draft, midterm deck outline.
-
-**Common failure mode:** Teams treat sprint 2 as midterm preparation time only. The analytical work done in Sprint 2 must also feed the final project. Do not produce throwaway content.
-
----
-
-### Sprint 3 (Weekend 3 close — Weekend 4 open)
-
-**Primary goal:** Incorporate midterm feedback, strengthen the transformation roadmap, and build the governance and change management logic.
-
-**Critical outputs:** Transformation roadmap v2, governance plan v1, change management plan v1, final presentation structure.
-
-**Common failure mode:** Teams do not act on midterm feedback promptly. The first week after Weekend 3 is the highest-leverage time for improving the final project. Use it.
