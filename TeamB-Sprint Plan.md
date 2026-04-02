@@ -1,4 +1,4 @@
-# Inter-Weekend Sprint Plan — Aligned with Issue Tree v2
+# Inter-Weekend Sprint Plan 
 
 ---
 
