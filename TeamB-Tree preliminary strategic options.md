@@ -1,8 +1,5 @@
 # Three Preliminary Strategic Options — Nikora
 
-> Format: One sentence + rationale per option.
-
----
 
 ## Option 1 — Full In-House Digital Platform (Full Control Model)
 
