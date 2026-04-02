@@ -8,30 +8,29 @@
 Urban Georgian consumers show strong adoption of delivery services, indicating readiness for online grocery demand.
 
 **Conclusion: Supported**  
-> Strong adoption of delivery and digital payments indicates clear demand for convenience-driven consumption, supporting the case for online grocery.
+> Strong adoption of delivery platforms and digital payments indicates clear demand for convenience-driven consumption.
 
 **Supporting Evidence:**
 - Rapid growth of delivery platforms (Wolt, Glovo, Bolt Food)
-- Strong increase in digital payments and e-commerce activity in Georgia
-- Urban consumers increasingly prioritize speed and convenience
+- Increasing digital payments and e-commerce activity
+- Urban consumers prioritize convenience and speed
 
 ---
 
 ## H2 — Competition (Owner: Nana)
 
-**Hypothesis:**  
-Competitors with digital and delivery capabilities (Carrefour, Spar, Wolt) are gaining advantage over store-only retailers like Nikora.
+**Hypothesis (Original):**  
+Competitors with digital and delivery capabilities have an advantage over Nikora due to Nikora’s lack of digital presence.
 
-**Conclusion: Supported**  
-> Competitors with integrated digital and delivery capabilities are better positioned to capture demand, creating a clear competitive disadvantage for Nikora.
+**Conclusion: Revised**  
+> Nikora is present on delivery platforms (e.g., Glovo), but lacks a fully developed digital ecosystem, placing it at a competitive disadvantage compared to omnichannel competitors.
 
 **Supporting Evidence:**
-- Carrefour and Spar offer online grocery ordering through their own platforms and/or partnerships with delivery services, enabling customers to shop remotely and receive fast delivery.
-- Both Carrefour and Spar have visible presence on delivery platforms such as Wolt and Glovo, increasing accessibility and convenience for urban consumers.
-- Wolt and Glovo have expanded significantly in Georgia, offering grocery and convenience store delivery, indicating strong consumer shift toward on-demand purchasing.
-- Nikora’s mobile application is primarily informational (store locations, products) and does not support online ordering or integrated delivery.
-- Nikora does not have visible presence on major delivery platforms (Wolt, Glovo), limiting its ability to capture demand from customers who prefer digital and on-demand channels.
-- As a result, Nikora relies primarily on physical store visits, while competitors are capturing incremental demand through digital channels.
+- Carrefour and Spar offer integrated online ordering and delivery (own platforms + partnerships)
+- Strong competitor presence on delivery platforms (Wolt, Glovo)
+- Nikora is present on Glovo but does not have its own transactional platform
+- Nikora’s mobile application is informational only (no ordering functionality)
+- Delivery platforms are increasingly used for convenience-based consumption
 
 ---
 
@@ -41,27 +40,27 @@ Competitors with digital and delivery capabilities (Carrefour, Spar, Wolt) are g
 Online grocery increases basket size but introduces high last-mile delivery costs that pressure margins.
 
 **Conclusion: Supported**  
-> While online channels increase basket size, delivery and fulfillment costs significantly reduce profitability.
+> Online grocery improves basket size but introduces significant delivery costs, making profitability dependent on scale.
 
 **Supporting Evidence:**
-- Global benchmarks show online grocery baskets are larger than in-store purchases
-- Last-mile delivery is a major cost driver in online grocery models
-- Profitability depends on scale and operational efficiency
+- Global benchmarks show larger online basket sizes
+- Last-mile delivery is a major cost driver
+- Profitability improves with scale and efficiency
 
 ---
 
 ## H4 — Capabilities (Owner: Daviti K.)
 
 **Hypothesis:**  
-Nikora’s current capabilities (store network, logistics, digital platform) are insufficient to compete effectively in online grocery without strategic changes.
+Nikora’s current capabilities are insufficient to compete effectively in online grocery.
 
 **Conclusion: Supported**  
-> Nikora currently lacks the digital infrastructure and operational capabilities required to compete with omnichannel retailers.
+> Nikora lacks the digital infrastructure and operational capabilities required for effective competition.
 
 **Supporting Evidence:**
-- Limited observable digital presence compared to competitors
-- Lack of integrated online ordering and delivery system
-- Dependence on physical store network as primary channel
+- No proprietary online ordering platform
+- Limited digital integration compared to competitors
+- Reliance on physical store network and third-party platforms
 
 ---
 
@@ -69,22 +68,18 @@ Nikora’s current capabilities (store network, logistics, digital platform) are
 
 | Hypothesis | Branch | Owner | Conclusion | Status |
 |------------|--------|-------|------------|--------|
-| H1 | Demand | Mariam | Strong demand for convenience-driven digital consumption | Supported |
-| H2 | Competition | Nana | Digital competitors have clear advantage over Nikora | Supported |
-| H3 | Economics | Daviti M. | Online grocery increases basket size but pressures margins | Supported |
-| H4 | Capabilities | Daviti K. | Nikora lacks required digital and operational capabilities | Supported |
+| H1 | Demand | Mariam | Strong demand for digital convenience | Supported |
+| H2 | Competition | Nana | Presence exists but ecosystem is weak | Revised |
+| H3 | Economics | Daviti M. | Online grocery viable but margin-sensitive | Supported |
+| H4 | Capabilities | Daviti K. | Capabilities insufficient for competition | Supported |
 
 ---
 
 ## Key Takeaway
 
-All four hypotheses are supported, indicating that:
-- Demand exists
-- Competition is already moving
-- Economics are challenging but viable
-- Capabilities are currently insufficient
+- Demand exists  
+- Competitors are already capturing it  
+- Economics are viable but challenging  
+- Nikora is **partially digital but not competitive**
 
-**Implication:**  
-Nikora must take strategic action in digital channels to remain competitive.
-
----
+👉 Digital strategy must focus on strengthening capabilities, not just presence.
