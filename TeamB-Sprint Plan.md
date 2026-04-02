@@ -1,39 +1,23 @@
-# Inter-Weekend Sprint Plan Template
-
-## Purpose
-
-The sprint plan converts Weekend session outputs into structured research and analytical work that advances the team's project between contact days. Each sprint runs from the close of one weekend to the opening of the next.
-
-A sprint without a plan is a gap. Hypotheses stall, analysis fragments, and teams arrive at the next weekend having lost three weeks of momentum. Do not treat the inter-weekend period as independent study time. Treat it as a consulting project sprint with deadlines, owners, and defined outputs.
-
+# Inter-Weekend Sprint Plan 
 ---
 
 ## Team Information
 
 - Team name: TeamB
 - Industry context: Georgian retail industry, mainly focused on groceries
-- Sprint window: [March 15] to [April 3]
-- Sprint number: [ 1 ]
+- Sprint window: March 15 to April 3
+- Sprint number: 1
 - Members: Nana Danelia, Daviti Mtchedlishvili, Davit Kulua, Mariam Berekashvili.
 
 ---
 
 ## Sprint Goal
 
-Write one sentence. What is the single most important analytical advance this sprint must achieve for the team to be ready for the next weekend?
-
-- Sprint goal: Test five core hypotheses on digital grocery demand, competitive positioning, and logistics feasibility to assess whether online grocery can become a scalable and profitable growth channel for organized grocery retailers in Georgia.
-- If only one thing gets done this sprint, it must be: Reach a clear, evidence-based conclusion on whether online grocery demand in Georgia is strong enough to justify investment and scaling by organized grocery retailers.
+- Test five core hypotheses on digital grocery demand, competitive positioning, and logistics feasibility to assess whether online grocery can become a scalable and profitable growth channel for organized grocery retailers in Georgia.
+- Reach a clear, evidence-based conclusion on whether online grocery demand in Georgia is strong enough to justify investment and scaling by organized grocery retailers.
 
 ---
-
 ## Hypothesis Testing Plan
-
-From your hypothesis log, identify the five hypotheses you will test this sprint. For each, state the evidence needed, the source you will consult, the owner, and the due date. Hypotheses without owners and due dates do not get tested.
-
-
-From your hypothesis log, identify the five hypotheses you will test this sprint. For each, state the evidence needed, the source you will consult, the owner, and the due date. Hypotheses without owners and due dates do not get tested.
-
 
 | ID | Hypothesis | Evidence Needed | Primary Source | Owner | Due Date | Review Date |
 |---|---|---|---|---|---|---|
