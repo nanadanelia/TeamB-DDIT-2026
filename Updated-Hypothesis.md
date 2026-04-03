@@ -80,11 +80,13 @@ Profitability depends on platform ownership, scale, and cost efficiency, rather 
 
 ## H4 — Capabilities (Owner: Daviti K.)
 
-**Hypothesis:**  
+**Hypothesis (Original):**  
 Nikora’s current capabilities are insufficient to compete effectively in online grocery.
 
-**Conclusion: Revised**  
-> Nikora’s current digital and operational capabilities are still limited relative to what is required for strong online grocery competition.
+**Hypothesis: Revised**  
+> While Nikora lacks a traditional "App Store" presence, its digital strategy is "Backend-First." By prioritizing Social Commerce (AI Chatbots) and Logistics Automation over a standalone app, the company is successfully bypassing high third-party commissions while strengthening its operational core.
+
+
 
 **Supporting Evidence:**
 - Nikora does not have its own transactional online grocery platform.
@@ -100,7 +102,7 @@ Nikora’s current capabilities are insufficient to compete effectively in onlin
 |------------|--------|-------|------------|--------|
 | H1 | Demand | Mariam | Strong demand for digital convenience exists | Supported |
 | H2 | Competition | Nana | Original hypothesis rejected; revised hypothesis supported — Nikora has partial presence, but its digital ecosystem is underdeveloped | Revised |
-| H3 | Economics | Daviti M. | Online grocery is viable but margin-sensitive | Revised |
+| H3 | Economics | Daviti M. | Online grocery is viable but margin-sensitive | supported |
 | H4 | Capabilities | Daviti K. | Current capabilities are insufficient for strong competition | Revised |
 
 ---
