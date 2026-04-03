@@ -81,15 +81,19 @@ Profitability depends on platform ownership, scale, and cost efficiency, rather 
 Nikora’s current capabilities are insufficient to compete effectively in online grocery.
 
 **Hypothesis: Revised**  
-> While Nikora lacks a traditional "App Store" presence, its digital strategy is "Backend-First." By prioritizing Social Commerce (AI Chatbots) and Logistics Automation over a standalone app, the company is successfully bypassing high third-party commissions while strengthening its operational core.
+While Nikora lacks a traditional "App Store" presence, its digital strategy is "Backend-First." By prioritizing Social Commerce (AI Chatbots) and Logistics Automation over a standalone app, the company is successfully bypassing high third-party commissions while strengthening its operational core.
 
+**Conclusion: Revised** 
+> The initial hypothesis is revised. While Nikora appears to have limited digital capabilities due to the absence of a standalone app, its strategy reflects a deliberate shift toward a backend-first, efficiency-driven model. By leveraging chatbot-based ordering, hybrid delivery, and advanced logistics automation, the company strengthens margins and operational control rather than competing through traditional digital interfaces. Therefore, Nikora’s competitiveness is not constrained but enhanced through an unconventional digital approach.
 
 
 **Supporting Evidence:**
-- Nikora does not have its own transactional online grocery platform.
-- Its digital presence relies at least partly on third-party delivery ecosystems rather than owned infrastructure.
-- This limits control over customer experience, customer data, and channel development.
-- Competing effectively in online grocery requires stronger integration of ordering, fulfillment, and digital customer interaction.
+- Nikora operates a chatbot-based ordering system (Messenger/WhatsApp) that enables direct transactions without a standalone mobile application.
+- The company is transitioning from reliance on third-party delivery platforms toward a hybrid model that includes its own delivery capabilities.
+- This shift increases control over customer data through CRM integration and direct interaction channels.
+- Significant investment in logistics automation (warehouse, inventory systems, AI tools) enhances fulfillment efficiency and scalability.
+- Reduced dependence on high-commission aggregators improves profit margins per order.
+- Competitiveness is driven by operational efficiency and backend optimization rather than traditional app-based digital presence.
 
 ---
 
