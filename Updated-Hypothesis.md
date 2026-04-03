@@ -44,16 +44,37 @@ Competitors with stronger and more integrated digital channels have an advantage
 
 ## H3 — Economics (Owner: Daviti M.)
 
-**Hypothesis:**  
+## Hypothesis (Original)
 Online grocery increases basket size but introduces high last-mile delivery costs that pressure margins.
 
-**Conclusion: Supported**  
-> Online grocery can improve basket size, but delivery and fulfillment costs make profitability highly dependent on scale and operational efficiency.
+## Hypothesis (Revised)
+Online grocery does increase basket size significantly, but under third-party platforms (Glovo/Wolt), high commissions and delivery costs eliminate most of the margin. Profitability is therefore not just pressured — it is structurally limited unless the retailer owns the platform and achieves operational efficiency.
 
-**Supporting Evidence:**
-- Global benchmarks indicate that online grocery baskets are often larger than offline purchases.
-- Last-mile delivery remains one of the most important cost drivers in the online grocery model.
-- Profitability improves only when delivery density, basket size, and operational efficiency are strong enough to offset logistics costs.
+## Conclusion: Revised
+The original hypothesis is supported but requires refinement.  
+While online grocery clearly increases revenue per order through larger baskets, the current delivery model (third-party platforms) captures a large share of that value.  
+
+As a result, online grocery is revenue-accretive but not inherently profitable under aggregator models.  
+Profitability depends on platform ownership, scale, and cost efficiency, rather than basket size alone.
+
+---
+
+## Supporting Evidence
+
+- **Basket size effect:**  
+  Online grocery baskets are significantly larger (~85–110 GEL) compared to in-store convenience purchases (~15–20 GEL), indicating strong revenue upside  
+
+- **Commission vs. margin mismatch:**  
+  Grocery margins on essential goods are typically 5–10%, while platform commissions are ~20–30%, often exceeding total product margin  
+
+- **Last-mile cost pressure:**  
+  Last-mile delivery accounts for ~50%+ of total logistics cost, making it the most expensive part of the value chain  
+
+- **Fulfillment efficiency gap:**  
+  Manual store picking costs ~3–5 GEL per order, while automated systems reduce this to ~0.8–1.2 GEL, highlighting the importance of scale and infrastructure  
+
+- **Economic implication:**  
+  Under third-party platforms, a 100 GEL order can generate near-zero or negative profit, while an owned platform can recover ~20–30 GEL per order by eliminating commissions and improving efficiency
 
 ---
 
