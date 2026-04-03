@@ -47,11 +47,8 @@ Competitors with stronger and more integrated digital channels have an advantage
 ## Hypothesis (Original)
 Online grocery increases basket size but introduces high last-mile delivery costs that pressure margins.
 
-## Hypothesis (Revised)
 Online grocery does increase basket size significantly, but under third-party platforms (Glovo/Wolt), high commissions and delivery costs eliminate most of the margin. Profitability is therefore not just pressured — it is structurally limited unless the retailer owns the platform and achieves operational efficiency.
-
-## Conclusion: Revised
-The original hypothesis is supported but requires refinement.  
+ 
 While online grocery clearly increases revenue per order through larger baskets, the current delivery model (third-party platforms) captures a large share of that value.  
 
 As a result, online grocery is revenue-accretive but not inherently profitable under aggregator models.  
