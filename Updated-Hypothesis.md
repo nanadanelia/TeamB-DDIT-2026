@@ -4,16 +4,20 @@
 
 ## H1 — Demand (Owner: Mariam)
 
-**Hypothesis:**  
-Urban Georgian consumers show strong adoption of delivery services, indicating readiness for online grocery demand.
+**Hypothesis (Original):**  
+Urban Georgian consumers show strong adoption of delivery services, indicating readiness for online grocery demand
 
-**Conclusion: Supported**  
-> Strong adoption of delivery platforms and digital payments indicates clear demand for convenience-driven consumption.
+**Hypothesis (Revised):**  
+Urban Georgians indeed embrace delivery apps, but this usage is mainly for ready-made/convenience food. In other words, the strong adoption of Wolt/Glovo reflects a demand for quick meals and essentials, not necessarily full grocery shopping. Thus, while consumers are digitally active, this may not directly translate into broad online grocery purchasing.
+
+**Conclusion:  Revised**  
+The original hypothesis is partially supported but requires refinement. Data confirm that urban consumers use delivery platforms heavily, but the nature of that usage differs from buying a full grocery basket. Most delivery orders are for prepared meals and fast-moving items, not planned grocery lists. In short, hypothesis needs revision: Georgians are comfortable with digital ordering, but the current demand is convenience-driven rather than full online grocery fulfillment.
 
 **Supporting Evidence:**
-- Delivery platforms such as Wolt, Glovo, and Bolt Food are widely used in urban Georgia.
-- Growth in digital payments and e-commerce activity indicates increasing consumer comfort with digital purchasing.
-- Consumer demand is shifting toward speed, convenience, and accessibility, which supports online grocery adoption.
+-Delivery vs. Grocery split: Studies show 75–80% of Wolt/Glovo’s revenue comes from restaurant food delivery, with only ~20–25% from groceries or pharmacy items. This indicates consumer usage is skewed toward prepared food.
+-E-commerce growth vs. retail penetration: Georgia’s e-commerce market grew ~10× since 2018 to ~₾3.5 bn in 2024 with ~1.0 million online shoppers. Yet e-commerce is only 8% of total retail (1H2025)  meaning most retail still happens offline.
+-Cross-border effect: Cross-border shopping (Temu, AliExpress, etc.) is booming (+56.7% y/y in 1H25) with Temu alone ~50% of transaction volume. This shows Georgians are price-sensitive online shoppers, but mostly for non-perishable goods, not groceries
+-Overall, the data support a revision: urban consumers use delivery apps extensively, but primarily for quick-consumption items.
 
 ---
 
