@@ -1,30 +1,97 @@
-# Activity: Platform Strategy Canvas
+# Platform Strategy Canvas Template
 
 ## Purpose
 
-Apply platform theory to the client's specific competitive situation and make a strategic recommendation: build, join, defend, or acquire.
+This canvas maps your client's position in the platform competitive structure and produces a specific strategic recommendation: build, join, defend, or acquire.
 
-## Output
-Platform Strategy Canvas v1
+## Instructions
 
-## Time
-55 minutes
+Complete during the Saturday Platform Strategy Canvas workshop. Use the Platform Revolution concepts from the afternoon teaching block and your industry knowledge from Weekend 1.
 
-## Process
+---
 
-1. Sections 1 to 4 (20 minutes): Fill in value unit, producer side, consumer side, and network effect mechanism. Draw on Platform Revolution theory from pre-reading.
+## Section 1. Value unit
 
-2. Section 5 (10 minutes): Assess client's current position. Is the client today primarily a producer, consumer, or could it be a platform operator? What is its current leverage?
+What is the minimum unit of interaction the platform could facilitate in this industry? What changes hands between the two sides?
 
-3. Section 6 (15 minutes): Make a specific strategic recommendation. Justify with three reasons: one about client capabilities, one about competitive dynamics, one about financial logic.
+- Value unit:
+- Description:
 
-4. Section 7 (10 minutes): Define the first move. One specific action in the next 6 months. Who owns it? What does success look like?
+---
 
-## Quality standard
+## Section 2. Producer side
 
-Your recommendation must be specific. Not "we recommend exploring a platform strategy" but "we recommend building a two-sided lending platform connecting SME borrowers to institutional lenders, subsidizing the borrower side through zero-fee account opening in Year 1."
+Who produces value on the platform? What do they get from participation?
+
+- Producer type:
+- What they contribute:
+- What they receive:
+- Current number or market size:
+
+---
+
+## Section 3. Consumer side
+
+Who consumes value on the platform? What do they get from participation?
+
+- Consumer type:
+- What they seek:
+- What they receive:
+- Current number or market size:
+
+---
+
+## Section 4. Network effect mechanism
+
+- Primary network effect type (direct, indirect, data, local):
+- Mechanism description:
+- Critical mass threshold: what scale is needed for the effect to become self-sustaining?
+- Risk of negative network effects:
+
+---
+
+## Section 5. Client position
+
+Where does the client sit today?
+
+- Current role: producer / consumer / potential platform operator
+- Current leverage in the market:
+- Data assets available:
+- Customer relationship strength:
+
+---
+
+## Section 6. Strategic recommendation
+
+Choose one: Build / Join / Defend / Acquire
+
+- Recommendation:
+- Reason 1 (client capabilities):
+- Reason 2 (competitive dynamics):
+- Reason 3 (financial logic):
+
+---
+
+## Section 7. First move
+
+What is the one specific action the client must take in the next 6 months?
+
+- Action:
+- Owner:
+- Success metric:
+- Investment required (order of magnitude):
+
+---
+
+## Quality check
+
+Before finalizing:
+- Is the recommendation specific, not vague?
+- Are the three justification reasons distinct and evidence-based?
+- Does the first move pass the specificity test: could someone actually execute it?
+- Have you confronted the chicken-and-egg problem if you recommended Build?
 
 ## Deliverable
 
-Save as:
+Save in your team folder as:
 `platform_strategy_canvas_v1.md`
