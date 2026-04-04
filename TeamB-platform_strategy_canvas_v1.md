@@ -1,97 +1,115 @@
-# Platform Strategy Canvas Template
-
-## Purpose
-
-This canvas maps your client's position in the platform competitive structure and produces a specific strategic recommendation: build, join, defend, or acquire.
-
-## Instructions
-
-Complete during the Saturday Platform Strategy Canvas workshop. Use the Platform Revolution concepts from the afternoon teaching block and your industry knowledge from Weekend 1.
+# Platform Strategy Canvas v1 — Retail Industry
 
 ---
 
 ## Section 1. Value unit
 
-What is the minimum unit of interaction the platform could facilitate in this industry? What changes hands between the two sides?
+- Value unit: Transaction (product discovery → purchase → fulfillment)
 
-- Value unit:
-- Description:
+- Description:  
+A consumer discovers and purchases a product from a supplier or retailer through the platform. The platform facilitates matching, pricing, transaction, and potentially delivery.
 
 ---
 
 ## Section 2. Producer side
 
-Who produces value on the platform? What do they get from participation?
+- Producer type:  
+Brands, manufacturers, wholesalers, and third-party sellers
 
-- Producer type:
-- What they contribute:
-- What they receive:
-- Current number or market size:
+- What they contribute:  
+Products, inventory, pricing, and product information
+
+- What they receive:  
+Access to demand, sales volume, customer data, and distribution
+
+- Current number or market size:  
+Highly fragmented, with thousands to millions of potential suppliers depending on category
 
 ---
 
 ## Section 3. Consumer side
 
-Who consumes value on the platform? What do they get from participation?
+- Consumer type:  
+End customers (online and omnichannel retail shoppers)
 
-- Consumer type:
-- What they seek:
-- What they receive:
-- Current number or market size:
+- What they seek:  
+Convenience, product variety, competitive pricing, and fast delivery
+
+- What they receive:  
+Access to a wide assortment of products, personalized recommendations, and seamless purchasing experience
+
+- Current number or market size:  
+Mass market — millions of active retail customers depending on geography
 
 ---
 
 ## Section 4. Network effect mechanism
 
-- Primary network effect type (direct, indirect, data, local):
-- Mechanism description:
-- Critical mass threshold: what scale is needed for the effect to become self-sustaining?
-- Risk of negative network effects:
+- Primary network effect type:  
+Indirect + Data network effects
+
+- Mechanism description:  
+More suppliers increase product variety, which attracts more customers. More customers attract additional suppliers. At the same time, more transactions generate better data, improving recommendations, pricing, and user experience.
+
+- Critical mass threshold:  
+A sufficient number of suppliers to ensure broad assortment and enough active customers to generate frequent transactions (e.g., consistent daily order volume).
+
+- Risk of negative network effects:  
+Low-quality suppliers, counterfeit products, or poor delivery experience can reduce trust and weaken the platform.
 
 ---
 
 ## Section 5. Client position
 
-Where does the client sit today?
+- Current role:  
+Traditional retailer (potential platform operator)
 
-- Current role: producer / consumer / potential platform operator
-- Current leverage in the market:
-- Data assets available:
-- Customer relationship strength:
+- Current leverage in the market:  
+Strong physical presence, established supply chain, and existing customer base
+
+- Data assets available:  
+Transaction data, customer purchase history, pricing data, and inventory data
+
+- Customer relationship strength:  
+High — direct interaction with customers through stores and/or digital channels
 
 ---
 
 ## Section 6. Strategic recommendation
 
-Choose one: Build / Join / Defend / Acquire
+- Recommendation:  
+Build (hybrid platform model)
 
-- Recommendation:
-- Reason 1 (client capabilities):
-- Reason 2 (competitive dynamics):
-- Reason 3 (financial logic):
+- Reason 1 (client capabilities):  
+The client already has strong supply chain infrastructure, customer base, and data assets that can be leveraged to support a platform model.
+
+- Reason 2 (competitive dynamics):  
+Digital marketplaces and direct-to-consumer models are increasing competitive pressure, and failure to evolve risks disintermediation.
+
+- Reason 3 (financial logic):  
+A platform model enables additional revenue streams (commissions, data monetization) and improves asset utilization without proportional cost increase.
 
 ---
 
 ## Section 7. First move
 
-What is the one specific action the client must take in the next 6 months?
+- Action:  
+Launch a curated third-party seller marketplace within the existing online channel, starting with a limited number of vetted suppliers
 
-- Action:
-- Owner:
-- Success metric:
-- Investment required (order of magnitude):
+- Owner:  
+Head of Digital / E-commerce
+
+- Success metric:  
+Number of active sellers, share of GMV from third-party products, and customer engagement (conversion rate)
+
+- Investment required (order of magnitude):  
+Medium (technology integration, onboarding processes, and platform development)
 
 ---
 
 ## Quality check
 
-Before finalizing:
-- Is the recommendation specific, not vague?
-- Are the three justification reasons distinct and evidence-based?
-- Does the first move pass the specificity test: could someone actually execute it?
-- Have you confronted the chicken-and-egg problem if you recommended Build?
-
-## Deliverable
-
-Save in your team folder as:
-`platform_strategy_canvas_v1.md`
+- The recommendation is specific and actionable  
+- Justifications are distinct: capability, competition, and financial logic  
+- The first move is concrete and executable within 6 months  
+- The chicken-and-egg problem is addressed by starting with curated suppliers and existing customer base  
