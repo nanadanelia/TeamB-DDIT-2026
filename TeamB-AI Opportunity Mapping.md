@@ -1,37 +1,171 @@
-# Activity: AI Opportunity Mapping
+# AI Opportunity Map v1 — Retail Industry
 
-## Purpose
+---
 
-Map specific AI use cases to specific value chain activities and evaluate them on two dimensions: business value potential and implementation readiness.
+## 1. Value Chain Activities & AI Use Cases
 
-## Output
-AI Opportunity Map v1
+### Procurement & Supplier Management
+- **Demand forecasting for purchasing**  
+  Capability: Prediction  
+  Value: High  
+  Readiness: High  
+  Evidence: Improved forecast accuracy reduces stockouts and excess inventory, impacting working capital and sales by >10%.
 
-## Time
-60 minutes
+- **Supplier performance analytics**  
+  Capability: Synthesis  
+  Value: Medium  
+  Readiness: Medium  
 
-## Process
+---
 
-1. List every value chain activity from your Weekend 1 Competitive Landscape. Add specific AI use cases alongside each activity. Use the capability vocabulary: prediction, generation, synthesis, agent workflow.
+### Logistics & Distribution
+- **Route optimization & delivery prediction**  
+  Capability: Prediction  
+  Value: High  
+  Readiness: High  
+  Evidence: Optimized routing reduces transportation costs and delivery times by more than 10%.
 
-2. Score each use case on business value potential (High, Medium, Low) and implementation readiness (High, Medium, Low). For High value scores, write one sentence of evidence. For Low readiness scores, name the specific barrier.
+- **Autonomous warehouse operations**  
+  Capability: Agent workflow  
+  Value: High  
+  Readiness: Low  
+  Barrier: Requires significant capital investment and infrastructure redesign  
 
-3. Place use cases in the 2x2 matrix. Identify two priority use cases in the Deploy Now quadrant and two in the Invest to Enable quadrant.
+---
 
-4. For the two Deploy Now use cases, draft a two-sentence business case: the mechanism by which value is created and the rough order-of-magnitude financial impact.
+### Inventory Management
+- **Dynamic inventory allocation across channels**  
+  Capability: Prediction  
+  Value: High  
+  Readiness: Medium  
+  Evidence: Better allocation reduces markdowns and increases product availability.
 
-## Scoring definitions
+- **Automated replenishment decisions**  
+  Capability: Agent workflow  
+  Value: Medium  
+  Readiness: Medium  
 
-| Dimension | High | Medium | Low |
-|---|---|---|---|
-| Business value | Greater than 10% impact on a material business metric | 3 to 10% impact | Less than 3% impact |
-| Implementation readiness | Deployable within 6 months with current infrastructure | 12 months with modest investment | 24+ months requiring significant foundational work |
+---
 
-## Common error
+### Pricing & Merchandising
+- **Dynamic pricing optimization**  
+  Capability: Prediction  
+  Value: High  
+  Readiness: Medium  
+  Evidence: Price optimization improves margins and revenue through demand-based adjustments.
 
-Scoring everything Medium to avoid committing to a position. Force differentiation.
+- **Assortment optimization**  
+  Capability: Prediction / Synthesis  
+  Value: High  
+  Readiness: Medium  
 
-## Deliverable
+---
 
-Save as:
-`ai_opportunity_map_v1.md`
+### Store Operations
+- **AI-based workforce scheduling**  
+  Capability: Prediction  
+  Value: Medium  
+  Readiness: High  
+  Evidence: Aligning staffing with demand reduces labor inefficiencies and costs.
+
+- **Computer vision for store monitoring**  
+  Capability: Prediction / Synthesis  
+  Value: Medium  
+  Readiness: Medium  
+
+---
+
+### Marketing & Customer Experience
+- **Personalized recommendations & promotions**  
+  Capability: Prediction  
+  Value: High  
+  Readiness: High  
+  Evidence: Personalized targeting increases conversion rates and basket size by >10%.
+
+- **AI-powered customer service agents (chatbots)**  
+  Capability: Generation / Agent workflow  
+  Value: High  
+  Readiness: High  
+  Evidence: Automates a large share of customer inquiries, reducing support costs and improving response time by more than 10%.
+
+- **AI-generated marketing content**  
+  Capability: Generation  
+  Value: Medium  
+  Readiness: High  
+
+---
+
+### Sales & Digital Channels
+- **Recommendation engines (cross-sell / upsell)**  
+  Capability: Prediction  
+  Value: High  
+  Readiness: High  
+  Evidence: Increases average order value and customer engagement.
+
+- **Conversational shopping assistants**  
+  Capability: Agent workflow  
+  Value: Medium  
+  Readiness: Medium  
+
+---
+
+## 2. 2x2 Matrix
+
+### Deploy Now (High Value / High Readiness)
+- Demand forecasting  
+- Route optimization  
+- Personalized recommendations  
+- Recommendation engines  
+- AI customer service agents  
+
+---
+
+### Invest to Enable (High Value / Low Readiness)
+- Autonomous warehouse operations  
+- Advanced dynamic pricing (real-time, fully integrated)  
+
+---
+
+### Optimize / Scale (Medium Value / High Readiness)
+- Workforce scheduling  
+- AI-generated marketing content  
+
+---
+
+### Experiment (Medium Value / Medium/Low Readiness)
+- Conversational assistants  
+- Computer vision in stores  
+
+---
+
+## 3. Priority Use Cases
+
+### Deploy Now
+
+#### Demand Forecasting
+AI improves demand predictions, reducing stockouts and excess inventory. This lowers working capital requirements and increases sales, with impact exceeding 10% on inventory-related costs.
+
+#### AI Customer Service Agents
+AI handles high volumes of customer interactions automatically, reducing support costs and improving response times. This creates immediate operational efficiency while enhancing customer experience at scale.
+
+---
+
+### Invest to Enable
+
+#### Autonomous Warehousing
+Requires infrastructure transformation and high capital investment, but offers long-term cost reduction and scalability benefits.
+
+#### Dynamic Pricing Optimization
+Requires real-time data integration and governance capabilities. Once implemented, it enables continuous margin optimization and revenue uplift.
+
+---
+
+## 4. Key Insight
+
+AI creates the most value in retail where prediction is currently expensive, particularly in demand forecasting, pricing, and customer behavior. As prediction becomes cheap, competitive advantage shifts toward judgment, including pricing strategy, supplier relationships, and brand positioning.
+
+---
+
+## 5. Data Advantage
+
+Retailers with strong customer and transaction data are structurally advantaged in AI adoption. Better data leads to better predictions, creating reinforcing competitive advantages over time.
