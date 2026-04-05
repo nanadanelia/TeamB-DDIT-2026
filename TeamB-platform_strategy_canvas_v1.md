@@ -1,63 +1,122 @@
-# Strategic Problem Statement Worksheet
+# Platform Strategy Canvas v1 — Pharmaceutical Retail Platform (Georgia)
 
-## Purpose
+## Section 1. Value unit
 
-A project without a clear problem statement drifts. This worksheet defines the strategic challenge in a precise and focused way.
+- **Value unit:**  
+  Recommendation-to-purchase healthcare and wellness transaction
 
----
-
-## Part 1. Context
-
-- **Industry:** Pharmaceutical retail and healthcare distribution in Georgia
-- **Focal company or client:** PSP
-- **Primary disruption force:** Fragmentation of the customer journey across doctor recommendations, influencer-driven product discovery, and pharmacy purchase channels, combined with rising digital expectations for convenience, personalization, and delivery
-- **Why this matters now:** Consumers increasingly expect a seamless digital experience in healthcare and wellness, while no platform in Georgia currently connects trusted medical recommendations, lifestyle-driven discovery, and direct purchase in one integrated flow. This creates a major strategic opportunity for a pharmacy chain to strengthen its market position and capture more value.
+- **Description:**  
+  The platform connects doctor recommendations, influencer-driven product discovery, pharmacy inventory, and patient demand in one flow. A user receives a recommendation (medical or lifestyle), discovers the product, and completes the purchase seamlessly.
 
 ---
 
-## Part 2. Current position
+## Section 2. Producer side
 
-Describe the client's current position.
+- **Producer type:**  
+  Pharmacies, pharmaceutical distributors, clinics, doctors, and skincare/beauty influencers
 
-- **Strengths:**  
-  Strong pharmacy network, existing customer trust, supplier and distributor relationships, physical presence, and access to transaction and customer data
+- **What they contribute:**  
+  Pharmacies and distributors provide products, inventory, pricing, and fulfillment.  
+  Doctors contribute trusted medical recommendations.  
+  Influencers contribute product discovery, content, and demand generation, particularly in skincare and wellness categories.
 
-- **Vulnerabilities:**  
-  No integrated digital platform, weak connection to doctor recommendations, limited use of influencer-driven demand, and risk of losing customers to more convenient digital channels
+- **What they receive:**  
+  Access to demand, higher conversion rates, monetization opportunities (commissions, partnerships), and visibility to a larger audience.
 
-- **Strategic tension:**  
-  The company has strong offline trust and infrastructure, but the market is moving toward digital, integrated, and experience-driven consumption. The challenge is how to transform without damaging trust or adding unmanageable complexity.
-
----
-
-## Part 3. Core strategic problem
-
-Write one sentence.
-
-### Strong format
-How should [client] respond to [specific disruption force] in order to [strategic objective] while managing [main constraint]?
-
-### Draft
-- **Problem statement:**  
-  How should a leading pharmacy chain in Georgia respond to the fragmented healthcare-to-purchase journey by building an integrated digital platform in order to capture demand and increase customer lifetime value while managing trust, regulation, and operational complexity?
+- **Current number or market size:**  
+  The pharmaceutical retail market in Georgia is concentrated among several chains, while the influencer ecosystem (especially in skincare and beauty) is growing rapidly and remains fragmented.
 
 ---
 
-## Part 4. What this problem is not
+## Section 3. Consumer side
 
-List one or two nearby questions that look related but are not the central question.
+- **Consumer type:**  
+  Patients and general consumers (healthcare and beauty/wellness segments)
 
-1. How can the company improve individual pharmacy store performance or pricing competitiveness?
-2. How can the company launch a basic e-commerce website without integrating doctors, influencers, and other ecosystem players?
+- **What they seek:**  
+  Trust (doctor recommendations), convenience, product availability, price transparency, and inspiration (influencer content)
 
-This helps keep scope clean.
+- **What they receive:**  
+  A unified journey where they can move from recommendation (medical or lifestyle) directly to purchase, with reliable product availability and delivery.
+
+- **Current number or market size:**  
+  Broad mass market with high frequency of purchases, especially in recurring categories such as skincare, vitamins, and wellness products.
 
 ---
 
-## Part 5. Success criteria
+## Section 4. Network effect mechanism
 
-If the team answers this question well, what should become clearer?
+- **Primary network effect type:**  
+  Indirect + data network effects
 
-- **Criterion 1:** Whether the company should build, partner, or scale a platform model
-- **Criterion 2:** How doctor recommendations, influencer content, and pharmacy inventory can be integrated into one ecosystem
-- **Criterion 3:** What business model can deliver growth, trust, and monetization at the same time
+- **Mechanism description:**  
+  More doctors and influencers generate more recommendations and content, attracting more users. More users increase transaction volume, attracting more pharmacies and suppliers. Increased activity generates data that improves personalization, recommendations, and product relevance.
+
+- **Critical mass threshold:**  
+  Sufficient number of active recommendation sources (clinics + influencers) combined with strong pharmacy coverage in major cities (especially Tbilisi).
+
+- **Risk of negative network effects:**  
+  Misinformation from influencers, low-quality or biased recommendations, and inconsistent fulfillment could reduce trust. Managing credibility and verification is critical.
+
+---
+
+## Section 5. Client position
+
+- **Current role:**  
+  Potential platform operator
+
+- **Current leverage in the market:**  
+  Strong pharmacy network, brand trust, supplier relationships, and existing customer base
+
+- **Data assets available:**  
+  Transaction data, product demand data, customer behavior, and potential integration with recommendation data (doctor and influencer-driven)
+
+- **Customer relationship strength:**  
+  High — especially in recurring categories like healthcare and skincare, where trust and habit are important
+
+---
+
+## Section 6. Strategic recommendation
+
+- **Recommendation:**  
+  Build (healthcare and wellness integrated platform)
+
+- **Reason 1 (client capabilities):**  
+  The client combines healthcare trust, physical infrastructure, and supplier access, creating a strong foundation for a platform.
+
+- **Reason 2 (competitive dynamics):**  
+  The market is fragmented across pharmacies, clinics, and influencer-driven discovery, with no integrated platform connecting all three sides.
+
+- **Reason 3 (financial logic):**  
+  Integrating both medical and lifestyle recommendation channels increases conversion, expands customer reach, and enables monetization through commissions, partnerships, and higher customer lifetime value.
+
+---
+
+## Section 7. First move
+
+- **Action:**  
+  Launch a pilot platform integrating doctor recommendations and a curated group of skincare/wellness influencers, starting with high-frequency categories such as skincare, vitamins, and over-the-counter products
+
+- **Owner:**  
+  Head of Digital / Partnerships
+
+- **Success metric:**  
+  Recommendation-to-purchase conversion rate, influencer-driven sales share, repeat purchase rate, and number of active users
+
+- **Investment required (order of magnitude):**  
+  Medium — platform development, pharmacy integration, influencer partnerships, and marketing
+
+---
+
+## Quality check
+
+- Recommendation is specific and actionable  
+- Justifications are distinct and grounded  
+- First move is concrete and executable  
+- Chicken-and-egg problem addressed by starting with curated doctors and influencers  
+
+---
+
+## Additional strategic note
+
+The strongest platform opportunity in the Georgian pharmaceutical market is to connect both clinical trust (doctors) and lifestyle influence (skincare creators) into a single purchasing journey. This allows the platform to capture both necessity-driven and inspiration-driven demand, significantly strengthening customer acquisition and retention.
