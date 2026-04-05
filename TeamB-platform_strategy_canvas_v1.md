@@ -9,7 +9,7 @@ A project without a clear problem statement drifts. This worksheet defines the s
 ## Part 1. Context
 
 - **Industry:** Pharmaceutical retail and healthcare distribution in Georgia
-- **Focal company or client:** Large pharmacy chain / pharmaceutical retailer
+- **Focal company or client:** PSP
 - **Primary disruption force:** Fragmentation of the customer journey across doctor recommendations, influencer-driven product discovery, and pharmacy purchase channels, combined with rising digital expectations for convenience, personalization, and delivery
 - **Why this matters now:** Consumers increasingly expect a seamless digital experience in healthcare and wellness, while no platform in Georgia currently connects trusted medical recommendations, lifestyle-driven discovery, and direct purchase in one integrated flow. This creates a major strategic opportunity for a pharmacy chain to strengthen its market position and capture more value.
 
