@@ -29,16 +29,16 @@ Minimum two meetings per week for Weeks 1 to 4. Minimum three meetings per week 
 
 | # | Section | Primary owner | Reviewer | Draft due |
 |---|---|---|---|---|
-| 1 | Executive summary |  |  | May 18 |
-| 2 | Industry and competitive context |  |  | April 19 |
-| 3 | AI landscape and opportunity |  |  | April 19 |
-| 4 | Platform dynamics |  |  | April 19 |
-| 5 | Strategic options evaluation |  |  | April 26 |
-| 6 | Business model detail |  |  | April 26 |
-| 7 | Transformation roadmap |  |  | May 3 |
-| 8 | ROI and financial case |  |  | May 3 |
-| 9 | Risk assessment |  |  | May 10 |
-| 10 | Implementation logic |  |  | May 10 |
+| 1 | Executive summary | Nana  |  Davit K| May 18 |
+| 2 | Industry and competitive context | Nana |  davit K. | April 19 |
+| 3 | AI landscape and opportunity | Mariam  | Davit M | April 19 |
+| 4 | Platform dynamics |Nana  | Davit M | April 19 |
+| 5 | Strategic options evaluation | Mariam |  Davit M.| April 26 |
+| 6 | Business model detail | Davit K  | Mariam  | April 26 |
+| 7 | Transformation roadmap | Davit K. |  Mariam| May 3 |
+| 8 | ROI and financial case |Mariam  | Nana | May 3 |
+| 9 | Risk assessment |  Davit M.|  Nana | May 10 |
+| 10 | Implementation logic |  Davit M.| Nana | May 10 |
 
 ---
 
@@ -59,6 +59,7 @@ Minimum two meetings per week for Weeks 1 to 4. Minimum three meetings per week 
 | 11 |  |  | Final polish and supporting document |  |
 | 12 |  |  | Pre-submission check | Final submission |
 
+- we will meet every sunday.
 ---
 
 ## Part 3. Three critical research questions
@@ -73,16 +74,16 @@ Minimum two meetings per week for Weeks 1 to 4. Minimum three meetings per week 
 
 ## Part 4. Dry run commitment
 
-- Internal dry run date:
-- Time:
-- Location:
+- Internal dry run date: May 15, 2026
+- Time: 18.26
+- Location: Kiu Campus
 - Format: team member presents each section under timed conditions (25 minutes total). Others ask the three hardest questions they can think of. Identify three specific weaknesses.
 
 ---
 
 ## Part 5. Sprint risk
 
-- Primary risk to the sprint:
+- Primary risk to the sprint: 
 - Mitigation:
 - Escalation: if the sprint falls two weeks behind, the team will:
 
