@@ -35,7 +35,7 @@ Describe the client's current position.
 Write one sentence.
 
 ### Strong format
-How should [client] respond to [specific disruption force] in order to [strategic objective] while managing [main constraint]?
+How should PSP respond to [specific disruption force] in order to [strategic objective] while managing [main constraint]?
 
 ### Draft
 - **Problem statement:**  
