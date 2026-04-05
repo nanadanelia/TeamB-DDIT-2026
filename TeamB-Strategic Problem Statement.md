@@ -35,11 +35,11 @@ Describe the client's current position.
 Write one sentence.
 
 ### Strong format
-How should PSP respond to [specific disruption force] in order to [strategic objective] while managing [main constraint]?
+How should [client] respond to [specific disruption force] in order to [strategic objective] while managing [main constraint]?
 
 ### Draft
 - **Problem statement:**  
-  How should a leading pharmacy chain in Georgia respond to the fragmented healthcare-to-purchase journey by building an integrated digital platform in order to capture demand and increase customer lifetime value while managing trust, regulation, and operational complexity?
+  How should PSP respond to the fragmented healthcare-to-purchase journey by building an integrated digital platform in order to capture demand and increase customer lifetime value while managing trust, regulation, and operational complexity?
 
 ---
 
@@ -47,10 +47,11 @@ How should PSP respond to [specific disruption force] in order to [strategic obj
 
 List one or two nearby questions that look related but are not the central question.
 
-1. How can the company improve individual pharmacy store performance or pricing competitiveness?
-2. How can the company launch a basic e-commerce website without integrating doctors, influencers, and other ecosystem players?
+1. How can PSP expand its product assortment by importing and offering more popular international skincare brands?
+2. How can PSP further optimize its existing website and mobile app performance?
 
 This helps keep scope clean.
+
 
 ---
 
