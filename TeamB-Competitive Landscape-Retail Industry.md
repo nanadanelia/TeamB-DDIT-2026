@@ -1,4 +1,4 @@
-# Competitive Landscape of the Georgian Retail Industry
+# Competitive Landscape of the Georgian Digital Health & Beauty Platform Industry
 
 ## Purpose
 
@@ -8,294 +8,296 @@ This analysis combines three strategic frameworks:
 - Value Chain Analysis
 - Jobs-to-Be-Done Competition
 
-Together these frameworks help explain the structure of the Georgian retail market, identify sources of competitive advantage, and reveal how customer needs shape competition.
+Together these frameworks help explain the structure of Georgia’s emerging digital health and beauty ecosystem, identify sources of competitive advantage, and reveal how changing consumer behavior is reshaping competition between pharmacies, skincare brands, doctors, influencers, and digital platforms.
 
 ---
 
-# Georgian Retail Industry Overview
+# Georgian Digital Health & Beauty Industry Overview
 
-The Georgian retail industry consists of several major categories that compete for household spending but operate with different supply chains, economics, and competitive dynamics.
+The Georgian health, pharmacy, and beauty ecosystem is evolving from a traditional pharmacy-centered retail model into a broader digital wellness ecosystem.
 
-Major retail segments include:
+Major industry participants include:
 
-- **Grocery / FMCG retail** – supermarket and convenience chains such as Nikora, Ori Nabiji, Carrefour, SPAR, Magniti, and Daily Group  
-- **Fashion & apparel retail** – international brands such as Zara, Mango, LC Waikiki and mall-based fashion retailers  
-- **Electronics & appliance retail** – chains such as Alta and other electronics specialists  
-- **Beauty, pharmacy, and personal care retail** – pharmacy chains and cosmetics retailers  
-- **Home improvement & furniture retail** – retailers linked to housing and renovation demand  
-- **E-commerce and cross-border retail** – local marketplaces and global platforms such as Temu, Amazon, AliExpress, and Trendyol  
+- **Pharmacy chains** – PSP, Aversi, GPC/Pharmadepot
+- **Beauty and skincare retailers** – pharmacies, cosmetics stores, and international beauty brands
+- **Healthcare providers** – dermatologists, cosmetologists, clinics, and medical centers
+- **Digital platforms** – online pharmacy apps, booking platforms, delivery aggregators, and e-commerce marketplaces
+- **Content creators and influencers** – skincare influencers, beauty bloggers, and medical educators
+- **Cross-border e-commerce platforms** – Temu, Trendyol, Amazon, AliExpress
 
-Although these segments differ operationally, they compete for the same consumer wallet.
+Although these actors operate differently, they compete for the same consumer needs: health, skincare, wellness, trust, and convenience.
 
-This analysis focuses primarily on the **organized grocery/FMCG retail segment**, which is the largest and most structurally developed part of the Georgian retail industry due to its high purchase frequency, dense store networks, and complex logistics requirements. Other retail categories are referenced where they influence substitution patterns or competitive dynamics.
+This analysis focuses on the opportunity to create a **digital health and skincare ecosystem platform** centered around pharmacies and trusted healthcare expertise in Georgia.
 
 ---
-
 
 # Statistical Overview and Market Trends
 
-# Online vs. Offline Shopping: Channel Comparison and Trends
+# Online vs Offline Health & Beauty Consumption
 
-*Sources: TBC Capital FMCG Sector Reports (2024–2025), Galt & Taggart E-Commerce Report (2025), National Bank of Georgia Payment Statistics, Payments Laboratory (2025).*
+The Georgian pharmacy and beauty market remains primarily offline, but digital behavior is increasing rapidly, especially among younger urban consumers.
 
----
+Consumers increasingly:
 
-## Channel Size and Share
+- Search skincare recommendations online
+- Follow dermatologists and influencers on social media
+- Compare products digitally before purchasing
+- Use pharmacy delivery services
+- Purchase beauty and skincare products through online platforms
 
-The starting point is proportion. Offline retail still dominates Georgian consumer spending by a wide margin, but the balance is shifting year by year in one direction only.
-
-| Channel | Value | Share of Retail Turnover | YoY Growth |
-|---|---|---|---|
-| Total retail turnover | GEL ~25bn | 100% | +9.5% (2024) |
-| Offline (physical) | GEL ~23bn | ~92% | +7–8% |
-| Total e-commerce (online) | GEL 3.5bn | 8.0% (H1 2025) | +40.6% (H1 2025) |
-| — Local e-commerce | GEL 2.1bn | 2.2% of retail | +25–30% |
-| — Cross-border e-commerce | GEL 1.4bn | 5.8% of retail | +56.7% (H1 2025) |
-| — Services (Wolt, Glovo etc.) | GEL 1.6bn | included in e-com | fast-growing |
-
-The gap is still large — 92% offline versus 8% online — but the direction is unambiguous. E-commerce penetration has more than doubled since 2021, when it stood at 3.6%, and is forecast to reach 13% of retail turnover by 2030. Every percentage point of share shift at Georgia's total retail scale represents hundreds of millions of GEL moving from physical to digital channels annually.
+Offline pharmacies still dominate prescription medicine and urgent purchases, while online channels are growing in skincare, cosmetics, supplements, and wellness products.
 
 ---
 
-## What Consumers Buy Online vs. Offline
+## Main Consumer Trends
 
-The channel split is not uniform across product categories. It follows a clear pattern governed by two factors: the importance of physical inspection and the tolerance for delivery wait time.
+### Growth of skincare culture
 
-**Offline dominates where freshness, immediacy, or touch matters.** Grocery and fresh food remain overwhelmingly physical — the bazaar and the neighborhood supermarket are the default for daily food shopping. Pharmacy and personal care are still largely in-store. High-involvement purchases like furniture, appliances, and cars remain physical because consumers want to see before they buy.
+Skincare awareness has increased significantly among Georgian consumers, especially younger demographics influenced by:
 
-**Online dominates or is rapidly growing where price and variety trump immediacy.** Electronics, household appliances, and equipment account for 65% of local e-commerce sales in Georgia, as retailers in this category were the first to invest meaningfully in digital channels. Fashion and apparel online purchasing is growing rapidly via cross-border platforms (Trendyol, Zara.com, Farfetch), where the variety available digitally far exceeds what any Georgian mall carries. Non-perishable household goods — cleaning products, personal care, stationery — are the fastest-growing cross-border category, driven almost entirely by Temu.
+- TikTok
+- Instagram
+- YouTube
+- Dermatology-focused content creators
 
-| Category | Primary Channel | Trend |
-|---|---|---|
-| Fresh food & grocery | Offline (physical store / bazaar) | Stable offline; micro-shift to delivery aggregators |
-| Electronics & appliances | Online growing fast | 65% of local e-com revenue; cross-border accelerating |
-| Fashion & apparel | Mixed; cross-border gaining | Trendyol, Zara.com eating share from Georgian malls |
-| Pharmacy & personal care | Offline dominant | Slowly digitalizing; Temu competing on non-OTC items |
-| Home & furniture | Offline dominant | Limited online penetration; logistics barrier |
-| Food delivery (restaurants) | Online (aggregators) | Wolt, Glovo, Bolt — fast-growing, Tbilisi-concentrated |
-| Non-perishable household goods | Cross-border growing fast | Temu's primary growth category in Georgia |
+Consumers increasingly seek:
 
----
-
-## Payment Behavior: The Digital Transition in Numbers
-
-Card and digital payment data from TBC Capital and the National Bank of Georgia provide a precise picture of how Georgian consumers are transacting — and how rapidly behavior is changing.
-
-TBC Bank's non-cash spending increased by 21% year-on-year, while the number of non-cash transactions grew by 13% — meaning average transaction values are rising as digital payments become normalized across more and more purchase occasions, not just large-ticket items. Within grocery specifically, non-cash grocery spending increased by 22% annually, with an average spending per transaction of GEL 16 — confirming that even micro-transactions at convenience stores are now predominantly digital.
-
-As of May 2025, approximately 130,000 POS terminals are operating across Georgia — a 6.5% increase over the previous year and a 29% rise over two years. In that month alone, POS transactions totaled GEL 2.1 billion, some GEL 500 million higher than the same month the previous year. Annual POS transaction volume has exceeded GEL 13.4 billion, reflecting a 49% year-on-year increase.
-
-The card-vs-cash paradox, however, reveals an important nuance. In H1 2025, 90.71% of card transactions by number in Georgia were payments — a share that has steadily risen from 83.66% in H1 2022. Yet 53.57% of card transactions by volume (GEL value) are still cash withdrawals. While this share has been declining from 64.82% in H1 2022, the pace of change remains relatively slow.
-
-The interpretation: Georgian consumers have embraced card payments for everyday, low-value transactions (groceries, coffee, convenience stores) but still reach for cash for larger purchases. Cards have won the frequency battle; cash still wins the value battle. This has direct retail implications — physical retailers who have not installed POS terminals are now actively losing small-ticket transactions to competitors who have, but premium and high-ticket categories still require cash-acceptance infrastructure.
+- Ingredient transparency
+- Professional recommendations
+- Personalized skincare routines
+- Trusted product reviews
 
 ---
 
-## Online vs. Offline: Key Behavioral Differences
+## Digitalization of pharmacies
 
-**Speed of decision-making.** Online shopping in Georgia — particularly via cross-border platforms — is driven by price discovery. Temu's Georgian users are primarily motivated by price, not brand loyalty. Offline shoppers in Georgian modern retail chains make faster, habitual decisions based on proximity and familiarity. The consideration cycle is much shorter in-store than online.
+Large pharmacy chains increasingly invest in:
 
-**Basket composition.** Offline baskets are mixed — fresh, branded, and staple goods purchased in one trip. Online baskets are narrower and more category-specific: an AliExpress order is typically electronics accessories or household items; a Veli.Store order is typically a planned grocery replenishment rather than a spontaneous browse. The shopper is the same person using both channels for different jobs.
+- Mobile applications
+- Online ordering
+- Delivery services
+- Loyalty ecosystems
+- Personalized promotions
 
-**Trust differential.** A significant digital divide remains in Georgia, with infrastructure gaps — particularly in smaller towns and rural areas — and high merchant service fees discouraging card acceptance among small merchants. Trust in product authenticity is a known constraint for cross-border platforms specifically. Georgian consumers have reported quality inconsistency with Temu purchases in product reviews, yet continue to buy because the price advantage outweighs the trust deficit for low-risk, low-cost goods. For food and personal care, the trust barrier keeps offline dominant.
-
-**Demographic split.** Urban Tbilisi consumers aged 18–45 are the primary drivers of e-commerce growth in Georgia. Regional consumers, older demographics, and lower-income households remain predominantly offline — both by preference and by infrastructure constraint. As of 2022, roughly 24% of the Georgian population had ordered or purchased goods or services online in the past year — a figure that has grown since but still leaves the majority of Georgians as offline-only shoppers.
-
-**Tourism overlay.** Non-cash spending by non-residents in Georgia increased by 39% year-on-year — a significant signal that tourist spending is heavily card-based and concentrated in physical retail (fashion, restaurants, pharmacies, souvenirs). This creates a seasonal offline spending surge that benefits Tbilisi retailers disproportionately and reinforces the case for POS terminal investment in tourist-concentrated locations.
+However, most current pharmacy platforms remain transactional rather than ecosystem-based.
 
 ---
 
-## The Structural Shift: What the Numbers Mean
+## Rise of influencer-driven commerce
 
-Three conclusions follow directly from the channel data.
+Consumers increasingly trust:
 
-1. **Online-offline split will narrow steadily but not dramatically.** E-commerce is growing at 40%+ annually, but from a base of 8% penetration against an offline base of 92%. Physical retail will remain the dominant channel by volume for at least the next five years. The relevant question is not whether offline dies — it will not — but which offline formats survive and which categories bleed irreversibly to digital.
+- Dermatologists
+- Cosmetologists
+- Beauty influencers
+- Skincare educators
 
-2. **Payment infrastructure gap is closing faster than e-commerce gap.** The 49% YoY growth in POS transaction volumes signals that digital payment behavior is mainstreaming rapidly even in physical stores. This creates an opportunity: retailers who combine physical presence with digital payment data can start building the customer behavioral insights that pure online-only players have always had and that offline-only players have historically lacked.
+These creators influence product discovery and purchasing decisions, especially in skincare and beauty categories.
 
-3. **Cross-border e-commerce is the most structural threat.** When a Georgian consumer buys from Temu, no Georgian retailer, distributor, or logistics operator captures meaningful value from that transaction. The GEL 1.4 billion in cross-border spending in 2024 — growing at 57% per year — represents a portion of consumer wallet that has effectively left the Georgian retail ecosystem. Domestic retailers and the Georgian banking ecosystem (TBC, BOG) have a shared interest in building compelling local digital alternatives before that wallet share becomes habitual and therefore structurally locked in to foreign platforms.
+This shifts competitive power away from traditional advertising toward trusted digital communities.
 
-## Expansion of organized retail
+---
 
-Historically, Georgia’s retail sector was dominated by **small independent shops and open markets**. Over the past decade, however, organized retail chains have expanded rapidly.
+## Cross-border competitive pressure
 
-Large supermarket and convenience chains have opened hundreds of new stores, particularly in **Tbilisi, Batumi, Kutaisi, and other major cities**. This expansion has increased the market share of organized retail relative to traditional neighborhood stores.
+Platforms such as:
 
-## Urbanization and store density
-
-Urban population growth has increased demand for modern retail formats. Dense urban areas support **convenience store networks** where customers make frequent small purchases rather than large weekly shopping trips.
-
-As a result, Georgia has seen rapid growth in **small-format convenience supermarkets** located within walking distance of residential areas.
-
-## Tourism-driven retail demand
-
-Tourism also contributes to retail demand. Prior to the pandemic, Georgia received **over 9 million international visitors annually**, and tourism recovery has again increased consumption in supermarkets, pharmacies, and convenience stores located in tourist areas.
-
-## E-commerce growth
-
-E-commerce remains smaller than traditional retail but is growing quickly. Consumers increasingly purchase clothing, electronics, and household goods from international platforms such as:
-
-- Amazon
-- AliExpress
 - Temu
 - Trendyol
+- Amazon
+- AliExpress
 
-Local retailers are gradually developing **online ordering and delivery services**, particularly in grocery retail.
+increasingly compete in non-prescription beauty and skincare products through lower pricing and broader assortment.
 
-## Price sensitivity and inflation
+This creates pressure on Georgian pharmacies and retailers to improve:
 
-Inflation has significantly influenced retail dynamics in recent years. Rising food prices have increased retail turnover but have also made consumers more price-sensitive.
+- Digital experience
+- Product discovery
+- Community engagement
+- Convenience
+- Personalization
 
-Retailers increasingly compete through:
-
-- Discounts
-- Loyalty programs
-- Private-label products
-
-## Key industry trends
-
-Several structural trends currently shape the Georgian retail industry:
-
-- Expansion of organized supermarket chains
-- Growth of convenience store formats
-- Increasing price competition
-- Gradual development of e-commerce
-- Rising importance of logistics and cold-chain infrastructure
-- Growing consumer expectations for product variety and quality
-
-These trends influence the competitive dynamics analyzed in the following sections. 
 ---
 
 # Part 1. Porter Five Forces
-
-The following analysis focuses primarily on the **organized grocery/FMCG retail segment**, while recognizing competitive pressure from other retail categories and digital platforms.
 
 ---
 
 ## Threat of new entrants
 
-**Barriers to entry**
+### Barriers to entry
 
-- High capital investment required for store networks, real estate, inventory, and logistics infrastructure  
-- Grocery retail requires cold-chain logistics and dense distribution networks  
-- Access to prime retail locations and strong supplier relationships takes time to build  
+- Building consumer trust in healthcare-related services is difficult
+- Regulatory requirements exist in pharmacy and healthcare sectors
+- Partnerships with doctors and clinics require credibility
+- Strong digital platforms require significant technology investment
 
-**Sources of advantage for current leaders**
+### Sources of advantage for current leaders
 
-- Economies of scale in procurement and logistics  
-- Established supplier networks and distribution infrastructure  
-- Brand recognition and customer trust  
-- Dense store networks in urban areas  
+- Existing pharmacy store networks
+- Established healthcare reputation
+- Loyalty programs and customer databases
+- Distribution and logistics infrastructure
+- Existing supplier relationships
 
-**Likely new entrants**
+### Likely new entrants
 
-- International retail brands expanding into Georgian malls  
-- Regional or digital-first retailers  
-- Cross-border e-commerce platforms and marketplaces  
+- Digital-first healthcare startups
+- International health-tech platforms
+- Beauty marketplaces
+- Influencer-led brands and communities
 
-**Force rating:** Medium
+### Force rating: Medium
 
-**Strategic implication**
+### Strategic implication
 
-Physical retail entry remains capital intensive, particularly in grocery retail. However, digital platforms reduce entry barriers in non-perishable categories. Retailers must strengthen logistics capabilities and digital channels to protect market share.
+While digital tools lower technical entry barriers, trust remains the largest competitive barrier in healthcare and wellness. Companies that combine trusted healthcare positioning with digital ecosystems will hold stronger advantages.
 
 ---
 
 ## Bargaining power of buyers
 
-**Who are the main buyers?**
+### Who are the buyers?
 
-- Georgian households purchasing everyday consumer goods  
-- Tourists and small businesses in certain retail categories  
+- Georgian consumers seeking health and skincare products
+- Young urban consumers
+- Wellness-focused users
+- Beauty and skincare enthusiasts
 
-**How concentrated are they?**
+### How easy is switching?
 
-Buyers are highly fragmented, although consumer spending is concentrated in urban areas, especially Tbilisi.
+Switching costs are extremely low. Consumers can easily switch between:
 
-**How easy is switching?**
+- Pharmacies
+- Online marketplaces
+- Influencer recommendations
+- International e-commerce platforms
 
-Switching costs are extremely low. Consumers can easily switch between supermarket chains, online marketplaces, delivery apps, and other retail channels.
+### What increases buyer power?
 
-**Force rating:** High
+- Price transparency online
+- Social media recommendations
+- Product review culture
+- Cross-border access to products
 
-**Strategic implication**
+### Force rating: High
 
-Retailers must compete not only on price but also on convenience, assortment, loyalty programs, and customer experience.
+### Strategic implication
+
+The platform must compete not only on price, but on:
+
+- Trust
+- Personalization
+- Education
+- Convenience
+- Community
+- Expert-backed recommendations
 
 ---
 
 ## Bargaining power of suppliers
 
-**Who are the critical suppliers?**
+### Main suppliers
 
-- Local agricultural producers  
-- International FMCG brands  
-- Electronics manufacturers and distributors  
-- Fashion brand owners  
-- Logistics providers  
+- Pharmaceutical companies
+- International skincare brands
+- Cosmetics distributors
+- Dermatologists and healthcare experts
+- Influencers and content creators
 
-**How concentrated are they?**
+### Supplier concentration
 
-Supplier concentration varies by category. Local agricultural producers are relatively fragmented, while global FMCG brands and electronics manufacturers have stronger bargaining power.
+Global beauty and pharmaceutical brands possess relatively strong bargaining power because consumers actively search for specific brands and ingredients.
 
-**How replaceable are they?**
+Trusted doctors and major influencers also hold increasing influence due to audience trust and visibility.
 
-Commodity goods are easier to replace, while branded products and exclusive supplier relationships are more difficult to substitute.
+### Force rating: Medium to High
 
-**Force rating:** Medium
+### Strategic implication
 
-**Strategic implication**
-
-Retailers can reduce supplier power by diversifying sourcing, increasing local procurement, and developing private-label products.
+The platform should diversify partnerships and reduce dependency on individual influencers or brands by building its own ecosystem and customer loyalty.
 
 ---
 
 ## Threat of substitutes
 
-**What alternatives solve the same job?**
+### Alternative solutions
 
-- Traditional open markets and bazaars  
-- Neighborhood convenience stores  
-- Delivery aggregators  
-- Local online marketplaces  
-- International e-commerce platforms such as Temu, Amazon, AliExpress, and Trendyol  
+Consumers can solve their skincare and wellness needs through:
 
-**Why would customers switch?**
+- Traditional pharmacies
+- Beauty stores
+- Clinics and dermatologists
+- TikTok and YouTube recommendations
+- International online marketplaces
+- Community forums and Reddit discussions
 
-Customers may switch due to lower prices, wider product assortment, faster delivery, or greater convenience. For example, bazaars remain strong substitutes for fresh produce, while cross-border platforms compete strongly in non-perishable categories.
+### Why consumers switch
 
-**Force rating:** High
+- Lower prices
+- Better product variety
+- Faster delivery
+- More trusted recommendations
+- Better educational content
 
-**Strategic implication**
+### Force rating: High
 
-Retailers must defend categories where physical retail still provides strong advantages, such as fresh food, urgent purchases, and trust-based consumption.
+### Strategic implication
+
+The platform must provide integrated value that competitors cannot easily replicate:
+
+- Trusted experts
+- Community engagement
+- Personalized recommendations
+- Direct purchasing convenience
+- Educational ecosystem
 
 ---
 
 ## Competitive rivalry
 
-**Number and type of competitors**
+### Main competitors
 
-The Georgian retail market includes grocery chains, pharmacies, fashion brands, electronics retailers, shopping malls, local marketplaces, and global e-commerce platforms.
+- PSP
+- Aversi
+- GPC/Pharmadepot
+- Beauty retailers
+- E-commerce marketplaces
+- Delivery apps
+- International platforms
 
-**Basis of competition**
+### Basis of competition
 
-- Price promotions  
-- Store proximity and convenience  
-- Product assortment  
-- Brand strength  
-- Customer experience  
-- Delivery speed and digital capabilities  
+- Product assortment
+- Pricing
+- Delivery speed
+- Trust
+- Brand reputation
+- Digital experience
+- Community engagement
+- Content quality
 
-**Price intensity:** High
+### Innovation intensity
 
-**Innovation intensity:** Moderate but increasing due to digital commerce and delivery services.
+High and increasing due to:
 
-**Force rating:** High
+- AI recommendation systems
+- Social commerce
+- Personalized wellness platforms
+- Influencer-driven purchasing behavior
 
-**Strategic implication**
+### Force rating: High
 
-Retail competition increasingly occurs between ecosystems rather than individual stores. Retailers must combine operational efficiency with digital capabilities and customer data strategies.
+### Strategic implication
+
+Competition increasingly occurs between ecosystems rather than standalone pharmacies or stores.
+
+The winning platforms will combine:
+
+- Healthcare credibility
+- Community engagement
+- Digital personalization
+- Seamless commerce
 
 ---
 
@@ -303,29 +305,35 @@ Retail competition increasingly occurs between ecosystems rather than individual
 
 | Stage | Main activities | Main actors | Profit concentration | Digital pressure points |
 |------|----------------|-------------|----------------------|-------------------------|
-| Inbound logistics / sourcing | Importing, supplier negotiations, warehousing, local sourcing | Importers, local farms, global brands, retail chains | Low–Medium | Inventory systems, supplier integration |
-| Operations | Merchandising, pricing, staffing, checkout | Supermarket chains, fashion retailers, pharmacies, electronics stores | Medium | POS systems, analytics, dynamic pricing |
-| Outbound logistics | Delivery, fulfillment, last-mile transport | Retailers, marketplaces, delivery apps | Low | E-commerce platforms, route optimization |
-| Marketing & sales | Promotions, loyalty programs, CRM | Retail chains, marketplaces, digital platforms | High | Social media, loyalty apps, targeted advertising |
-| Service | Returns, customer support | Retailers and platforms | Low | Chatbots, automated service tools |
+| Product sourcing | Pharmaceutical procurement, skincare brand partnerships | Pharmacies, distributors, global brands | Medium | Supplier integration, inventory systems |
+| Platform operations | App management, personalization, recommendation engines | Digital platform operators | High | AI systems, analytics, UX |
+| Healthcare expertise | Doctor consultations, skincare guidance | Dermatologists, clinics, influencers | High | Digital consultations, creator economy |
+| Marketing & community | Content creation, social engagement, influencer marketing | Influencers, creators, platform teams | Very High | Social media algorithms, creator dependence |
+| Fulfillment & delivery | Order preparation and logistics | Pharmacies, couriers, aggregators | Medium | Last-mile delivery optimization |
+| Customer relationship | Loyalty systems, CRM, subscriptions | Platform ecosystem | Very High | Data ownership and personalization |
 
-### Category differences in the retail value chain
+---
 
-Retail value chains differ across categories. Grocery retail depends heavily on logistics efficiency and frequent replenishment, while fashion retail depends on inventory turnover and brand positioning. Electronics retail is influenced strongly by supplier relationships and price transparency.
+## Value Chain Interpretation
 
-### Value chain interpretation
+### Most vulnerable stage
 
-**Which stage appears most vulnerable?**
+Product distribution and logistics are vulnerable because cross-border platforms compete aggressively on price and assortment.
 
-Inbound logistics and outbound logistics are vulnerable due to import dependence and the growing influence of digital platforms controlling delivery and customer access.
+### Most defensible stage
 
-**Which stage appears most defensible?**
+Trust-based healthcare guidance and personalized recommendations remain the most defensible areas because they rely on local credibility and human expertise.
 
-Store operations and distribution in categories requiring immediacy and freshness remain the most defensible.
+### Platform opportunity
 
-**Where could a platform insert itself?**
+A digital platform can insert itself between:
 
-Platforms can capture value in outbound logistics, delivery aggregation, and customer discovery.
+- Product discovery
+- Expert recommendation
+- Community engagement
+- Purchase decision
+
+This allows the platform to own the customer relationship rather than simply the transaction.
 
 ---
 
@@ -333,51 +341,64 @@ Platforms can capture value in outbound logistics, delivery aggregation, and cus
 
 ## Core customer job
 
-Customers want to reliably obtain everyday household essentials—especially food and groceries—conveniently, safely, and at a fair price.
+Consumers want trusted, convenient, and personalized guidance for their health and skincare needs while being able to purchase recommended products easily and confidently.
 
 ---
 
 ## Functional needs
 
-- Reliable product availability  
-- Competitive pricing  
-- Convenient store locations or delivery options  
-- Wide product assortment  
-- Fast checkout and payment  
-- Reliable online ordering and delivery  
+- Reliable product recommendations
+- Easy product discovery
+- Convenient ordering and delivery
+- Access to trusted experts
+- Personalized skincare routines
+- Educational content
+- Product authenticity
 
 ---
 
-## Emotional or social needs
+## Emotional and social needs
 
-- Trust in product quality and authenticity  
-- Confidence in food safety and brand reliability  
-- Convenience that reduces daily stress  
-- Satisfaction from finding good value  
-- Familiarity with trusted retailers or local markets  
+- Feeling confident about appearance
+- Trust in recommendations
+- Reduced anxiety about skincare decisions
+- Belonging to a wellness-oriented community
+- Social validation from beauty and self-care culture
 
 ---
 
 ## Alternative solutions
 
-**Direct alternatives**
+### Direct alternatives
 
-- Competing supermarket chains  
-- Pharmacy networks  
-- Electronics retailers  
-- Local online marketplaces  
+- Traditional pharmacies
+- Beauty retailers
+- Dermatology clinics
+- Pharmacy mobile applications
 
-**Indirect alternatives**
+### Indirect alternatives
 
-- Traditional open markets and bazaars  
-- Delivery aggregators  
-- Cross-border e-commerce platforms such as Temu, Amazon, AliExpress, and Trendyol  
+- TikTok skincare content
+- Instagram influencers
+- Reddit skincare communities
+- International marketplaces
+- YouTube dermatologists
 
 ---
 
 ## Interpretation
 
-Competition in Georgian retail extends beyond traditional store-to-store rivalry. Consumers increasingly choose between multiple channels including physical stores, delivery platforms, and international e-commerce marketplaces.
+Competition extends beyond pharmacies and retailers.
+
+The real competition is for:
+
+- Attention
+- Trust
+- Community
+- Recommendation authority
+- Customer data
+
+Consumers increasingly choose ecosystems rather than individual stores.
 
 ---
 
@@ -385,77 +406,86 @@ Competition in Georgian retail extends beyond traditional store-to-store rivalry
 
 ## Ecosystem actors
 
-The Georgian retail ecosystem operates across several interconnected layers:
+The Georgian digital health and beauty ecosystem includes several interconnected layers:
 
-- **Production and supply layer** – local producers, manufacturers, international brands, and importers  
-- **Wholesale and distribution layer** – import distributors, warehouse operators, and logistics providers  
-- **Physical retail layer** – supermarkets, malls, fashion stores, pharmacies, electronics retailers, and neighborhood shops  
-- **Digital platform layer** – online marketplaces, delivery aggregators, and brand-owned e-commerce channels  
-- **Cross-border retail layer** – international platforms selling directly to Georgian consumers  
+- **Healthcare layer** – doctors, dermatologists, clinics, laboratories
+- **Product layer** – pharmaceutical companies, skincare brands, cosmetics distributors
+- **Retail layer** – pharmacies and beauty retailers
+- **Digital platform layer** – apps, marketplaces, booking systems, loyalty ecosystems
+- **Creator layer** – influencers, skincare educators, content creators
+- **Logistics layer** – couriers, delivery aggregators
+- **Cross-border layer** – Temu, Trendyol, Amazon, AliExpress
 
 ---
 
 ## Value flows
 
-Consumer spending flows through several retail channels:
+Consumer attention and spending increasingly flow through digital ecosystems:
 
-- Traditional physical retail purchases  
-- Delivery aggregator platforms  
-- Local online marketplaces  
-- Cross-border e-commerce platforms  
+- Social media discovery
+- Expert recommendations
+- Platform-based purchasing
+- Pharmacy delivery services
+- Cross-border e-commerce
 
-Each channel captures different levels of value, data, and control within the retail ecosystem.
+The platforms controlling discovery and trust increasingly capture the highest-value customer relationships.
 
 ---
 
 ## Digital pressure points
 
-- Delivery platforms increasingly control customer discovery and ordering  
-- Cross-border e-commerce increases price transparency and competition  
-- Regional last-mile logistics remain underdeveloped outside major cities  
-- Many retailers lack strong customer data and loyalty systems  
-- Uneven digital payment adoption creates differences between urban and regional markets  
+- Influencers increasingly control product discovery
+- Cross-border marketplaces increase price competition
+- Pharmacies risk becoming fulfillment-only operators
+- Customer attention shifts toward social platforms
+- Younger consumers expect personalization and digital convenience
 
 ---
 
 # Overall Conclusion
 
-The Georgian retail industry is evolving from a traditional store-based system into a complex ecosystem shaped by digital platforms, cross-border e-commerce, and changing consumer expectations.
+The Georgian pharmacy and beauty market is evolving from a traditional retail model into a digital wellness ecosystem driven by trust, personalization, and platform-based engagement.
 
-Porter’s Five Forces show high rivalry, strong buyer power, and growing substitution threats from digital channels. Value chain analysis highlights logistics, customer interface, and loyalty systems as key strategic battlegrounds. Jobs-to-be-done analysis shows that consumers increasingly choose between multiple retail channels rather than simply choosing between stores.
+Porter’s Five Forces reveal high rivalry, strong buyer power, and increasing substitution pressure from global digital platforms and influencer ecosystems. Value chain analysis shows that the highest-value activities are shifting toward customer relationships, expert guidance, community engagement, and digital personalization.
 
-Retailers that combine strong physical presence with digital capabilities, delivery integration, and customer data strategies will be best positioned to compete in Georgia’s evolving retail landscape.
+The greatest strategic opportunity lies in building a platform that integrates:
 
---
+- Trusted Georgian doctors
+- Skincare influencers
+- Educational content
+- Personalized recommendations
+- Pharmacy commerce
+- Digital community
 
-## Retail Experience vs Value Map (Georgian Retail Market)
+Companies that successfully combine healthcare credibility with digital ecosystem capabilities will be best positioned to lead Georgia’s next generation of health and beauty commerce.
 
-X-axis: **Price Point** (Discount / Mass Market → Premium / Luxury)  
-Y-axis: **Service Level / Experience** (Self-Service / Online → High-Touch / Boutique)
+---
+
+## Digital Health & Beauty Platform Experience Map
+
+X-axis: **Price Accessibility** (Mass Market → Premium)  
+Y-axis: **Trust & Personalization** (Transactional → Expert-Led Ecosystem)
 
 ```mermaid
 quadrantChart
-    title Georgian Retail: Experience vs Value Map
-    x-axis Discount / Mass Market --> Premium / Luxury
-    y-axis Self-Service / Online --> High-Touch / Boutique
+    title Georgian Digital Health & Beauty Ecosystem Map
+    x-axis Mass Market --> Premium
+    y-axis Transactional --> Expert-Led Ecosystem
 
-    quadrant-1 Premium Experience
-    quadrant-2 Value with Service
-    quadrant-3 Discount Efficiency
+    quadrant-1 Premium Expert Ecosystem
+    quadrant-2 Trusted Value
+    quadrant-3 Low-Cost Transactional
     quadrant-4 Premium Self-Service
 
-    Temu: [0.05, 0.10]
-    AliExpress: [0.10, 0.10]
+    Temu: [0.10, 0.10]
+    AliExpress: [0.12, 0.10]
     Trendyol: [0.25, 0.20]
 
-    Ori Nabiji: [0.20, 0.35]
-    Magniti: [0.30, 0.40]
+    Traditional Pharmacy: [0.40, 0.35]
+    Aversi: [0.50, 0.45]
+    GPC: [0.60, 0.55]
 
-    Nikora: [0.45, 0.50]
-    Carrefour: [0.55, 0.55]
-    SPAR: [0.60, 0.60]
+    PSP Platform Concept: [0.78, 0.88]
 
-    Alta Electronics: [0.65, 0.60]
-    Zara: [0.75, 0.70]
-
-    Agrohub: [0.90, 0.85]
+    Dermatology Clinics: [0.82, 0.90]
+    Luxury Beauty Retailers: [0.85, 0.75]
