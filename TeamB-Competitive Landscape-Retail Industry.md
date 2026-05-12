@@ -1,4 +1,4 @@
-# Competitive Landscape of the Georgian Digital Health & Beauty Platform Industry
+# Competitive Landscape of the Georgian Digital Beauty, Wellness & Preventive Health Platform Industry
 
 ## Purpose
 
@@ -8,44 +8,68 @@ This analysis combines three strategic frameworks:
 - Value Chain Analysis
 - Jobs-to-Be-Done Competition
 
-Together these frameworks help explain the structure of Georgia’s emerging digital health and beauty ecosystem, identify sources of competitive advantage, and reveal how changing consumer behavior is reshaping competition between pharmacies, skincare brands, doctors, influencers, and digital platforms.
+Together these frameworks help explain the structure of Georgia’s emerging digital beauty and wellness ecosystem, identify sources of competitive advantage, and reveal how changing consumer behavior is reshaping competition between pharmacies, skincare brands, doctors, influencers, and digital platforms.
 
 ---
 
-# Georgian Digital Health & Beauty Industry Overview
+# Georgian Digital Beauty & Wellness Industry Overview
 
-The Georgian health, pharmacy, and beauty ecosystem is evolving from a traditional pharmacy-centered retail model into a broader digital wellness ecosystem.
+The Georgian beauty, wellness, and preventive health ecosystem is evolving from a traditional pharmacy-centered retail model into a broader digital lifestyle and wellness ecosystem.
 
 Major industry participants include:
 
 - **Pharmacy chains** – PSP, Aversi, GPC/Pharmadepot
-- **Beauty and skincare retailers** – pharmacies, cosmetics stores, and international beauty brands
-- **Healthcare providers** – dermatologists, cosmetologists, clinics, and medical centers
-- **Digital platforms** – online pharmacy apps, booking platforms, delivery aggregators, and e-commerce marketplaces
-- **Content creators and influencers** – skincare influencers, beauty bloggers, and medical educators
-- **Cross-border e-commerce platforms** – Temu, Trendyol, Amazon, AliExpress
+- **Beauty and skincare retailers** – cosmetics stores, pharmacies, and international beauty brands
+- **Healthcare and wellness professionals** – dermatologists, cosmetologists, nutritionists, wellness experts, and clinics
+- **Digital platforms** – online pharmacy apps, beauty e-commerce platforms, booking platforms, and delivery services
+- **Content creators and influencers** – skincare influencers, beauty bloggers, wellness creators, and medical educators
+- **Specialized e-commerce platforms** – Veli.Store, BetterSkinShop, Amazon, eBay, and international skincare websites
 
-Although these actors operate differently, they compete for the same consumer needs: health, skincare, wellness, trust, and convenience.
+Although these actors operate differently, they compete for the same consumer needs: beauty, wellness, trust, convenience, self-care, and confidence.
 
-This analysis focuses on the opportunity to create a **digital health and skincare ecosystem platform** centered around pharmacies and trusted healthcare expertise in Georgia.
+This analysis focuses on the opportunity to create a **digital beauty, skincare, wellness, and preventive health ecosystem platform** connected to PSP’s brand strength, but not positioned as a traditional online pharmacy.
+
+The platform should not focus on selling regular medicines such as painkillers, antibiotics, or emergency pharmaceutical products. Those needs are already served by existing pharmacy networks and pharmacy applications. Instead, the platform should focus on:
+
+- Skincare
+- Beauty
+- Vitamins
+- Supplements
+- Preventive health
+- Wellness products
+- Self-care
+- Expert guidance
+- Personalized recommendations
+- Educational content
+- Influencer and doctor-led trust
 
 ---
 
 # Statistical Overview and Market Trends
 
-# Online vs Offline Health & Beauty Consumption
+# Online vs Offline Beauty, Wellness & Preventive Health Consumption
 
-The Georgian pharmacy and beauty market remains primarily offline, but digital behavior is increasing rapidly, especially among younger urban consumers.
+The Georgian pharmacy and beauty market remains strongly offline, but digital behavior is increasing rapidly, especially among younger urban consumers.
 
 Consumers increasingly:
 
 - Search skincare recommendations online
 - Follow dermatologists and influencers on social media
 - Compare products digitally before purchasing
-- Use pharmacy delivery services
-- Purchase beauty and skincare products through online platforms
+- Look for product reviews and ingredient explanations
+- Purchase skincare, supplements, vitamins, and self-care products through online platforms
+- Expect convenience, personalization, and trusted recommendations
 
-Offline pharmacies still dominate prescription medicine and urgent purchases, while online channels are growing in skincare, cosmetics, supplements, and wellness products.
+Offline pharmacies still dominate prescription medicine and urgent healthcare purchases, while online channels are growing rapidly in:
+
+- Skincare
+- Cosmetics
+- Vitamins
+- Supplements
+- Wellness products
+- Preventive health products
+
+This creates a clear opportunity for a platform that is not just transactional, but educational, personalized, and community-based.
 
 ---
 
@@ -55,10 +79,11 @@ Offline pharmacies still dominate prescription medicine and urgent purchases, wh
 
 Skincare awareness has increased significantly among Georgian consumers, especially younger demographics influenced by:
 
-- TikTok
 - Instagram
+- TikTok
 - YouTube
 - Dermatology-focused content creators
+- Beauty and skincare influencers
 
 Consumers increasingly seek:
 
@@ -66,6 +91,10 @@ Consumers increasingly seek:
 - Professional recommendations
 - Personalized skincare routines
 - Trusted product reviews
+- Before-and-after results
+- Guidance on which products match their skin type
+
+This creates demand for a platform that helps users reduce confusion and make better beauty and wellness decisions.
 
 ---
 
@@ -79,7 +108,16 @@ Large pharmacy chains increasingly invest in:
 - Loyalty ecosystems
 - Personalized promotions
 
-However, most current pharmacy platforms remain transactional rather than ecosystem-based.
+However, most current pharmacy platforms remain mostly transactional. They are useful when consumers already know what they want to buy, but they do not fully solve the discovery and trust problem in skincare, beauty, wellness, and preventive health.
+
+This creates an opportunity for a platform that goes beyond product listing and offers:
+
+- Expert-backed product recommendations
+- Skincare routines
+- Doctor and influencer content
+- Educational articles and videos
+- Personalized product discovery
+- Community engagement
 
 ---
 
@@ -91,35 +129,54 @@ Consumers increasingly trust:
 - Cosmetologists
 - Beauty influencers
 - Skincare educators
+- Wellness creators
 
-These creators influence product discovery and purchasing decisions, especially in skincare and beauty categories.
+These creators influence product discovery and purchasing decisions, especially in skincare, supplements, and beauty categories.
 
 This shifts competitive power away from traditional advertising toward trusted digital communities.
 
+For PSP, this creates an opportunity to build a platform where doctors, skincare influencers, and wellness experts are not external marketing channels, but part of the platform ecosystem itself.
+
 ---
 
-## Cross-border competitive pressure
+## Specialized online competition
 
-Platforms such as:
+In beauty and skincare, the relevant online competitors are not mainly general discount platforms such as Temu or AliExpress.
 
-- Temu
-- Trendyol
+More relevant competitors include:
+
+- Veli.Store
+- BetterSkinShop
 - Amazon
-- AliExpress
+- eBay
+- International skincare-focused e-commerce websites
+- Niche Korean skincare websites
+- Global beauty and wellness platforms
 
-increasingly compete in non-prescription beauty and skincare products through lower pricing and broader assortment.
+These platforms compete through:
+
+- Broader assortment
+- Niche skincare brands
+- International product availability
+- Trend-driven product discovery
+- Online convenience
+- Specialized beauty categories
 
 This creates pressure on Georgian pharmacies and retailers to improve:
 
 - Digital experience
 - Product discovery
+- Online assortment
+- Personalized recommendations
 - Community engagement
-- Convenience
-- Personalization
+- Customer education
+- Trust in authenticity
 
 ---
 
 # Part 1. Porter Five Forces
+
+The following analysis focuses on the Georgian digital beauty, skincare, wellness, and preventive health platform market.
 
 ---
 
@@ -127,31 +184,34 @@ This creates pressure on Georgian pharmacies and retailers to improve:
 
 ### Barriers to entry
 
-- Building consumer trust in healthcare-related services is difficult
-- Regulatory requirements exist in pharmacy and healthcare sectors
-- Partnerships with doctors and clinics require credibility
-- Strong digital platforms require significant technology investment
+- Building consumer trust in beauty and health-related recommendations is difficult
+- Partnerships with doctors, dermatologists, cosmetologists, and influencers require credibility
+- A high-quality digital platform requires investment in technology, content, data, and user experience
+- Product authenticity is important in skincare, supplements, and wellness products
+- Strong brand reputation matters because consumers are cautious about health and beauty decisions
 
 ### Sources of advantage for current leaders
 
-- Existing pharmacy store networks
-- Established healthcare reputation
-- Loyalty programs and customer databases
-- Distribution and logistics infrastructure
-- Existing supplier relationships
+- Existing pharmacy brand recognition
+- Large customer base and loyalty programs
+- Supplier relationships with skincare, wellness, and supplement brands
+- Physical store network supporting trust and fulfillment
+- Existing reputation in health-related retail
+- Access to customer data and purchase history
 
 ### Likely new entrants
 
-- Digital-first healthcare startups
-- International health-tech platforms
-- Beauty marketplaces
-- Influencer-led brands and communities
+- Digital-first beauty platforms
+- Influencer-led skincare stores
+- Wellness subscription platforms
+- International skincare e-commerce platforms
+- Marketplace-style beauty retailers
 
 ### Force rating: Medium
 
 ### Strategic implication
 
-While digital tools lower technical entry barriers, trust remains the largest competitive barrier in healthcare and wellness. Companies that combine trusted healthcare positioning with digital ecosystems will hold stronger advantages.
+Digital tools reduce entry barriers, but trust remains the largest competitive barrier. Companies that combine trusted healthcare positioning with strong digital experience, expert content, and community engagement will hold stronger advantages.
 
 ---
 
@@ -159,39 +219,53 @@ While digital tools lower technical entry barriers, trust remains the largest co
 
 ### Who are the buyers?
 
-- Georgian consumers seeking health and skincare products
+- Georgian consumers interested in skincare, beauty, wellness, and preventive health
 - Young urban consumers
-- Wellness-focused users
 - Beauty and skincare enthusiasts
+- Consumers looking for vitamins and supplements
+- People who want trusted advice before buying products
 
 ### How easy is switching?
 
-Switching costs are extremely low. Consumers can easily switch between:
+Switching costs are very low. Consumers can easily switch between:
 
-- Pharmacies
-- Online marketplaces
+- PSP
+- Aversi
+- GPC/Pharmadepot
+- Beauty stores
+- Veli.Store
+- BetterSkinShop
+- Amazon
+- eBay
+- Instagram shops
 - Influencer recommendations
-- International e-commerce platforms
+- International skincare websites
 
 ### What increases buyer power?
 
 - Price transparency online
+- Product reviews
 - Social media recommendations
-- Product review culture
-- Cross-border access to products
+- Influencer opinions
+- Access to global products
+- Easy comparison of brands and ingredients
 
 ### Force rating: High
 
 ### Strategic implication
 
-The platform must compete not only on price, but on:
+The platform must compete not only on price, but also on:
 
 - Trust
+- Expert guidance
 - Personalization
 - Education
 - Convenience
+- Authenticity
 - Community
-- Expert-backed recommendations
+- Better product discovery
+
+A simple product-selling platform would not be enough. The strongest differentiation comes from helping consumers understand what they need and why.
 
 ---
 
@@ -199,23 +273,28 @@ The platform must compete not only on price, but on:
 
 ### Main suppliers
 
-- Pharmaceutical companies
-- International skincare brands
+- Skincare brands
+- Supplement and vitamin brands
 - Cosmetics distributors
-- Dermatologists and healthcare experts
+- Pharmaceutical and wellness product distributors
+- Dermatologists
+- Cosmetologists
+- Nutritionists
 - Influencers and content creators
 
 ### Supplier concentration
 
-Global beauty and pharmaceutical brands possess relatively strong bargaining power because consumers actively search for specific brands and ingredients.
+Global skincare and supplement brands can have strong bargaining power because consumers often search for specific brands and ingredients.
 
-Trusted doctors and major influencers also hold increasing influence due to audience trust and visibility.
+Trusted doctors and popular influencers also have increasing bargaining power because they control audience attention and trust.
 
 ### Force rating: Medium to High
 
 ### Strategic implication
 
-The platform should diversify partnerships and reduce dependency on individual influencers or brands by building its own ecosystem and customer loyalty.
+The platform should avoid becoming dependent on only a few brands or influencers. It should build its own trusted ecosystem by combining multiple experts, creators, and product categories.
+
+The long-term goal should be to make the platform itself the trusted source, not only the individual influencers or brands inside it.
 
 ---
 
@@ -223,34 +302,48 @@ The platform should diversify partnerships and reduce dependency on individual i
 
 ### Alternative solutions
 
-Consumers can solve their skincare and wellness needs through:
+Consumers can solve their skincare, beauty, and wellness needs through:
 
 - Traditional pharmacies
 - Beauty stores
-- Clinics and dermatologists
-- TikTok and YouTube recommendations
-- International online marketplaces
-- Community forums and Reddit discussions
+- Dermatology clinics
+- Cosmetologists
+- Instagram influencers
+- TikTok skincare content
+- YouTube dermatologists
+- Veli.Store
+- BetterSkinShop
+- Amazon
+- eBay
+- International skincare websites
+- Reddit and online communities
 
 ### Why consumers switch
 
 - Lower prices
-- Better product variety
-- Faster delivery
+- Wider product assortment
+- Access to international brands
 - More trusted recommendations
 - Better educational content
+- Faster delivery
+- Better user experience
+- Stronger influencer credibility
 
 ### Force rating: High
 
 ### Strategic implication
 
-The platform must provide integrated value that competitors cannot easily replicate:
+The platform must provide integrated value that individual substitutes cannot easily replicate:
 
-- Trusted experts
-- Community engagement
+- Trusted Georgian doctors
+- Skincare and wellness influencers
 - Personalized recommendations
-- Direct purchasing convenience
-- Educational ecosystem
+- Educational content
+- Authentic products
+- Convenient purchase journey
+- Community engagement
+
+The platform should become a trusted decision-making environment, not only an online store.
 
 ---
 
@@ -262,9 +355,12 @@ The platform must provide integrated value that competitors cannot easily replic
 - Aversi
 - GPC/Pharmadepot
 - Beauty retailers
-- E-commerce marketplaces
-- Delivery apps
-- International platforms
+- Specialized skincare e-commerce platforms
+- Influencer-led online stores
+- International skincare websites
+- Amazon and eBay
+- Dermatology clinics
+- Social media content creators
 
 ### Basis of competition
 
@@ -273,31 +369,38 @@ The platform must provide integrated value that competitors cannot easily replic
 - Delivery speed
 - Trust
 - Brand reputation
+- Expert credibility
 - Digital experience
-- Community engagement
+- Personalization
 - Content quality
+- Community engagement
 
 ### Innovation intensity
 
-High and increasing due to:
+Innovation intensity is high and increasing due to:
 
-- AI recommendation systems
+- AI-based product recommendations
+- Personalized skincare routines
 - Social commerce
-- Personalized wellness platforms
-- Influencer-driven purchasing behavior
+- Influencer-driven purchasing
+- Digital consultations
+- Subscription models
+- Loyalty ecosystems
 
 ### Force rating: High
 
 ### Strategic implication
 
-Competition increasingly occurs between ecosystems rather than standalone pharmacies or stores.
+Competition increasingly occurs between ecosystems rather than standalone pharmacies or beauty stores.
 
 The winning platforms will combine:
 
 - Healthcare credibility
-- Community engagement
-- Digital personalization
+- Beauty and wellness content
+- Influencer trust
+- Personalized recommendations
 - Seamless commerce
+- Community engagement
 
 ---
 
@@ -305,12 +408,13 @@ The winning platforms will combine:
 
 | Stage | Main activities | Main actors | Profit concentration | Digital pressure points |
 |------|----------------|-------------|----------------------|-------------------------|
-| Product sourcing | Pharmaceutical procurement, skincare brand partnerships | Pharmacies, distributors, global brands | Medium | Supplier integration, inventory systems |
-| Platform operations | App management, personalization, recommendation engines | Digital platform operators | High | AI systems, analytics, UX |
-| Healthcare expertise | Doctor consultations, skincare guidance | Dermatologists, clinics, influencers | High | Digital consultations, creator economy |
-| Marketing & community | Content creation, social engagement, influencer marketing | Influencers, creators, platform teams | Very High | Social media algorithms, creator dependence |
-| Fulfillment & delivery | Order preparation and logistics | Pharmacies, couriers, aggregators | Medium | Last-mile delivery optimization |
-| Customer relationship | Loyalty systems, CRM, subscriptions | Platform ecosystem | Very High | Data ownership and personalization |
+| Product sourcing | Skincare, supplements, vitamins, wellness products, brand partnerships | Pharmacies, distributors, beauty brands, supplement brands | Medium | Supplier integration, product authenticity, online assortment |
+| Platform operations | App management, user accounts, personalization, recommendation engines | Digital platform operators | High | AI systems, analytics, UX, data ownership |
+| Expert guidance | Skincare advice, wellness education, preventive health content | Dermatologists, cosmetologists, nutritionists, wellness experts | High | Digital consultations, expert content, trust-building |
+| Creator ecosystem | Influencer content, product education, social engagement | Skincare influencers, beauty bloggers, wellness creators | Very High | Social media algorithms, creator dependence |
+| Marketing & community | Campaigns, loyalty, challenges, reviews, user engagement | Platform team, influencers, doctors, users | Very High | CRM, community features, targeted content |
+| Fulfillment & delivery | Order preparation, packaging, delivery | Pharmacies, warehouses, couriers, delivery partners | Medium | Last-mile delivery, stock availability |
+| Customer relationship | Loyalty, subscriptions, personalized recommendations, user data | Platform ecosystem | Very High | Data ownership, personalization, retention |
 
 ---
 
@@ -318,22 +422,38 @@ The winning platforms will combine:
 
 ### Most vulnerable stage
 
-Product distribution and logistics are vulnerable because cross-border platforms compete aggressively on price and assortment.
+Basic product distribution is vulnerable because many competitors can sell similar skincare, beauty, vitamin, and supplement products online.
+
+If the platform only sells products, it risks competing mostly on price and delivery.
 
 ### Most defensible stage
 
-Trust-based healthcare guidance and personalized recommendations remain the most defensible areas because they rely on local credibility and human expertise.
+The most defensible stage is trust-based guidance and personalized discovery.
+
+This includes:
+
+- Expert recommendations
+- Doctor-led education
+- Influencer credibility
+- Personalized skincare routines
+- Product matching
+- Community trust
+
+These elements are harder to copy than basic product sales.
 
 ### Platform opportunity
 
-A digital platform can insert itself between:
+The platform should position itself not as an online pharmacy, but as a trusted wellness and beauty ecosystem combining:
 
-- Product discovery
-- Expert recommendation
-- Community engagement
-- Purchase decision
+- Dermatologists
+- Skincare experts
+- Wellness professionals
+- Influencers
+- Educational content
+- Personalized recommendations
+- Supplements and skincare commerce
 
-This allows the platform to own the customer relationship rather than simply the transaction.
+This creates differentiation from traditional pharmacy applications that focus mainly on medicine transactions.
 
 ---
 
@@ -341,29 +461,33 @@ This allows the platform to own the customer relationship rather than simply the
 
 ## Core customer job
 
-Consumers want trusted, convenient, and personalized guidance for their health and skincare needs while being able to purchase recommended products easily and confidently.
+Consumers want trusted, personalized, and convenient guidance for skincare, beauty, wellness, and preventive health while being able to discover and purchase suitable products confidently.
 
 ---
 
 ## Functional needs
 
-- Reliable product recommendations
+- Reliable skincare and wellness recommendations
 - Easy product discovery
-- Convenient ordering and delivery
 - Access to trusted experts
 - Personalized skincare routines
-- Educational content
+- Clear explanation of product ingredients
+- Convenient ordering and delivery
 - Product authenticity
+- Comparison between products
+- Access to vitamins, supplements, and preventive health products
 
 ---
 
 ## Emotional and social needs
 
 - Feeling confident about appearance
-- Trust in recommendations
-- Reduced anxiety about skincare decisions
+- Trusting the products they use
+- Reducing confusion about skincare choices
+- Feeling cared for and guided
 - Belonging to a wellness-oriented community
 - Social validation from beauty and self-care culture
+- Confidence that recommendations are expert-backed, not random advertising
 
 ---
 
@@ -374,15 +498,20 @@ Consumers want trusted, convenient, and personalized guidance for their health a
 - Traditional pharmacies
 - Beauty retailers
 - Dermatology clinics
+- Cosmetologists
 - Pharmacy mobile applications
+- Specialized skincare e-commerce stores
 
 ### Indirect alternatives
 
 - TikTok skincare content
 - Instagram influencers
-- Reddit skincare communities
-- International marketplaces
 - YouTube dermatologists
+- Reddit skincare communities
+- Amazon
+- eBay
+- International skincare websites
+- Friends and peer recommendations
 
 ---
 
@@ -394,11 +523,15 @@ The real competition is for:
 
 - Attention
 - Trust
-- Community
 - Recommendation authority
+- Community
 - Customer data
+- Product discovery
+- Long-term customer relationship
 
 Consumers increasingly choose ecosystems rather than individual stores.
+
+A platform that combines trusted Georgian experts, influencers, personalized recommendations, and product access can occupy a stronger position than a simple online pharmacy or beauty shop.
 
 ---
 
@@ -406,15 +539,15 @@ Consumers increasingly choose ecosystems rather than individual stores.
 
 ## Ecosystem actors
 
-The Georgian digital health and beauty ecosystem includes several interconnected layers:
+The Georgian digital beauty, wellness, and preventive health ecosystem includes several interconnected layers:
 
-- **Healthcare layer** – doctors, dermatologists, clinics, laboratories
-- **Product layer** – pharmaceutical companies, skincare brands, cosmetics distributors
-- **Retail layer** – pharmacies and beauty retailers
-- **Digital platform layer** – apps, marketplaces, booking systems, loyalty ecosystems
-- **Creator layer** – influencers, skincare educators, content creators
-- **Logistics layer** – couriers, delivery aggregators
-- **Cross-border layer** – Temu, Trendyol, Amazon, AliExpress
+- **Expert layer** – dermatologists, cosmetologists, nutritionists, wellness professionals, clinics
+- **Product layer** – skincare brands, supplement brands, vitamin brands, cosmetics distributors, wellness product suppliers
+- **Retail layer** – PSP, Aversi, GPC/Pharmadepot, beauty retailers
+- **Digital platform layer** – apps, marketplaces, booking systems, loyalty ecosystems, recommendation platforms
+- **Creator layer** – influencers, skincare educators, beauty bloggers, wellness content creators
+- **Logistics layer** – pharmacies, warehouses, couriers, delivery aggregators
+- **Specialized e-commerce layer** – Veli.Store, BetterSkinShop, Amazon, eBay, international skincare and wellness platforms
 
 ---
 
@@ -423,9 +556,11 @@ The Georgian digital health and beauty ecosystem includes several interconnected
 Consumer attention and spending increasingly flow through digital ecosystems:
 
 - Social media discovery
-- Expert recommendations
-- Platform-based purchasing
-- Pharmacy delivery services
+- Influencer recommendations
+- Expert educational content
+- Personalized platform recommendations
+- Online product purchasing
+- Pharmacy and courier delivery
 - Cross-border e-commerce
 
 The platforms controlling discovery and trust increasingly capture the highest-value customer relationships.
@@ -435,40 +570,49 @@ The platforms controlling discovery and trust increasingly capture the highest-v
 ## Digital pressure points
 
 - Influencers increasingly control product discovery
-- Cross-border marketplaces increase price competition
+- Specialized skincare platforms increase assortment expectations
+- Global platforms increase price and variety competition
 - Pharmacies risk becoming fulfillment-only operators
 - Customer attention shifts toward social platforms
-- Younger consumers expect personalization and digital convenience
+- Younger consumers expect personalization and convenience
+- Trust becomes more important because consumers are overwhelmed by too many product choices
 
 ---
 
 # Overall Conclusion
 
-The Georgian pharmacy and beauty market is evolving from a traditional retail model into a digital wellness ecosystem driven by trust, personalization, and platform-based engagement.
+The Georgian beauty, wellness, and preventive health market is evolving from a traditional pharmacy retail model into a digital lifestyle ecosystem driven by trust, personalization, education, and community.
 
-Porter’s Five Forces reveal high rivalry, strong buyer power, and increasing substitution pressure from global digital platforms and influencer ecosystems. Value chain analysis shows that the highest-value activities are shifting toward customer relationships, expert guidance, community engagement, and digital personalization.
+Porter’s Five Forces reveal high rivalry, strong buyer power, and increasing substitution pressure from specialized e-commerce platforms, global marketplaces, clinics, and influencer ecosystems.
+
+Value chain analysis shows that the highest-value activities are shifting away from simple product distribution and toward customer relationships, expert guidance, community engagement, content, and digital personalization.
 
 The greatest strategic opportunity lies in building a platform that integrates:
 
 - Trusted Georgian doctors
+- Dermatologists and cosmetologists
 - Skincare influencers
+- Wellness experts
 - Educational content
 - Personalized recommendations
-- Pharmacy commerce
+- Vitamins and supplements
+- Skincare and beauty commerce
 - Digital community
 
-Companies that successfully combine healthcare credibility with digital ecosystem capabilities will be best positioned to lead Georgia’s next generation of health and beauty commerce.
+The platform should not compete as another online pharmacy selling regular medicines. Instead, it should become a trusted beauty, wellness, and preventive health ecosystem.
+
+Companies that successfully combine healthcare credibility with digital platform capabilities will be best positioned to lead Georgia’s next generation of beauty and wellness commerce.
 
 ---
 
-## Digital Health & Beauty Platform Experience Map
+## Digital Beauty & Wellness Platform Experience Map
 
 X-axis: **Price Accessibility** (Mass Market → Premium)  
 Y-axis: **Trust & Personalization** (Transactional → Expert-Led Ecosystem)
 
 ```mermaid
 quadrantChart
-    title Georgian Digital Health & Beauty Ecosystem Map
+    title Georgian Digital Beauty & Wellness Ecosystem Map
     x-axis Mass Market --> Premium
     y-axis Transactional --> Expert-Led Ecosystem
 
@@ -477,15 +621,16 @@ quadrantChart
     quadrant-3 Low-Cost Transactional
     quadrant-4 Premium Self-Service
 
-    Temu: [0.10, 0.10]
-    AliExpress: [0.12, 0.10]
-    Trendyol: [0.25, 0.20]
+    Amazon: [0.35, 0.30]
+    eBay: [0.25, 0.20]
+    Veli.Store: [0.45, 0.45]
+    BetterSkinShop: [0.70, 0.65]
 
-    Traditional Pharmacy: [0.40, 0.35]
+    Traditional Pharmacy Apps: [0.40, 0.35]
     Aversi: [0.50, 0.45]
-    GPC: [0.60, 0.55]
+    GPC/Pharmadepot: [0.60, 0.55]
 
-    PSP Platform Concept: [0.78, 0.88]
+    PSP Wellness Platform Concept: [0.78, 0.88]
 
     Dermatology Clinics: [0.82, 0.90]
     Luxury Beauty Retailers: [0.85, 0.75]
