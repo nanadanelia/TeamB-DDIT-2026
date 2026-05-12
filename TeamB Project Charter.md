@@ -146,6 +146,8 @@ Position the platform to compete for fast-growing categories including:
 - supplements
 - vitamins
 - preventive wellness
+- nutrition-focused products
+- gut-health and lifestyle wellness products
 - beauty-focused health products
 - self-care products
 
