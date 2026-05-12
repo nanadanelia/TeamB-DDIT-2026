@@ -2,25 +2,43 @@
 
 ## Core Problem
 
-The Georgian beauty, skincare, and wellness market is gradually shifting toward **digital, content-driven, and ecosystem-based consumption**, where influencers, dermatologists, social media platforms, and specialized e-commerce platforms increasingly shape customer decisions.
+The Georgian beauty, skincare, and wellness market is gradually shifting toward **digital, content-driven, and ecosystem-based consumption**, where online platforms, influencers, social media ecosystems, and specialized beauty e-commerce increasingly shape customer behavior.
 
 Traditional pharmacy chains such as PSP already possess:
 
 - Strong brand recognition
-- Large physical networks
+- Large physical pharmacy networks
 - Existing customer trust
 - Loyalty systems
 - Product distribution capabilities
 
-However, they still largely operate through a **transactional retail model**, while digital beauty and wellness ecosystems increasingly control:
+In addition, many influencers and skincare creators already collaborate with PSP and promote products available through its ecosystem.
 
-- Product discovery
-- Recommendation authority
-- Community engagement
-- Personalized guidance
-- Customer attention
+However, most product discovery, personalized recommendations, skincare education, and digital engagement still occur outside PSP’s own platform environment — primarily through:
 
-As a result, PSP risks losing the **customer interface** to social media platforms, influencers, and specialized wellness ecosystems.
+- Instagram
+- TikTok
+- YouTube
+- Influencer-driven communities
+- Specialized skincare e-commerce platforms
+
+At the same time, new beauty and wellness platforms may emerge that specialize entirely in:
+
+- skincare commerce
+- wellness personalization
+- online beauty ecosystems
+- influencer-led shopping
+- digital-first customer experiences
+
+As online shopping behavior grows, consumers may increasingly prefer platforms that provide:
+
+- broader assortment
+- easier digital discovery
+- personalized recommendations
+- creator-driven trust
+- seamless online purchasing experiences
+
+As a result, PSP risks remaining primarily a transactional retail and fulfillment layer, while customer attention, engagement, recommendation authority, and long-term digital relationships increasingly shift toward external beauty and wellness ecosystems.
 
 ---
 
@@ -38,9 +56,10 @@ Winning in this environment requires:
 
 - becoming a trusted digital wellness ecosystem
 - integrating experts, influencers, and commerce
-- owning customer relationships and attention
+- owning customer engagement and attention
 - creating personalized and educational experiences
-- building long-term digital engagement beyond transactions
+- building long-term digital relationships beyond transactions
+- competing not only on product availability, but also on discovery and trust
 
 ---
 
@@ -52,61 +71,72 @@ Ensure the platform becomes easily discoverable and accessible through the chann
 
 - Instagram
 - TikTok
+- YouTube
 - Influencer ecosystems
 - Wellness and skincare communities
-- Digital search and recommendation environments
+- Search and recommendation environments
 
 This includes:
 
 - stronger social media integration
 - creator partnerships
-- educational content
+- educational beauty and wellness content
 - simplified digital product discovery
+- seamless transition from content to commerce
+
+The objective is to ensure PSP remains highly visible and relevant in digital beauty and wellness journeys.
 
 ---
 
 ### 2. Build a Personalized Wellness Ecosystem
 
-Move beyond transactional pharmacy retail toward ecosystem ownership:
+Move beyond transactional pharmacy retail toward ecosystem ownership.
 
-- Develop a digital platform integrating:
-  - dermatologists
-  - skincare experts
-  - wellness professionals
-  - influencers
-  - educational content
-  - personalized recommendations
+Develop a digital platform integrating:
+
+- dermatologists
+- skincare experts
+- wellness professionals
+- influencers
+- educational content
+- personalized recommendations
+- skincare routines
+- wellness guidance
+- beauty and supplement commerce
 
 The platform should help consumers:
 
 - understand their skincare and wellness needs
 - discover suitable products
+- compare alternatives
 - build routines
 - access trusted guidance
 - confidently purchase products
 
-without relying entirely on external creators or specialized e-commerce platforms.
+The goal is not simply to sell products online, but to become a trusted beauty and wellness ecosystem.
 
 ---
 
-### 3. Increase Customer Relationship Ownership
+### 3. Increase Ownership of Customer Engagement
 
-Reduce dependency on external customer acquisition channels by increasing direct customer engagement and data ownership.
+Increase PSP’s control over long-term customer relationships and engagement.
 
 This includes:
 
 - loyalty ecosystem expansion
 - personalized recommendations
-- user profiles and routines
+- user profiles and skincare routines
 - customer behavior analytics
 - engagement-based retention
 - community-building features
+- expert and influencer interaction
+- educational content ecosystems
 
-The objective is to transform customer interaction from occasional purchases into continuous digital engagement.
+The objective is to transform customer interaction from occasional product purchases into continuous digital engagement.
 
 ---
 
-### 4. Capture Preventive Wellness & Beauty Demand
+### 4. Capture Beauty, Wellness & Preventive Health Demand
 
 Position the platform to compete for fast-growing categories including:
 
@@ -114,18 +144,37 @@ Position the platform to compete for fast-growing categories including:
 - supplements
 - vitamins
 - preventive wellness
-- self-care
 - beauty-focused health products
+- self-care products
 
 Target consumers who increasingly prioritize:
 
+- wellness lifestyles
+- skincare culture
+- preventive health
 - self-care
 - personalization
-- wellness lifestyles
-- expert-backed recommendations
-- preventive health behavior
+- convenience
+- online discovery
+- trusted recommendations
 
-especially among younger urban demographics.
+especially among younger urban consumers.
+
+---
+
+### 5. Prepare for Digital-First Competition
+
+Anticipate the emergence of specialized digital wellness and skincare ecosystems that may compete aggressively for customer attention and online purchasing behavior.
+
+Potential future competitors may include:
+
+- influencer-led beauty marketplaces
+- specialized skincare platforms
+- AI-driven recommendation platforms
+- wellness subscription ecosystems
+- international beauty e-commerce players
+
+PSP must strengthen its digital ecosystem capabilities before consumer behavior becomes structurally locked into external platforms.
 
 ---
 
@@ -134,11 +183,12 @@ especially among younger urban demographics.
 Success is defined as:
 
 - Increased digital engagement and platform usage
-- Growth in wellness and skincare category sales
+- Growth in skincare, wellness, supplement, and beauty category sales
 - Increased repeat interaction with the platform ecosystem
 - Higher customer retention and loyalty participation
-- Growth in expert and influencer-driven product discovery
-- Increased share of purchases influenced directly through platform engagement
+- Increased share of purchases influenced through platform engagement
+- Stronger digital visibility in beauty and wellness journeys
+- Increased transition from content discovery to direct purchase
 
 Within an initial **12–18 month implementation horizon**, the platform should demonstrate measurable progress in digital ecosystem competitiveness and customer relationship ownership.
 
@@ -148,12 +198,23 @@ Within an initial **12–18 month implementation horizon**, the platform should 
 
 The challenge is not whether PSP already has digital presence.
 
-The challenge is whether its current digital model is strong enough to compete against ecosystems that increasingly control:
+The challenge is whether PSP’s current digital capabilities are strong enough to compete in a market where:
+
+- online discovery increasingly influences purchases
+- beauty and wellness ecosystems become more specialized
+- customer expectations shift toward personalization and convenience
+- influencers shape recommendation authority
+- consumers increasingly adopt digital-first shopping behavior
+
+PSP already possesses strong retail infrastructure and brand trust.
+
+However, future competitive advantage will increasingly depend on who controls:
 
 - customer attention
-- trust
 - discovery
+- engagement
 - personalization
 - recommendation authority
+- long-term digital relationships
 
 👉 **Digital presence alone does not create advantage — trusted ecosystem integration does.**
