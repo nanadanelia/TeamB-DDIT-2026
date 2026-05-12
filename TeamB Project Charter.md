@@ -97,6 +97,8 @@ Develop a digital platform integrating:
 - dermatologists
 - skincare experts
 - wellness professionals
+- nutritionists
+- fitness and lifestyle experts
 - influencers
 - educational content
 - personalized recommendations
