@@ -17,15 +17,3 @@ Your roadmap places liquidity support after regulatory and data governance prepa
 What specifically creates enough early market activity and liquidity for users to trust the platform before network effects develop?
 
 ---
-
-## 3. Recommendation Challenge
-
-You recommend the **TBC-backed pathway** because of trust and distribution advantages.
-
-What specific external condition would make the **crypto-native VASP option** strategically preferable instead?
-
----
-
-## Best Challenge to Ask
-
-The strongest challenge is the **ROI / Financial Rigor Challenge**, because their model depends heavily on adoption, liquidity, and trading volume assumptions.
