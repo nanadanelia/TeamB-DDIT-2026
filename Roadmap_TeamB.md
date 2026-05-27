@@ -94,17 +94,3 @@ Horizon 3 remains an option space rather than an immediate full commitment. PSP 
 
 ---
 
-## Quality Check
-
-- Every initiative has all seven required elements.
-- H1 initiatives are deployable within 6 months with current PSP capabilities.
-- Every H2 initiative has at least one named H1 dependency.
-- Change management appears as a named initiative with a budget estimate.
-- Data governance appears in months 1 to 3 before AI deployment initiatives.
-- Every initiative has a named owner function.
-- The success metric for each initiative is measurable within the initiative timeline.
-- H3 initiatives are treated as strategic options, not immediate spending commitments.
-
-## Deliverable
-
-Save as: `roadmap_draft_v1.md` in the team folder.
