@@ -1,101 +1,84 @@
-# Roadmap Draft Template
+# Roadmap Draft v1 — PSP Beauty & Wellness Ecosystem Platform
 
 ## Purpose
 
-Build the 18-month transformation roadmap for your client. This template becomes Section 7 of the final project report. Every initiative requires all seven elements. Missing one element makes the roadmap undefendable.
+This roadmap defines the 18-month transformation plan for launching and scaling the proposed PSP Beauty & Wellness Ecosystem Platform.
 
-## Instructions
+The roadmap is structured around the Three Horizons logic:
 
-Complete the initiative table below. Then complete the dependency logic and the funding narrative.
+- **Horizon 1:** Build the foundation and launch MVP
+- **Horizon 2:** Expand personalization, partnerships, and monetization
+- **Horizon 3:** Prepare long-term ecosystem leadership options after the first 18 months
 
 ---
 
-## Initiative table
+## Initiative Table
 
 | # | Initiative name | Horizon | Timeline (months) | Owner function | Budget estimate | Dependency | Success metric |
 |---|---|---|---|---|---|---|---|
-| 01 | | H1 | | | | None | |
-| 02 | | H1 | | | | 01 | |
-| 03 | | H1 | | | | None | |
-| 04 | | H2 | | | | 01, 02 | |
-| 05 | | H2 | | | | 03 | |
-| 06 | | H2 | | | | 04 | |
-| 07 | | H2 | | | | 05 | |
-| 08 | | H3 | | | | 06, 07 | |
-| 09 | | H3 | | | | 08 | |
-| 10 | | H3 | | | | 08 | |
-
-Add or remove rows as needed. Target 8 to 15 initiatives total.
-
----
-
-## Horizon definitions
-
-Horizon 1: months 1 to 6. Deployable with current capabilities. High readiness. Near-term ROI visible within 12 months.
-
-Horizon 2: months 7 to 18. Requires investment before value is visible. Foundational infrastructure and capability building. ROI visible in years 2 to 3.
-
-Horizon 3: post-18-month option space. Activates after H2 conditions are met. Uncertain but high-potential upside. Requires strategic commitment, not full capital deployment.
+| 01 | Data governance and customer data readiness | H1 | Months 1–3 | IT / Data / CRM | $100K or less | None | Customer profile, purchase history, loyalty, and consent data requirements defined and approved |
+| 02 | MVP platform and ecosystem launch | H1 | Months 1–4 | Digital Product / IT | $100K or less | 01 | MVP platform launched with skincare profile, advisor content, recommendation flow, and PSP product integration |
+| 03 | Change management programme | H1 | Months 1–18 | HR / Transformation Office | 20–30% of total transformation cost | None | Internal teams trained; adoption responsibilities assigned; monthly transformation review process active |
+| 04 | Dermatologist and nutritionist partnership activation | H1 | Months 2–6 | Marketing / Partnerships | $100K or less | None | At least 1 dermatologist and 1 nutritionist onboarded with annual content and advisory plan |
+| 05 | Content production and skincare education engine | H1 | Months 2–6 | Marketing / Content Team | $100K or less | 04 | Monthly skincare/wellness content calendar launched; minimum 8 expert-led content pieces published |
+| 06 | Loyalty and engagement incentive pilot | H1 | Months 3–6 | CRM / Loyalty Team | $100K or less | 01, 02 | Loyalty campaign launched; engagement and repeat usage tracked through PSP loyalty system |
+| 07 | AI recommendation engine integration | H2 | Months 7–10 | IT / Data / Digital Product | $100K or less | 01, 02 | Personalized product recommendations active for skincare and wellness users |
+| 08 | Online skincare advisor appointment service | H2 | Months 7–12 | Digital Product / Partnerships | $100K or less | 02, 04 | Customers can book online skincare advisor sessions through the platform |
+| 09 | Advanced personalization and customer segmentation | H2 | Months 9–14 | CRM / Data / Marketing | $100K or less | 01, 06, 07 | Customer segments created based on skincare type, purchase history, and engagement behavior |
+| 10 | Sponsored brand and partner campaign model | H2 | Months 10–16 | Marketing / Commercial Partnerships | $100K or less | 05, 07, 09 | First sponsored skincare/wellness brand campaign launched and measured |
+| 11 | Ecosystem performance dashboard | H2 | Months 12–18 | Data / Finance / Digital Product | $100K or less | 06, 07, 09 | Dashboard tracks adoption, engagement, repeat purchase, recommendation conversion, and ROI indicators |
+| 12 | AI skin-analysis expansion option | H3 | Post-18 months | Digital Product / IT / Medical Partnerships | $500K | 07, 09, 11 | Board decision prepared based on customer adoption, data readiness, and recommendation performance |
+| 13 | Premium wellness ecosystem services | H3 | Post-18 months | Commercial / Strategy | $500K | 08, 10, 11 | Business case prepared for paid advisor packages, premium content, or subscription services |
+| 14 | Broader preventive health ecosystem expansion | H3 | Post-18 months | Strategy / Medical Partnerships | $1M | 11, 12, 13 | Expansion roadmap prepared for vitamins, preventive health, chronic care support, and wellness journeys |
 
 ---
 
-## Budget order of magnitude guide
+## Dependency Logic
 
-Use these labels consistently in the budget column.
-
-- $100K or less: small initiative, single team, weeks of effort
-- $500K: medium initiative, cross-functional team, months of effort
-- $1M: large initiative, programme management required, 6 to 12 months
-- $5M or more: transformation-scale investment, board approval required
+Initiatives 01 through 06 form the Horizon 1 foundation. **Data governance and customer data readiness** is the critical prerequisite for all later personalization initiatives because PSP cannot responsibly deploy AI recommendations, customer segmentation, or personalized loyalty campaigns without clean customer data, consent logic, and defined data ownership. The MVP platform, expert partnerships, content production, and loyalty pilot create the first layer of customer engagement. These H1 initiatives then enable Horizon 2 deployment, where PSP can integrate AI recommendations, online skincare advisor appointments, advanced personalization, sponsored campaigns, and performance dashboards. Horizon 3 initiatives, such as AI skin-analysis expansion and premium wellness services, should only be activated after H2 proves sufficient adoption, engagement, and recommendation-driven commercial impact.
 
 ---
 
-## Dependency logic
+## Funding Narrative
 
-Describe the sequencing logic in prose. One paragraph.
+### H1 ROI Source
 
-Template: "Initiatives 01 through [N] form the H1 foundation. [Initiative name] is the critical prerequisite for all H2 deployment because [reason]. The H2 infrastructure funded by H1 ROI then enables the H3 experiments in [initiative names]."
+Horizon 1 does not rely on immediate direct revenue. Its main financial contribution comes from early customer engagement, loyalty activation, increased skincare/wellness product interaction, and improved digital participation. These early signals help validate whether the ecosystem can influence repeat purchasing and customer retention.
 
-Your dependency logic:
+### H2 Investment
 
----
+Horizon 2 requires additional investment in AI recommendation systems, customer segmentation, advisor appointments, and commercial partner campaigns. This investment should be approved if H1 shows measurable engagement, active platform usage, and early evidence of recommendation-driven product discovery.
 
-## Funding narrative
+### H3 Option
 
-How does the portfolio fund itself?
-
-- H1 ROI source: which H1 initiatives generate the cash flow that funds H2?
-- H2 investment: what is the capital requirement for H2 and how is it approved?
-- H3 option: what is the trigger condition that moves H3 from option to commitment?
+Horizon 3 remains an option space rather than an immediate full commitment. PSP should move H3 initiatives from option to commitment only if the platform reaches agreed adoption thresholds, recommendation conversion improves, creator/advisor participation remains active, and the ecosystem demonstrates measurable contribution to retention or skincare/wellness sales growth.
 
 ---
 
-## Change management initiative
+## Change Management Initiative
 
-Change management must appear as a named initiative in the roadmap with a budget line.
-
-| Element | Your entry |
+| Element | Entry |
 |---|---|
 | Initiative name | Change management programme |
 | Horizon | H1 |
-| Timeline | Months 1 to 18 (ongoing) |
-| Owner function | |
-| Budget estimate | 20 to 30% of total transformation cost |
+| Timeline | Months 1–18 |
+| Owner function | HR / Transformation Office |
+| Budget estimate | 20–30% of total transformation cost |
 | Dependency | None: begins before any AI deployment |
-| Success metric | |
+| Success metric | Internal teams trained; operating responsibilities assigned; monthly governance meetings active; adoption barriers tracked and resolved |
 
 ---
 
-## Quality check
+## Quality Check
 
-Before finalising:
 - Every initiative has all seven required elements.
-- H1 initiatives are deployable within 6 months with current capabilities.
+- H1 initiatives are deployable within 6 months with current PSP capabilities.
 - Every H2 initiative has at least one named H1 dependency.
 - Change management appears as a named initiative with a budget estimate.
-- Data governance appears in months 1 to 6 before any AI deployment initiative.
+- Data governance appears in months 1 to 3 before AI deployment initiatives.
 - Every initiative has a named owner function.
 - The success metric for each initiative is measurable within the initiative timeline.
 
 ## Deliverable
-Save as: `roadmap_draft_v1.md` in your team folder.
+
+Save as: `roadmap_draft_v1.md` in the team folder.
