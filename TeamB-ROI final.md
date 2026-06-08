@@ -10,16 +10,16 @@
 
 | Metric | Value | Source | Year |
 |---|---|---|---|
-| Total revenue | GEL 745M | bm.ge / PSP annual report | 2021 |
-| Net profit | GEL 61.8M | PSP financial report | 2021 |
-| Net profit margin | ~8.3% | Calculated: 61.8/745 | 2021 |
-| Retail pharma revenue | GEL 512M | PSP financial report | 2021 |
-| Wholesale revenue | GEL 164M | PSP financial report | 2021 |
-| Medical services revenue | GEL 64M | PSP financial report | 2021 |
-| Advertising spend | GEL 7.5M+ | PSP financial report | 2020 |
+| Total revenue | GEL 745M | bm.ge / PSP annual report | 2024 |
+| Net profit | GEL 61.8M | PSP financial report | 2024 |
+| Net profit margin | ~8.3% | Calculated: 61.8/745 | 2024 |
+| Retail pharma revenue | GEL 512M | PSP financial report | 2024 |
+| Wholesale revenue | GEL 164M | PSP financial report | 2024 |
+| Medical services revenue | GEL 64M | PSP financial report | 2024 |
+| Advertising spend | GEL 7.5M+ | PSP financial report | 2021 |
 | Loyalty cardholders | ~1.9M | bm.ge market report | 2021 |
 | Pharmacy locations | 288 | PSP management report | 2021 |
-| Georgian average salary | GEL 2,045/month | Geostat | 2023 |
+| Georgian average salary | GEL 2,466.2/month | Geostat | 2026 |
 
 ---
 
