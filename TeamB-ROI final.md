@@ -18,7 +18,7 @@
 | Medical services revenue | GEL 64M | PSP financial report | 2024 |
 | Advertising spend | GEL 7.5M+ | PSP financial report | 2021 |
 | Loyalty cardholders | ~1.9M | bm.ge market report | 2021 |
-| Pharmacy locations | 288 | PSP management report | 2021 |
+| Pharmacy locations | 250+ | PSP management report | 2026 |
 | Georgian average salary | GEL 2,466.2/month | Geostat | 2026 |
 
 ---
