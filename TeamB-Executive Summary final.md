@@ -14,7 +14,7 @@ Georgian pharmacy competition has converged. PSP, GPC, Aversi, and Pharmadepot o
 
 **Conclusion 2: The financial case is robust across all three scenarios — including the downside.**
 
-Total 5-year cost of ownership is GEL 3.37M, comprising GEL 506K one-time implementation and GEL 572K annual operating costs. Against this, the ecosystem generates GEL 35.25M in incremental revenue over 5 years in the base case, built bottom-up from PSP's verified 1.9 million loyalty cardholders. The base-case payback period is approximately 16 months. The 5-year NPV at a 10% discount rate is GEL 21.8M. Even in the downside scenario — where ecosystem adoption reaches only 30% of projections — the 5-year NPV remains positive at GEL 5.8M and payback is achieved by Year 3. The investment is financially viable in all three scenarios. The risk is timing, not loss.
+Total 5-year cost of ownership is GEL 3.37M, comprising GEL 506K one-time implementation and GEL 592,9K annual operating costs. Against this, the ecosystem generates GEL 35.25M in incremental revenue over 5 years in the base case, built bottom-up from PSP's verified 1.9 million loyalty cardholders. The base-case payback period is approximately 16 months. The 5-year NPV at a 10% discount rate is GEL 21.8M. Even in the downside scenario — where ecosystem adoption reaches only 30% of projections — the 5-year NPV remains positive at GEL 5.8M and payback is achieved by Year 3. The investment is financially viable in all three scenarios. The risk is timing, not loss.
 
 **Conclusion 3: Data governance is the single most critical dependency and must begin in Month 1.**
 
